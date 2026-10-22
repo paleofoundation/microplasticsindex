@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "wang-2023-polystyrene-containers",
+    "title": "Quantitative analysis of polystyrene microplastic and styrene monomer released from plastic food containers",
+    "authors": "Jiae Wang, Jieun Lee, Eilhann E. Kwon, Sanghyun Jeong",
+    "journal": "Heliyon",
+    "year": 2023,
+    "doi": "10.1016/j.heliyon.2023.e15787",
+    "url": "https://doi.org/10.1016/j.heliyon.2023.e15787",
+    "type": "Research article",
+    "sha256": "88679f8d72dd3233e68230ed2c278da890a4ea6dd38d1b9189fe4c2afab7d635",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "A laboratory experiment measured polystyrene particles released from an instant-noodle container under controlled pH, temperature, and contact-time conditions.",
+    "scope": "Direct release experiment on PS instant-noodle container",
+    "findings": "<p>A laboratory experiment measured polystyrene particles released from an instant-noodle container under controlled pH, temperature, and contact-time conditions.</p><p class=\"hmi-table-hint\">Scroll the table horizontally to see source locations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Reported measurements\" tabindex=\"0\"><table><thead><tr><th>Test condition</th><th>Reported result</th><th>Particle size context</th><th>Source location</th></tr></thead><tbody><tr><td>200 mL pH 9 aqueous solution; maintained at 100 °C for 6 h</td><td>{{claim:wang-2023-polystyrene-containers-ps-36}}</td><td>Reported comparison bins: 10-100, 100-200, 200-300, &gt;300 µm; predominantly 10-100 µm</td><td>PDF p. 3 §2.2; p. 4 §2.3.2; p. 6 Figure 3(a); p. 7 §3.1</td></tr></tbody></table></div>",
+    "methods": "Microscopy with FTIR chemical mapping identified particles on the filter. Styrene measured by GC-MS is a separate chemical result. Procedure blanks were reported to contain no microplastics.",
+    "fitness": "Supports material-specific release under the stated laboratory conditions. It does not establish a release rate for reusable household tubs or a human health effect.",
+    "limitations": "One commercial container type, not generic reusable tubs. pH 9 at 100 °C for 6 h is an extreme experiment. Figure 3(c) at 8 h exceeds the 36 at 6 h; 36 must not be described as the experiment-wide maximum. Supplementary size-distribution figure not supplied. 0.2 µm filtration pore is not a validated submicron detection floor. No estimate of ingested dose or human health effect.",
+    "provenance": {
+      "archive": "mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/88679f8d72dd3233.pdf",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-food-packaging-plastic-tubs",
+          "filename": "2023_Wang_quantitative-analysis-of-polystyrene-microplastic-and.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wang-2024-ldpe-food-wrap",
+    "title": "Rapid Generation of Microplastics and Plastic-Derived Dissolved Organic Matter from Food Packaging Films under Simulated Aging Conditions",
+    "authors": "Liuwei Wang, Jing Gao, Wei-Min Wu, Jian Luo, Michael S. Bank, Albert A. Koelmans, John J. Boland, Deyi Hou",
+    "journal": "Environmental science & technology",
+    "year": 2024,
+    "doi": "10.1021/acs.est.4c05504",
+    "url": "https://doi.org/10.1021/acs.est.4c05504",
+    "type": "Research article",
+    "sha256": "9f492fb5cd2b7d5432d320eff98802ca31690d4ce232b926d3e4f97542359103",
+    "rights": "Repository access under Dutch Copyright Act article 25fa; all rights remain with rights holder. Cite DOI and paraphrase; do not republish PDF or figures.",
+    "description": "A study of a commercial low-density polyethylene food wrap measured particle generation during heating, refrigeration, freezing, and freeze-thaw experiments in water.",
+    "scope": "Direct release experiment on one commercially purchased LDPE wrap",
+    "findings": "<p>A study of a commercial low-density polyethylene food wrap measured particle generation during heating, refrigeration, freezing, and freeze-thaw experiments in water.</p><p class=\"hmi-table-hint\">Scroll the table horizontally to see source locations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Reported measurements\" tabindex=\"0\"><table><thead><tr><th>Test condition</th><th>Reported result</th><th>Particle size context</th><th>Source location</th></tr></thead><tbody><tr><td>Microwave 119 W, 2450 MHz; final water temperature 48 °C; 2 min</td><td>{{claim:wang-2024-ldpe-food-wrap-mw2}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Microwave 119 W, 2450 MHz; final water temperature 96 °C; 10 min</td><td>{{claim:wang-2024-ldpe-food-wrap-mw10}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Refrigerator 4 °C; 7 days</td><td>{{claim:wang-2024-ldpe-food-wrap-rf7}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Refrigerator 4 °C; 30 days</td><td>{{claim:wang-2024-ldpe-food-wrap-rf30}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Freezer -20 °C; 30 days</td><td>{{claim:wang-2024-ldpe-food-wrap-fz30}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Freezer -20 °C; 60 days</td><td>{{claim:wang-2024-ldpe-food-wrap-fz60}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Each cycle: -20 °C for 24 h, then 25 °C for 24 h; 2 cycles</td><td>{{claim:wang-2024-ldpe-food-wrap-ft2}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>Each cycle: -20 °C for 24 h, then 25 °C for 24 h; 4 cycles</td><td>{{claim:wang-2024-ldpe-food-wrap-ft4}}</td><td>10-5000 µm (Feret diameter)</td><td>PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1</td></tr><tr><td>30 min at tested temperatures 48, 69, 85, 91, 96, 100 °C</td><td>{{claim:wang-2024-ldpe-food-wrap-ht}}</td><td>10-5000 µm</td><td>PDF p. 4 (printed C) §2.2; p. 7 (printed F) §3.1</td></tr><tr><td>Steaming over boiling water; 5 min to 3 h</td><td>{{claim:wang-2024-ldpe-food-wrap-st}}</td><td>10-5000 µm</td><td>PDF p. 5 (printed D) §2.2; p. 7 (printed F) §3.1</td></tr></tbody></table></div>",
+    "methods": "Nile Red staining, laser confocal microscopy, and image analysis counted particles. Film chemistry was characterized separately; individual counted particles should not be described as Raman-confirmed. Detailed quality-control results are deferred to supporting information not available in this reviewed packet.",
+    "fitness": "Supports reported counts for this film and these tests. Counts per film area cannot be presented as particles per serving or as results for all storage wraps.",
+    "limitations": "Supporting information was not available for this review. Do not call every fluorescent counted particle Raman-confirmed. Source is one LDPE wrap, not all wraps or zip bags. Numbers normalize to film area, not food volume, package, or serving. The refrigerator values do not increase monotonically with duration. No measured human dose or clinical outcome.",
+    "provenance": {
+      "archive": "mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/9f492fb5cd2b7d54.pdf",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "manifest_hash_matches": true
+    }
+  },
+  {
+    "id": "ajaj-2021-polystyrene-packaging",
+    "title": "An Insight into the Growing Concerns of Styrene Monomer and Poly(Styrene) Fragment Migration into Food and Drink Simulants from Poly(Styrene) Packaging",
+    "authors": "Asmaa Ajaj, Shayma J’Bari, Anthonia Ononogbo, Federico Buonocore, Joseph C. Bear, Andrew G. Mayes, Huda Morgan",
+    "journal": "Foods (Basel, Switzerland)",
+    "year": 2021,
+    "doi": "10.3390/foods10051136",
+    "url": "https://doi.org/10.3390/foods10051136",
+    "type": "Research article",
+    "sha256": "a2d6cf6bd10e03f26292e8f043f4cd732e7c85b22f1df2379e14a16f481a5503",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "A preliminary study examined polystyrene packaging in food simulants, using fluorescence to screen for particulate material and a separate method to measure styrene monomer.",
+    "scope": "Cut-piece PS packaging migration experiments",
+    "findings": "<p>A preliminary study examined polystyrene packaging in food simulants, using fluorescence to screen for particulate material and a separate method to measure styrene monomer.</p><p class=\"hmi-table-hint\">Scroll the table horizontally to see source locations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Reported measurements\" tabindex=\"0\"><table><thead><tr><th>Tested material</th><th>Test condition</th><th>Reported result</th><th>Particle size context</th><th>Source location</th></tr></thead><tbody><tr><td>EPS takeaway container; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>3% acetic acid; 60 °C; 2 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-eps-box}}</td><td>Table 5 paired size: 52.9 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr><tr><td>EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>50% ethanol; 60 °C; 2 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-eps-tray-60}}</td><td>Table 5 paired size: 17.6 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr><tr><td>EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>50% ethanol; 70 °C; 2 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-eps-tray-70}}</td><td>Table 5 paired size: 6.4 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr><tr><td>EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>95% ethanol; 70 °C; 2 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-eps-tray-95}}</td><td>Table 5 paired size: 104 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr><tr><td>XPS disposable plate; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>50% ethanol; 5 °C; 240 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-xps-plate-50}}</td><td>Table 5 paired size: 58.9 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr><tr><td>XPS disposable plate; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant</td><td>95% ethanol; 5 °C; 240 h</td><td>{{claim:ajaj-2021-polystyrene-packaging-xps-plate-95}}</td><td>Table 5 paired size: 11.8 µm; no validated detection window supplied</td><td>PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5</td></tr></tbody></table></div>",
+    "methods": "Nile Red fluorescence screened for particles. The workflow did not individually confirm each particle with FTIR or Raman. The particle table is separate from the HPLC monomer measurements. A cutting control is described, but its supplementary image was not reviewed.",
+    "fitness": "Supports preliminary, method-specific particle observations from the tested packaging. Its counts should not be pooled with chemically confirmed particle counts, and its size examples are not full size distributions.",
+    "limitations": "Cut pieces, not whole containers. Table 5 gives paired size examples and per-cm² piece ranges; it does not establish a sample-wide minimum/maximum size distribution, CI, or dose. No FTIR/Raman confirmation of individual stained particles reported. Filter pore size/validated analytical floor not supplied. High-ethanol simulants are not actual foods. Main article focuses on styrene, whose µg/mL values are not microplastic counts.",
+    "provenance": {
+      "archive": "mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/a2d6cf6bd10e03f2.pdf",
+      "pdf_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "manifest_hash_matches": true
+    }
+  },
+  {
+    "id": "wang-2023-nanoplastic-scenarios",
+    "title": "Simulation and Characterization of Nanoplastic Dissolution under Different Food Consumption Scenarios",
+    "authors": "Ying Wang, Zhongtang Wang, Xin Lu, Hongyan Zhang, Zhenzhen Jia",
+    "journal": "Toxics",
+    "year": 2023,
+    "doi": "10.3390/toxics11070550",
+    "url": "https://doi.org/10.3390/toxics11070550",
+    "type": "Research article",
+    "sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "The authors examined nanoplastic-sized material from a polypropylene takeaway box and composite heat-sealing packaging films under hot-water scenarios.",
+    "scope": "Nanoplastic characterization under packaging scenarios, including PP box and heat-sealing film",
+    "findings": "<p>The authors examined nanoplastic-sized material from a polypropylene takeaway box and composite heat-sealing packaging films under hot-water scenarios.</p><p>The polypropylene box and composite films were characterized separately. No particle count or concentration from this study is included in the library. The heat-sealing films are not consumer zip-top storage bags.</p>",
+    "methods": "Sequential filtration, electron microscopy, surface-enhanced Raman spectroscopy, and laser particle sizing characterized fractions after intensive sample preparation. Water controls were examined. Aggregation and subsequent ultrasound affect interpretation of particle size.",
+    "fitness": "Supports qualitative material characterization under the studied scenarios. It supplies no accepted release concentration for this page and does not represent consumer zip-top bags.",
+    "limitations": "PP box: 500 mL water at 100 °C for 20 min. GCPP/MCPP composite packaging: 121 °C for 20 min. Intensive detergent, acid, base and prolonged rinse pretreatment differs from ordinary consumer handling. Nominal filter fractions do not mean all dispersed objects stay in those size ranges; aggregates measured above range. Figure 5b label 167 versus text 168 for GCPP is inconsistent. No release concentration or count denominator suitable for public count summary. Do not generalize MCPP non-detection as safety or all bags as zip bags.",
+    "provenance": {
+      "archive": "mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/740e6d15368a653d.pdf",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "manifest_hash_matches": true
+    }
+  },
+  {
+    "id": "cella-2022-food-packaging-methods",
+    "title": "Detecting Micro- and Nanoplastics Released from Food Packaging: Challenges and Analytical Strategies",
+    "authors": "Claudia Cella, Rita La Spina, Dora Mehn, Francesco Fumagalli, Giacomo Ceccone, Andrea Valsesia, Douglas Gilliland",
+    "journal": "Polymers",
+    "year": 2022,
+    "doi": "10.3390/polym14061238",
+    "url": "https://doi.org/10.3390/polym14061238",
+    "type": "Research article",
+    "sha256": "729cb4e7c14706bd6d2e0e4ac52baa73d09e230b18bb1a36618489d9a03f77cb",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "Original experiments on polyethylene cooking and ice-cube bags, together with nylon tea bags, illustrate the challenges of identifying and quantifying material released from food packaging.",
+    "scope": "Original experimental article on PE rice cooking bags, ice-cube bags and nylon teabags, not a methods review",
+    "findings": "<p>Original experiments on polyethylene cooking and ice-cube bags, together with nylon tea bags, illustrate the challenges of identifying and quantifying material released from food packaging.</p><p>Commercial PE ice-cube bag: Raman identified PE particles mixed with ultramarine blue pigment and separate pigment particles. Room-temperature bag-contact control showed few visible particles, mainly PE. PDF p. 3 §2.2; pp. 6-7 Figure 1A and discussion.</p><p>Commercial PE rice-cooking bag with rice removed before test: Raman identified PE along with residual rice material. Boiled-water blank showed no PE or rice particles. PE mass by KBr-pellet FTIR was below the method detection limit. PDF p. 3 §2.2; pp. 6-7 Figure 1B and discussion; p. 9 mass quantification discussion.</p><p>For the ice-cube-bag test, bags contained 300 mL ultrapure water and were frozen at -20 °C for 24 h. The ice was manually removed into glass and thawed at room temperature. For the rice-cooking-bag test, the rice was removed before the bag was boiled in 250 mL ultrapure water at 100 °C for 10 min. These conditions belong to the studied bags and do not describe consumer zip-top storage bags. Source: PDF p. 3, section 2.2; pp. 6-7, Figure 1 and discussion.</p>",
+    "methods": "Raman microscopy identified polymer material; electron microscopy and XPS supplied complementary characterization. Calibrated FTIR assessed polymer mass. The study discusses laboratory blanks, unheated controls, and effects of sample concentration and preparation.",
+    "fitness": "Supports qualitative findings for the specified cooking and ice-cube bags and explains measurement limitations. It does not supply a numerical particle-release rate used here, and the studied bags are not household zip-top storage bags.",
+    "limitations": "Particle appearance and number depend on concentration, deposition, drying, cooling and aggregation. Polymer mass cannot be automatically converted to a particle count. Authors explicitly warn simple spotting is insufficient to quantify released particle number. Original sources studied are not zip-top storage bags.  No numerical particle release rate for the bag experiments is used here.",
+    "provenance": {
+      "archive": "mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/729cb4e7c14706bd.pdf",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "manifest_hash_matches": true
+    }
+  },
+  {
+    "id": "fda-microplastics-foods",
+    "title": "Microplastics and Nanoplastics in Foods",
+    "authors": "U.S. Food and Drug Administration",
+    "journal": "FDA",
+    "year": "Accessed October 22, 2026",
+    "url": "https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods",
+    "type": "Agency information",
+    "description": "FDA explains its approach to microplastics in food and the limits of current analytical evidence.",
+    "scope": "United States; agency information",
+    "findings": "<p>FDA states that food-contact materials require authorization for their intended uses and that the agency evaluates migration and toxicology data. It identifies unresolved analytical challenges and does not describe a standardized particle-count method for food.</p>",
+    "methods": "Official agency information, including the Regulatory Information and Scientific Information sections, accessed October 22, 2026. This is regulatory and scientific context, not a laboratory release experiment.",
+    "fitness": "Supports statements about the FDA position described on the linked page.",
+    "limitations": "It is not a product-specific compliance determination and does not set a release rate for a storage material."
+  },
+  {
+    "id": "efsa-microplastics-food",
+    "title": "Microplastics and nanoplastics in food",
+    "authors": "European Food Safety Authority",
+    "journal": "EFSA",
+    "year": "Reviewed October 21, 2026",
+    "url": "https://www.efsa.europa.eu/en/topics/microplastics-and-nanoplastics-food",
+    "type": "Agency information",
+    "description": "EFSA describes its scientific assessment role and remaining uncertainties for microplastics in food.",
+    "scope": "European Union; scientific context",
+    "findings": "<p>EFSA describes evidence that particles can migrate from food-contact materials, alongside substantial data gaps and concerns about overestimation in some studies. Its topic page states that a full food risk assessment has not yet been completed.</p>",
+    "methods": "Official topic page, including Milestones, EFSA’s role, and FAQ, last reviewed October 21, 2026; accessed October 22, 2026.",
+    "fitness": "Supports the stated scientific context and distinguishes EFSA assessment from legal limit-setting.",
+    "limitations": "This topic page is not a legal instrument or a packaging compliance certificate."
+  },
+  {
+    "id": "s-cec1e8fa034e",
+    "title": "Microplastics in Widely Used Polypropylene-Made Food Containers",
+    "authors": "Jun Hu, Xin Xu, Ying Song, Wenqi Liu, Jianqiang Zhu, Hangbiao Jin, Zhu Meng",
+    "journal": "Toxics",
+    "year": 2022,
+    "doi": "10.3390/toxics10120762",
+    "url": "https://doi.org/10.3390/toxics10120762",
+    "type": "Research article",
+    "sha256": "cec1e8fa034e64b85b41270560fb04dff6d7affeca772be380d2b47d8c6529e2",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "A container survey extracted and chemically identified particles after sequential room-temperature and hot-water flushing.",
+    "scope": "Direct evidence on particles extracted from PP takeaway containers under this sequential washing protocol.",
+    "methods": "PP takeaway containers were first flushed with pure water at 25 °C (100 mL, 60 rpm, 20 min, three rounds), then 95 °C (100 mL, 60 rpm, 30 min, three rounds). Combined rinses were filtered at 50 µm. ATR-FTIR was applied to all selected particles; matches above 70% were accepted. Procedure-blank counts were subtracted.",
+    "fitness": "Direct evidence on particles extracted from PP takeaway containers under this sequential washing protocol.",
+    "limitations": "The combined rinse is not a single meal, typical use, or measured ingestion. Non-PP polymers and fibers may include manufacturing/storage contamination. QA text inconsistently mentions 15 control experiments and 10 evaluated controls. Missing supplementary materials were not used.",
+    "findings": "<p>Following sequential room-temperature and hot-water flushing, the paper reported {{claim:s-cec1e8fa034e-container-range}}. This is a range across sampled containers, not a usual-use release rate. ATR-FTIR identified the selected particles, with PP predominant and PE and polyester also present.</p>",
+    "provenance": {
+      "library_folder": "papers-food-packaging-plastic-tubs",
+      "filename": "2022_Hu_microplastics-in-widely-used-polypropylene-made.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-food-packaging-plastic-tubs",
+          "filename": "2022_Hu_microplastics-in-widely-used-polypropylene-made.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-928a947ad149",
+    "title": "Microplastics released from disposable food containers: characterization by micro-FTIR and estimation of dietary exposure",
+    "authors": "Bo Kyung Kim, Jihoon Kim, Jung Bin Lee, Jun Bae Hong, Juno Lee, Pahn-Shick Chang",
+    "journal": "Journal of Food Science and Technology",
+    "year": 2026,
+    "doi": "10.1007/s13197-026-06691-y",
+    "url": "https://doi.org/10.1007/s13197-026-06691-y",
+    "type": "Research article",
+    "sha256": "928a947ad149f485769be694724e35ee8bfda47c6b51e14305575a4c23cc1fc9",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A water-contact experiment compared specific disposable and reusable food containers, retaining sample-level polymer counts.",
+    "scope": "Direct measurements from specified container/water tests, with chemically identified polymers.",
+    "methods": "Containers were filled to capacity with filtered distilled water, closed, gently shaken, and held at room temperature for 30 min. Hot-food containers started with water boiled at 100 °C; other types used 20 °C water. A 20 µm mesh preceded micro-FTIR; connected-component mapping counted particles. Blanks reportedly contained no microplastics.",
+    "fitness": "Direct measurements from specified container/water tests, with chemically identified polymers.",
+    "limitations": "A single water-contact experiment does not characterize repeated household reuse or all tubs. Table 2 includes an unidentifiable Etc. category in some totals; the selected sample 8 has none. The paper hypothesizes cross-contamination; this is not proof of origin. Methods ambiguously call material after filtration the filtrate. Modeled annual intake is not reproduced.",
+    "findings": "<p>For the specified PP soup container, sample 8, Table 2 reports {{claim:s-928a947ad149-soup-container-8}}. Identified particle polymers included PE, PP and PET. Its total does not include the unidentifiable category present in some other sample rows.</p><p>The reusable samples were specific steel-bodied containers and a PP cup. They do not establish performance over repeated washing and reuse of household tubs.</p>",
+    "provenance": {
+      "library_folder": "papers-food-packaging-plastic-tubs",
+      "filename": "2026_Kim_microplastics-released-from-disposable-food-containers.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-food-packaging-plastic-tubs",
+          "filename": "2026_Kim_microplastics-released-from-disposable-food-containers.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-0e7d682e83f6",
+    "title": "Analysis of Microplastics in Takeaway Food Containers in China Using FPA-FTIR Whole Filter Analysis",
+    "authors": "Xuejun Zhou, Jin Wang, Jiefang Ren",
+    "journal": "Molecules",
+    "year": 2022,
+    "doi": "10.3390/molecules27092646",
+    "url": "https://doi.org/10.3390/molecules27092646",
+    "type": "Research article",
+    "sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "rights": "CC BY 4.0 per PDF p. 1",
+    "description": "A whole-filter FTIR imaging workflow examined takeaway-container rinse and soak extracts.",
+    "scope": "Context on polymer identification, cellulose exclusion, and counting definitions.",
+    "methods": "Most containers were rinsed, shaken and soaked; nylon samples were treated in boiling water. Whole-filter FPA-FTIR mapping matched spectra to a library. Glass-beaker controls were processed.",
+    "fitness": "Context on polymer identification, cellulose exclusion, and counting definitions.",
+    "limitations": "The data-analysis section treats identified pixels as particle numbers without a documented connected-component particle reconstruction. Cellulose is inconsistently included in composition denominators. No numerical release count from this study is accepted here. Supplementary data not reviewed.",
+    "findings": "<p>The authors identified several synthetic polymers as well as cellulose in container extracts. Their pixel-based counting definition limits comparison with particle-by-particle counts. The library uses this paper to explain method differences and does not reproduce its abundance estimates.</p>",
+    "provenance": {
+      "library_folder": "papers-food-packaging-plastic-tubs",
+      "filename": "2022_Zhou_analysis-of-microplastics-in-takeaway-food.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-food-packaging-plastic-tubs",
+          "filename": "2022_Zhou_analysis-of-microplastics-in-takeaway-food.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-2f979a7f686b",
+    "title": "SWB-MP1-rev1: Infrared spectroscopy of microplastic particles in drinking water",
+    "authors": "California State Water Resources Control Board and SCCWRP",
+    "journal": "Official document",
+    "year": 2022,
+    "doi": null,
+    "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp1-rev1.pdf",
+    "type": "Official method",
+    "sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A drinking-water laboratory method for counting particles and identifying subsampled materials by infrared spectroscopy.",
+    "scope": "An official analytical procedure within its treated-water scope.",
+    "methods": "Revised May 27, 2022. PDF pp. 2–3 §§1–2: treated drinking water, microscopic counting plus IR identification, size-fraction processing, contamination controls and laboratory-specific reporting limits.",
+    "fitness": "An official analytical procedure within its treated-water scope.",
+    "limitations": "Not a particle health threshold, packaging-release test, or assay for all nanoplastics. Spectroscopy on representative subsamples yields estimated confirmed counts.",
+    "findings": "<p>The procedure separates particle counting from chemical identification and requires blank controls and demonstrated laboratory performance.</p><p>The method states a lowest reliably detected particle size of {{claim:s-2f979a7f686b-lower-size}}. That is a method-scope value, not a safe exposure threshold.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-5a6c89659a69",
+    "title": "SWB-MP2-rev1: Raman spectroscopy of microplastic particles in drinking water",
+    "authors": "California State Water Resources Control Board and SCCWRP",
+    "journal": "Official document",
+    "year": 2022,
+    "doi": null,
+    "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp2-rev1.pdf",
+    "type": "Official method",
+    "sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A drinking-water method using microscopy and Raman spectroscopy.",
+    "scope": "An official laboratory method for treated drinking water.",
+    "methods": "Revised May 27, 2022. PDF pp. 2–3 §§1–2: treated-water scope, filtration/sieving, microscopy, Raman chemical identification and blank/control requirements.",
+    "fitness": "An official laboratory method for treated drinking water.",
+    "limitations": "Its validated particle-size coverage must not be applied to unrelated food, dust, tissue or textile matrices without validation.",
+    "findings": "<p>Raman identification and microscopy provide complementary composition, size and count information; contamination controls remain necessary.</p><p>The method states a lowest reliably detected particle size of {{claim:s-5a6c89659a69-lower-size}}. That is a method-scope value, not a safe exposure threshold.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "CA-SWRCB_2022_SWB-MP2-rev1_Raman-method.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "CA-SWRCB_2022_SWB-MP2-rev1_Raman-method.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-f4ab6cdc2d0b",
+    "title": "California microplastics drinking-water policy handbook, supplied August 9 version",
+    "authors": "California State Water Resources Control Board",
+    "journal": "Official document",
+    "year": 2022,
+    "doi": null,
+    "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2022/mp-hndbk.pdf",
+    "type": "Policy document",
+    "sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "The supplied handbook describes drinking-water testing, reporting and analytical-method development.",
+    "scope": "Historical policy and monitoring context; identify this supplied version explicitly.",
+    "methods": "Cover dated August 9, 2022; introduction and §§4–6 address scope, monitoring, methods and implementation. Current agency index separately lists adoption under Resolution 2022-0032.",
+    "fitness": "Historical policy and monitoring context; identify this supplied version explicitly.",
+    "limitations": "The supplied copy predates the adoption meeting. Do not treat its proposed calendar as verified current implementation or a numerical human safety limit.",
+    "findings": "<p>The handbook concerns a drinking-water monitoring program. Its method and reporting requirements do not establish category-wide food or product particle limits.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "CA-SWRCB_2022_MP-drinking-water-policy-handbook.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "CA-SWRCB_2022_MP-drinking-water-policy-handbook.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-f59f482c1c39",
+    "title": "Commission Delegated Decision (EU) 2024/1441: methodology to measure microplastics in water intended for human consumption",
+    "authors": "European Commission",
+    "journal": "Official document",
+    "year": 2024,
+    "doi": null,
+    "url": "https://eur-lex.europa.eu/eli/dec_del/2024/1441/oj/eng",
+    "type": "Legal instrument",
+    "sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "An EU decision adopts a methodology for measuring microplastics in water intended for human consumption.",
+    "scope": "A harmonized water-measurement methodology, addressed to Member States.",
+    "methods": "Articles 1–2 and Annex §§1–2: filter cascade, microscopy or chemical mapping, vibrational microspectroscopy, defined size/shape/composition reporting.",
+    "fitness": "A harmonized water-measurement methodology, addressed to Member States.",
+    "limitations": "It establishes an analytical methodology, not a health-based concentration ceiling or a general food-packaging-release standard. Applicability to a particular water product requires the parent directive scope.",
+    "findings": "<p>The Annex combines size and shape measurement with polymer identification by vibrational microspectroscopy. Mass-only thermal analysis does not by itself supply particle counts, sizes or shapes.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "EU_2024_Delegated-Decision_2024-1441_MP-drinking-water-method.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "EU_2024_Delegated-Decision_2024-1441_MP-drinking-water-method.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-2f1daf6ca78b",
+    "title": "Commission Regulation (EU) 2023/2055: restriction on synthetic polymer microparticles",
+    "authors": "European Commission",
+    "journal": "Official document",
+    "year": 2023,
+    "doi": null,
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/2055/oj/eng",
+    "type": "Legal instrument",
+    "sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "An EU restriction addresses specified synthetic polymer microparticles as substances or intentionally present in mixtures.",
+    "scope": "Regulatory context for intentionally present microparticles in applicable substances and mixtures, including certain cosmetic uses.",
+    "methods": "Annex XVII entry 78, especially paragraphs 1, 4–6; recitals explain exclusions, derogations, transitions and reporting.",
+    "fitness": "Regulatory context for intentionally present microparticles in applicable substances and mixtures, including certain cosmetic uses.",
+    "limitations": "Do not describe this as a ban on every plastic article or all particles shed from an article. Product-specific exclusions, derogations and transition provisions require separate application.",
+    "findings": "<p>The restriction applies within its substance/mixture definition and conditions, with exclusions, derogations and transition provisions. Measuring fibers released from a wipe or textile does not alone establish a violation.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "EU_2023_Regulation_2023-2055_synthetic-polymer-microparticles-restriction.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "EU_2023_Regulation_2023-2055_synthetic-polymer-microparticles-restriction.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-324980b0826d",
+    "title": "Analytical methods to measure microplastics in drinking water: Review and evaluation of methods",
+    "authors": "European Commission Joint Research Centre",
+    "journal": "Official document",
+    "year": 2024,
+    "doi": "10.2760/109944",
+    "url": "https://doi.org/10.2760/109944",
+    "type": "Technical report",
+    "sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A technical review compares methods and reporting requirements for drinking-water microplastics.",
+    "scope": "Technical evidence for interpreting method selection in drinking water.",
+    "methods": "Technical review of sampling, analytical methods, standardization, particle descriptors and reporting metrics.",
+    "fitness": "Technical evidence for interpreting method selection in drinking water.",
+    "limitations": "A technical report supports policy development; it is not itself a legal limit or a validation of every food or product matrix.",
+    "findings": "<p>The review evaluates analytical approaches alongside sampling, size, polymer and reporting considerations. Method suitability depends on the measurement question and matrix.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "JRC_2024_JRC136859_analytical-methods-MP-drinking-water.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "JRC_2024_JRC136859_analytical-methods-MP-drinking-water.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-b8033a33708a",
+    "title": "Analysing microplastics in drinking water: Practical considerations",
+    "authors": "Dora Mehn, Claudia Cella, Guillaume Bucher, Francesco S. Fumagalli, Hind El Hadri, Douglas Gilliland",
+    "journal": "Official document",
+    "year": 2025,
+    "doi": "10.2760/1240697",
+    "url": "https://doi.org/10.2760/1240697",
+    "type": "Technical report",
+    "sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A practical JRC report explains the adopted EU water methodology and its limitations.",
+    "scope": "Practical method interpretation, including contamination and particle-mapping limitations.",
+    "methods": "Printed pp. 17–31 discuss sampling, sample treatment, recovery/spiking, analysis, blanks, sizing and reporting; pp. 32–33 discuss scope extension and conclusions.",
+    "fitness": "Practical method interpretation, including contamination and particle-mapping limitations.",
+    "limitations": "Demonstration examples and adaptability discussion do not automatically validate the method for another matrix. Technical guidance is distinct from the legal decision.",
+    "findings": "<p>Blank characterization, recovery checks, spectral identification, sizing and clear reporting determine what an analytical result can support.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "JRC_2025_JRC143205_analytical-methodology-MP-drinking-water.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "JRC_2025_JRC143205_analytical-methodology-MP-drinking-water.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-aa0dd4c46340",
+    "title": "Presence of microplastics and nanoplastics in food, with particular focus on seafood",
+    "authors": "EFSA Panel on Contaminants in the Food Chain",
+    "journal": "Official document",
+    "year": 2016,
+    "doi": "10.2903/j.efsa.2016.4501",
+    "url": "https://doi.org/10.2903/j.efsa.2016.4501",
+    "type": "Scientific statement",
+    "sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A dated EFSA scientific statement evaluates food occurrence and evidence gaps, especially seafood.",
+    "scope": "Historical scientific assessment and method-gap context for food, especially seafood.",
+    "methods": "PDF abstract/summary and §4 conclusions: critical review, not a new occurrence survey; methods and toxicological-data limitations are explicit.",
+    "fitness": "Historical scientific assessment and method-gap context for food, especially seafood.",
+    "limitations": "The statement is dated 2016. Its description of legislation at that time is not used as a claim about all current laws. It supplies no category-specific safe particle count.",
+    "findings": "<p>The Panel called for improved, standardized analytical methods, demonstrated quality assurance and better occurrence and toxicity data. This is a scientific assessment, distinct from a legal product limit.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "EFSA_2016_microplastics-nanoplastics-in-food-seafood.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "EFSA_2016_microplastics-nanoplastics-in-food-seafood.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-a3ddbf43f296",
+    "title": "Development and application of a health-based framework for informing regulatory action in relation to exposure of microplastic particles in California drinking water",
+    "authors": "Scott Coffin and colleagues",
+    "journal": "Microplastics and Nanoplastics",
+    "year": 2022,
+    "doi": "10.1186/s43591-022-00030-6",
+    "url": "https://doi.org/10.1186/s43591-022-00030-6",
+    "type": "Research framework",
+    "sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "rights": "Original document retained locally; link and paraphrase only.",
+    "description": "A workshop-based framework appraised mammalian hazard evidence to inform California drinking-water monitoring.",
+    "scope": "Methodological and policy context, not an occurrence survey.",
+    "methods": "PDF pp. 1–2 abstract; tiered critical review of mammalian hazard studies and monitoring framework.",
+    "fitness": "Methodological and policy context, not an occurrence survey.",
+    "limitations": "A conservative screening level used to inform monitoring is not an established human-health threshold. No framework-derived number is presented as an observed product concentration.",
+    "findings": "<p>The authors could not extrapolate a human-health-based threshold from the reviewed evidence. They distinguished a monitoring screening approach from a demonstrated safe exposure level.</p>",
+    "provenance": {
+      "library_folder": "regulatory-method",
+      "filename": "2022_Coffin_development-and-application-of-a-health.pdf",
+      "manifest_hash_matches": true,
+      "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+      "authoritative_library_matches": [
+        {
+          "folder": "regulatory-method",
+          "filename": "2022_Coffin_development-and-application-of-a-health.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-4b43a51e0282",
+    "title": "Microfiber shedding from nonwoven materials including wipes and meltblown nonwovens in air and water environments",
+    "authors": "Soojin Kwon, Marielis C. Zambrano, Richard A. Venditti, Ryen Frazier, Franklin Zambrano, Ronalds W. Gonzalez, Joel J. Pawlak",
+    "journal": "Environmental Science and Pollution Research",
+    "year": 2022,
+    "doi": "10.1007/s11356-022-20053-z",
+    "url": "https://doi.org/10.1007/s11356-022-20053-z",
+    "type": "Research article",
+    "sha256": "4b43a51e028214c84c3c6d3c0cfa14c756bfbe9d639ee2730b58b5727bc9805c",
+    "rights": "Copyright 2022 Springer exclusive license as printed on PDF p. 1. Paraphrase and cite; do not redistribute PDF or figures.",
+    "description": "Laboratory shedding of commercial personal-care, household, industrial, and healthcare wipes, plus pilot-plant nonwovens.",
+    "scope": "Laboratory shedding of commercial personal-care, household, industrial, and healthcare wipes, plus pilot-plant nonwovens.",
+    "findings": "<p>Commercial nonwovens shed fibers under mechanical water and air tests. Results combine natural/regenerated cellulose and synthetic fibers and must not be called confirmed plastic-particle counts.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-4b43a51e0282-p1-mass}}</td><td>Personal-care specimen P1; 16 min metal-ball agitation in 150 mL deionized water at 22 °C; cut, unhemmed specimen</td><td>Gravimetry has no individual-particle size window; fiber analyzer separate</td><td>PDF p. 8 (printed 60591), Table 4; p. 4 test protocol</td></tr><tr><td>{{claim:s-4b43a51e0282-p2-fibers}}</td><td>Personal-care specimen P2; same water-agitation test; FQA count, not plastic-specific spectroscopy</td><td>P2 observed length 0.05-6.15 mm; analyzer measured 0.05-10 mm</td><td>PDF p. 8 (printed 60591), Table 4; p. 5 FQA methods</td></tr></tbody></table></div>",
+    "methods": "Water tests used cut, unhemmed specimens, deionized water, metal-ball agitation in a Launder Ometer, gravimetric collection, and fiber-quality analysis. Bulk materials were characterized with thermal analysis, microscopy, and FTIR. Water procedure blanks and empty air-chamber controls were included. Waterborne fiber-quality analysis was not replicated, unlike gravimetry.",
+    "fitness": "Supports material and web-structure effects on total microfiber shedding under a sewage-oriented laboratory challenge. Does not quantify infant skin transfer.",
+    "limitations": "Not a baby-wipe-only study. Total fiber counts include cellulose. Gravimetry can include lotion/detergent residue; the authors excluded one residue-affected sample from further comparisons. Fiber-quality measurements cover fibers longer than the conventional microplastic upper size bound as well. No individual-fiber spectroscopic confirmation in the count workflow.",
+    "provenance": {
+      "library_folder": "papers-baby-wipes",
+      "filename": "Kwon_2022_microfiber_shedding_nonwoven_wipes.pdf",
+      "locator": "PDF pp. 4-6 methods; p. 8 Table 4; pp. 9-10 interpretation.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-baby-wipes",
+          "filename": "Kwon_2022_microfiber_shedding_nonwoven_wipes.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-44cb9cefe164",
+    "title": "Disposable wet-wipes as potential source of pollution: Multi-analytical investigation of the composition of fibres and additives",
+    "authors": "Tommaso Nacci, Francesca De Falco, Richard C. Thompson, Federico Vitale, Ilaria Degano, Francesca Modugno",
+    "journal": "Journal of Analytical and Applied Pyrolysis",
+    "year": 2025,
+    "doi": "10.1016/j.jaap.2025.107200",
+    "url": "https://doi.org/10.1016/j.jaap.2025.107200",
+    "type": "Research article",
+    "sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+    "rights": "CC BY 4.0 printed on PDF p. 1.",
+    "description": "Multi-method fiber and additive characterization of commercial wet wipes purchased in the United Kingdom.",
+    "scope": "Multi-method fiber and additive characterization of commercial wet wipes purchased in the United Kingdom.",
+    "findings": "<p>Conventional wipes contained polypropylene and/or polyethylene terephthalate together with cellulose. The investigated flushable and biodegradable groups were cellulose-based. Composition and organic additive signals were measured, not a release rate or infant dose.</p>",
+    "methods": "SEM characterized fiber morphology, ATR-FTIR assessed bulk composition, and evolved-gas MS plus multi-shot pyrolysis GC-MS separated additive and fiber signatures. Air-dried, previously unused wipe material was analyzed. No particle-release experiment or release-procedure blank series was reported because the endpoint was material composition.",
+    "fitness": "Strong direct evidence for why wipe fibers and chemical additives require separate endpoints and why cellulose should be distinguished from synthetic plastics.",
+    "limitations": "A small selected UK product set, not all baby wipes. No transfer-to-skin or shedding count. Drying can lose volatile additives; pyrolysis has limits for polar/high-molecular-weight additives. Failure to identify an additive does not establish absence.",
+    "provenance": {
+      "library_folder": "papers-baby-wipes",
+      "filename": "Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+      "locator": "PDF pp. 2-3 methods; pp. 4-10 results; p. 9 Table 4.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-baby-wipes",
+          "filename": "Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-65f1d8743aef",
+    "title": "Sampling, Identification and Characterization of Microplastics Release from Polypropylene Baby Feeding Bottle during Daily Use",
+    "authors": "Dunzhu Li, Luming Yang, Rachel Kavanagh, Liwen Xiao, Yunhong Shi, Daniel K. Kehoe, Yurii K. Gun’ko, John J. Boland, Jing Jing Wang",
+    "journal": "Journal of Visualized Experiments",
+    "year": 2021,
+    "doi": "10.3791/62545",
+    "url": "https://doi.org/10.3791/62545",
+    "type": "Research article",
+    "sha256": "65f1d8743aefdecd599176eae8b6cec8f704a3d45006adb43893a49e93f4f6e0",
+    "rights": "Repository-access author manuscript; explicit reuse license is not printed in inspected PDF. Cite DOI and paraphrase only.",
+    "description": "A polypropylene feeding-bottle sampling protocol with Raman-identified release measurements under a water-based formula-preparation simulation.",
+    "scope": "A polypropylene feeding-bottle sampling protocol with Raman-identified release measurements under a water-based formula-preparation simulation.",
+    "findings": "<p>The representative-results section reports a product-dependent particle concentration range after cleaning, sterilization, and hot-water shaking. Standard-particle recovery was tested. This protocol belongs to the same research program as earlier bottle-release work and is not independent replication of that work.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-65f1d8743aef-bottle-release-range}}</td><td>Cleaned PP feeding bottles sterilized in 95 °C deionized water for 5 min; 180 mL water at 70 °C; shaken 180 rpm for 60 s</td><td>Reported classification bins 0.8-5, 5-20, 20-50, 50-100, >100 µm; filter pore 0.8 µm is not an independently validated detection floor</td><td>Author manuscript PDF p. 7 lines 291-299; protocol pp. 4-6</td></tr></tbody></table></div>",
+    "methods": "Borosilicate glass hardware and deionized water; bottles detergent-cleaned and rinsed; sterilized in hot water; hot water shaken in the bottle. Gold-coated polycarbonate filters collected material. Raman spectra from selected representative filter areas identified PP; image analysis extrapolated concentrations; AFM characterized separate particles. A spiked PS recovery experiment found no PP/PE interference. A numerical routine full-procedure blank distribution is not presented in the inspected manuscript.",
+    "fitness": "Direct bottle-release and protocol evidence, with explicit analytical-area extrapolation and water-simulant scope.",
+    "limitations": "Repository author manuscript, with line-numbered prose and figure legends but no embedded result plots; identity confirmed against DOI/publisher title and publication details. Final publisher author list adds Emmet D. Sheerin, absent from manuscript title page. No milk/formula matrix in the release collection. Filter pore is not a separately validated lower detection limit. No infant clinical endpoint.",
+    "provenance": {
+      "library_folder": "papers-infant-feeding-bottles",
+      "filename": "2021_Li_sampling-identification-and-characterization-of-microplastics.pdf",
+      "locator": "Author manuscript PDF pp. 3-6 protocol §§1-5; p. 7 lines 279-299 representative results; p. 8 Figure 5 legend.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-infant-feeding-bottles",
+          "filename": "2021_Li_sampling-identification-and-characterization-of-microplastics.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-80f7cd5b1cac",
+    "title": "Microparticles and microplastics released from daily use of plastic feeding and water bottles and plastic injectors: potential risks to infants and children in China",
+    "authors": "Ke Song, Runrun Ding, Caiyun Sun, Lunguang Yao, Weicheng Zhang",
+    "journal": "Environmental Science and Pollution Research",
+    "year": 2021,
+    "doi": "10.1007/s11356-021-14939-7",
+    "url": "https://doi.org/10.1007/s11356-021-14939-7",
+    "type": "Research article",
+    "sha256": "80f7cd5b1cac54d035a8a4cbca00ba4531808194197e35776ea1c75fd4a8564a",
+    "rights": "Copyright 2021 Springer exclusive license printed on PDF p. 1. Paraphrase and cite.",
+    "description": "Cap and neck abrasion during opening/closing of feeding and water bottles, with a separate injector experiment.",
+    "scope": "Cap and neck abrasion during opening/closing of feeding and water bottles, with a separate injector experiment.",
+    "findings": "<p>LDIR distinguished confirmed plastic polymers from total microparticles, cellulose, additives, and unidentified material. The bottle extraction used ethanol and concentration before analysis, so particles per milliliter refers to the analytical sample rather than a milliliter of milk consumed.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-80f7cd5b1cac-feeding-extract-112}}</td><td>One tested plastic feeding bottle; 100 opening/closing cycles; caps/necks washed with ethanol; extract dried and rediluted to 2 mL before LDIR analysis</td><td>LDIR >20 µm; reported observed plastic size range 20-500 µm</td><td>PDF p. 4 (printed 59816), Table 1, first feeding-bottle row; p. 2 Sample collection</td></tr></tbody></table></div>",
+    "methods": "Bottles underwent repeated opening/closing; caps and necks were washed with filtered ethanol. Collected extracts were dried and brought to a final ethanol volume for LDIR chemical imaging. Triplicate measurements were reported. Filtered solvents, clean-bench work, and glass/aluminum tools reduced contamination. No numerical procedural-blank results are given in the inspected methods. TEM imaged smaller particles without chemically confirming them individually.",
+    "fitness": "Direct mechanical-release experiment; useful for separating microparticle totals from chemical plastic identification.",
+    "limitations": "Not a hot-formula experiment or measured infant dose. Extract-normalized counts cannot be compared with water-simulant concentrations. LDIR excludes particles smaller than its reported threshold. A text reference to a nanometer size bin conflicts with the instrument window, so that bin is not repeated. The work does not demonstrate clinical disease or establish price/brand quality as a health measure.",
+    "provenance": {
+      "library_folder": "papers-infant-feeding-bottles",
+      "filename": "2021_Song_microparticles-and-microplastics-released-from-daily.pdf",
+      "locator": "PDF p. 2 methods; p. 3 LDIR window/results; p. 4 Table 1.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-infant-feeding-bottles",
+          "filename": "2021_Song_microparticles-and-microplastics-released-from-daily.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-344cfd824c7e",
+    "title": "Identification and Evaluation of Microplastics from Tea Filter Bags Based on Raman Imaging",
+    "authors": "Tingna Mei, Jiahua Wang, Xiaofeng Xiao, Jingwen Lv, Qiaocong Li, Huang Dai, Xiaodan Liu, Fuwei Pi",
+    "journal": "Foods",
+    "year": 2022,
+    "doi": "10.3390/foods11182871",
+    "url": "https://doi.org/10.3390/foods11182871",
+    "type": "Research article",
+    "sha256": "344cfd824c7ee6c0cc5f35b6b33c66dae98b6a6be81750b3d207b73c4ea90954",
+    "rights": "CC BY 4.0 printed on PDF p. 1.",
+    "description": "Raman imaging of particles released from nonwoven PET, nonwoven PP, and woven nylon filter bags and their strings.",
+    "scope": "Raman imaging of particles released from nonwoven PET, nonwoven PP, and woven nylon filter bags and their strings.",
+    "findings": "<p>Chemical imaging identified PET, PP, nylon, and PE in soaking samples. Multichannel spectral fitting found additional particles missed by a single-peak imaging approach. Surface-attached fragments and string material contributed to the observed findings.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-344cfd824c7e-positive-soaks}}</td><td>Nonwoven PET, nonwoven PP, woven nylon bags in 30 mL ultrapure water; 70, 80, 90 °C; 1, 5, 10, 30 min; selected Raman regions</td><td>Raman mapping regions; 3 µm scanning step; no complete validated lower-size count boundary</td><td>PDF p. 9 §3.4 and p. 10 Table 1; p. 2 §2.1</td></tr></tbody></table></div>",
+    "methods": "Separate method-optimization and detection experiments. The detection experiment soaked individual filter bags in ultrapure water over stated temperatures and times; glass microfiber filtration and selected-region Raman imaging followed. Direct classical least squares used reference spectra to distinguish overlapping polymer signals. Cleaned samplers, covered glass dishes, and powder-free gloves were reported. A numerical full-procedure blank series is not reported in the main article.",
+    "fitness": "Direct evidence of chemically identified polymer release and method-dependent detection, without extrapolating observed-region counts to all consumer bags.",
+    "limitations": "Selected regions were imaged; not a complete filter census. Main-text count examples belong to imaging comparisons, not particles per retail cup. Some detected material can come from strings and particles already attached to bag surfaces. No standardized lower-size quantitation validation or human-health endpoint. PDF text layer contains extensive duplicated text; cited pages were visually checked.",
+    "provenance": {
+      "library_folder": "papers-tea-bags",
+      "filename": "2022_Mei_identification-and-evaluation-of-microplastics-from.pdf",
+      "locator": "PDF p. 2 §2.1; pp. 3-4 imaging; pp. 9-11 §§3.3-3.5 and Table 1.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-tea-bags",
+          "filename": "2022_Mei_identification-and-evaluation-of-microplastics-from.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-bf013e1859f6",
+    "title": "Evolution of Microplastics Released from Tea Bags into Water",
+    "authors": "Alexander A. Yaroslavov, Anna A. Efimova, Tatyana E. Grokhovskaya, Anastasiia G. Badikova, Vasily V. Spiridonov, Denis V. Pozdyshev, Sergey V. Lyulin, Jose M. Kenny",
+    "journal": "Polymers",
+    "year": 2025,
+    "doi": "10.3390/polym17192700",
+    "url": "https://doi.org/10.3390/polym17192700",
+    "type": "Research article",
+    "sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+    "rights": "CC BY 4.0 printed on PDF p. 1.",
+    "description": "Aging and particle dynamics from cut pieces of nylon, polypropylene, and cellulose tea-bag materials in water.",
+    "scope": "Aging and particle dynamics from cut pieces of nylon, polypropylene, and cellulose tea-bag materials in water.",
+    "findings": "<p>Bulk chemistry identified nylon, polypropylene, and cellulose bag materials. Particle sizes and concentrations evolved differently during soaking and subsequent aging. Cellulose-derived particles must remain separate from synthetic-plastic particles.</p>",
+    "methods": "Infrared spectroscopy, calorimetry, and thermogravimetry identified bulk materials. DLS followed hydrodynamic size; NTA measured suspended-particle concentration; laser electrophoresis measured mobility. Cut and rinsed bag squares were exposed in water under short and extended soaking/aging protocols. Distilled-water DLS control showed no scattering correlation. Experiments were replicated.",
+    "fitness": "Useful mechanistic evidence that time, material, and size methodology affect observed particles, particularly below ordinary microscopy windows.",
+    "limitations": "Cut squares rather than intact retail bags. Some measurements followed prolonged heating/aging, not a normal cup preparation. Bulk polymer identity does not chemically identify every NTA-counted particle. Numerical NTA table resides in a supplement not reviewed here, so no exact count is reproduced. In-vitro findings do not establish consumer safety or clinical harm.",
+    "provenance": {
+      "library_folder": "papers-tea-bags",
+      "filename": "2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+      "locator": "PDF pp. 3-5 methods and Table 1; pp. 5-9 particle dynamics; pp. 10-11 interpretation.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-tea-bags",
+          "filename": "2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-6f1a18e62816",
+    "title": "From the Well to the Bottle: Identifying Sources of Microplastics in Mineral Water",
+    "authors": "Jana Weisser, Irina Beer, Benedikt Hufnagl, Thomas Hofmann, Hans Lohninger, Natalia P. Ivleva, Karl Glas",
+    "journal": "Water",
+    "year": 2021,
+    "doi": "10.3390/w13060841",
+    "url": "https://doi.org/10.3390/w13060841",
+    "type": "Research article",
+    "sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+    "rights": "CC BY 4.0 printed on PDF p. 1.",
+    "description": "Sampling groundwater, treatment, bottle washing, and filled/capped mineral water at bottling facilities using reusable glass bottles.",
+    "scope": "Sampling groundwater, treatment, bottle washing, and filled/capped mineral water at bottling facilities using reusable glass bottles.",
+    "findings": "<p>Particle concentrations rose after filling and capping. Chemical similarity to polyethylene cap seals and low findings in uncapped controls supported cap abrasion as a source in these facilities. A glass bottle body did not prevent plastic entry from closures.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-6f1a18e62816-capped-mineral-water}}</td><td>Filled and capped reusable glass mineral-water bottles at sampled facilities; sample category V</td><td>≥11 µm validated imaging cutoff</td><td>PDF p. 9 §3.2; Figure 4 p. 10</td></tr></tbody></table></div>",
+    "methods": "FPA-FTIR imaging and random-decision-forest classification with manual review; sampled filter areas extrapolated to full-filter totals. Polymer size-detection tests, recovery checks, and procedural blanks were reported. Sample-type limits of detection were calculated from blank means and variability. Below-limit results were termed free of MPs by authors; this synthesis uses below detection limit instead.",
+    "fitness": "Direct process-tracing evidence with strong quality-control detail, specific to the sampled bottling lines and size window.",
+    "limitations": "Facilities and reusable-glass systems are selected, not a representative bottled-water market survey. Findings depend on blank-based thresholds, selected filter areas, model classification, and particle recovery. No nanoplastic measurement or clinical outcome. High nonplastic counts were separated from plastic results.",
+    "provenance": {
+      "library_folder": "papers-bottled-drinking-water",
+      "filename": "2021_Weier_from-the-well-to-the-bottle.pdf",
+      "locator": "PDF pp. 3-8 methods/QA; p. 9 §3.2; pp. 10-12 closure-source analysis.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-bottled-drinking-water",
+          "filename": "2021_Weier_from-the-well-to-the-bottle.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-e8627d56229c",
+    "title": "Characterization of microplastics in water bottled in different packaging by Raman spectroscopy",
+    "authors": "Isabella Gambino, Cosimino Malitesta, Francesco Bagordo, Tiziana Grassi, Alessandra Panico, Silvia Fraissinet, Antonella De Donno, Giuseppe Egidio De Benedetto",
+    "journal": "Environmental Science: Water Research & Technology",
+    "year": 2023,
+    "doi": "10.1039/d3ew00197k",
+    "url": "https://doi.org/10.1039/d3ew00197k",
+    "type": "Research article",
+    "sha256": "e8627d56229c959e4958dfecb22f2df5321a9d2507c7b75b609518a0251089f1",
+    "rights": "CC BY 3.0 Unported stated on PDF pages.",
+    "description": "Raman-confirmed particles in pooled Italian retail-water samples packaged in PET, recycled PET, and returnable glass.",
+    "scope": "Raman-confirmed particles in pooled Italian retail-water samples packaged in PET, recycled PET, and returnable glass.",
+    "findings": "<p>Confirmed particles occurred across packaging types. PET was prominent in PET-packaged samples; polyethylene with additives dominated the other packaging groups, consistent with a possible closure contribution. Counts were lower than the separate process-tracing study, without demonstrating a general packaging ranking.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-e8627d56229c-pet-water-mean}}</td><td>Pooled retail-water analytical samples from single-use PET bottles; polymer-specific control subtraction</td><td>Observed size bins <10, 10-20, 20-50, 50-100, >100 µm; predominant 20-100 µm; no nanoplastic claim</td><td>PDF p. 3 (printed 3393), Results and Figure 1</td></tr><tr><td>{{claim:s-e8627d56229c-glass-water-mean}}</td><td>Pooled retail-water analytical samples from returnable glass bottles; polymer-specific control subtraction</td><td>Observed size bins <10, 10-20, 20-50, 50-100, >100 µm; predominant 20-100 µm; no nanoplastic claim</td><td>PDF p. 3 (printed 3393), Results and Figure 1</td></tr></tbody></table></div>",
+    "methods": "Water pooled into analytical samples by product and market; microscopy tracked particles across the whole filter, with Raman analysis of every detected particle. Control concentrations were subtracted by polymer identity. Laminar-flow processing, cotton clothing, cleaned glass/steel tools, and filtered rinse water were used. Reported means use standard deviations.",
+    "fitness": "Direct product-water occurrence study with individual detected-particle chemistry and polymer-specific blank subtraction.",
+    "limitations": "Pooling obscures bottle-level variability. Visible-particle selection and Raman acquisition still constrain the observed size range; >1 µm stated in comparison table is not a claim of complete capture of that range. Small selected market set. Recycled-PET mean differs between abstract (3.33) and results/table (3.31); no recycled-PET numerical claim is reproduced here. No causal manufacturing-source isolation or health endpoint.",
+    "provenance": {
+      "library_folder": "papers-bottled-drinking-water",
+      "filename": "2023_Gambino_characterization-of-microplastics-in-water-bottled.pdf",
+      "locator": "PDF p. 2 methods; p. 3 (printed 3393) Results and Figure 1; p. 4 comparison table.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-bottled-drinking-water",
+          "filename": "2023_Gambino_characterization-of-microplastics-in-water-bottled.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-d5adaa4c2600",
+    "title": "The presence of microplastics in commercial salts from different countries",
+    "authors": "Ali Karami, Abolfazl Golieskardi, Cheng Keong Choo, Vincent Larat, Tamara S. Galloway, Babak Salamatinia",
+    "journal": "Scientific Reports",
+    "year": 2017,
+    "doi": "10.1038/srep46173",
+    "url": "https://doi.org/10.1038/srep46173",
+    "type": "Research article",
+    "sha256": "d5adaa4c2600cdf37747bcb8a956f08ca847bcd63c017e6bfb97a71977eb259c",
+    "rights": "CC BY 4.0 stated at end of PDF.",
+    "description": "Micro-Raman analysis of visually isolated particles above a coarse filtration threshold in retail salts.",
+    "scope": "Micro-Raman analysis of visually isolated particles above a coarse filtration threshold in retail salts.",
+    "findings": "<p>Only part of the visually selected particles were confirmed plastic polymers. Polypropylene and polyethylene were common; pigments, amorphous carbon, and unresolved spectra were recorded separately. A lake-salt sample blocked the filter and was excluded.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-d5adaa4c2600-confirmed-selection}}</td><td>Salt packages dissolved, coarse-filtered, density-separated, visually screened, then each selected particle analyzed by micro-Raman</td><td>Extraction >149 µm; selected particles observed 160-980 µm</td><td>PDF p. 2 Results</td></tr></tbody></table></div>",
+    "methods": "Whole packages dissolved and filtered through a coarse membrane, followed by sodium-iodide density separation and visual selection. All selected particles received micro-Raman analysis. Covered glassware, cleaned equipment, filtered reagents, biosafety-cabinet processing, and procedural water/NaI blanks were used; the inspected text does not provide a complete numeric blank-count distribution.",
+    "fitness": "Direct salt occurrence evidence with particle chemistry. Especially useful for showing why visual particle counts are not equivalent to confirmed microplastics.",
+    "limitations": "Excludes particles smaller than the filtration threshold and may miss visually unselected particles. An excluded sample is not a nondetect. Unknown spectra remain unknown, not zero plastic. The authors’ health reassurance is not adopted because this study did not measure human health outcomes. Figure 3 panels were corrected separately.",
+    "provenance": {
+      "library_folder": "papers-salt",
+      "filename": "2017_Karami_the-presence-of-microplastics-in-commercial.pdf",
+      "locator": "PDF p. 2 Results; pp. 5-8 Methods/contamination prevention; separate 2017 corrigendum.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-salt",
+          "filename": "2017_Karami_the-presence-of-microplastics-in-commercial.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-1255af89193a",
+    "title": "Corrigendum: The presence of microplastics in commercial salts from different countries",
+    "authors": "Ali Karami, Abolfazl Golieskardi, Cheng Keong Choo, Vincent Larat, Tamara S. Galloway, Babak Salamatinia",
+    "journal": "Scientific Reports",
+    "year": 2017,
+    "doi": "10.1038/srep46838",
+    "url": "https://doi.org/10.1038/srep46838",
+    "type": "Research correction",
+    "sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "rights": "CC BY 4.0 printed in correction notice.",
+    "description": "Correction to inverted panels in the salt study Figure 3.",
+    "scope": "Correction to inverted panels in the salt study Figure 3.",
+    "findings": "<p>The correction replaces the inverted plastic-polymer and pigment panels. It is a correction, not an independent sampling study.</p>",
+    "methods": "Correction notice and replacement figure inspected.",
+    "fitness": "Required companion to interpreting the original Figure 3.",
+    "limitations": "No new experimental sampling; do not count as an independent replication.",
+    "provenance": {
+      "library_folder": "papers-salt",
+      "filename": "2017_Karami_correction-corrigendum-the-presence-of-microplastics.pdf",
+      "locator": "PDF p. 1 correction statement and Figure 1.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-salt",
+          "filename": "2017_Karami_correction-corrigendum-the-presence-of-microplastics.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-4232fea69f85",
+    "title": "Consuming microplastics? Investigation of commercial salts as a source of microplastics (MPs) in diet",
+    "authors": "Aswin Kuttykattil, Subash Raju, Kanth Swaroop Vanka, Geetika Bhagwat, Maddison Carbery, Salom Gnana Thanga Vincent, Sudhakaran Raja, Thava Palanisami",
+    "journal": "Environmental Science and Pollution Research",
+    "year": 2022,
+    "doi": "10.1007/s11356-022-22101-0",
+    "url": "https://doi.org/10.1007/s11356-022-22101-0",
+    "type": "Research article",
+    "sha256": "4232fea69f85fa25500c8ee9e07a8956120850a279c7b87f04779810c488aad4",
+    "rights": "CC BY 4.0 stated at article end.",
+    "description": "Commercial salts purchased in Australia, including sea, table, rock, black, and fine/coarse pink salts.",
+    "scope": "Commercial salts purchased in Australia, including sea, table, rock, black, and fine/coarse pink salts.",
+    "findings": "<p>Fibers and fragments were observed across salt types. ATR-FTIR identified several synthetic polymers and also rayon/cellulose acetate among the authors’ MP classifications. The category includes these material-classification caveats rather than treating all study-classified material as persistent synthetic plastic.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and measurement limits.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Source-reported measurements\" tabindex=\"0\"><table><thead><tr><th>Reported result</th><th>Conditions</th><th>Size context</th><th>Original locator</th></tr></thead><tbody><tr><td>{{claim:s-4232fea69f85-salt-average}}</td><td>Selected commercial salt types purchased in Australia; dissolution/peroxide treatment/microscopy and selected ATR-FTIR</td><td>Observed particles 23.2 µm-3.9 mm; quantification restricted to particles >20 µm</td><td>PDF p. 6 (printed 935), first paragraph; methods pp. 3-4</td></tr></tbody></table></div>",
+    "methods": "Salt dissolution, peroxide digestion, fine membrane filtration, microscopy and Nile Red screening, ATR-FTIR library comparison, and SEM-EDS. Particles pooled within salt type for spectroscopic selection. Blanks processed in triplicate showed no particles. Chemical assignment constrained by particle size and variable match quality.",
+    "fitness": "Direct salt occurrence and polymer-characterization evidence extending beyond sea salt.",
+    "limitations": "Selected retail samples, not national representativeness. The author-defined MP group includes regenerated cellulose materials; classification differs from strict synthetic-plastic-only results. Some small particles and transparent sheets lacked usable spectra. Abstract/result discrepancy for coarse pink salt (174.04 vs 174.07) is not used here. Online publication 2022; volume issue 2023. No human clinical outcome.",
+    "provenance": {
+      "library_folder": "papers-salt",
+      "filename": "2022_Kuttykattil_consuming-microplastics-investigation-of-commercial-salts.pdf",
+      "locator": "PDF pp. 3-4 methods; pp. 5-7 results; p. 6 printed 935 mean concentration.",
+      "manifest_hash_matches": true,
+      "primary_identity_verified": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-salt",
+          "filename": "2022_Kuttykattil_consuming-microplastics-investigation-of-commercial-salts.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-b7ebe8a29311",
+    "title": "Microplastics in Honey, Beer, Milk and Refreshments in Ecuador as Emerging Contaminants",
+    "authors": "Milene F. Diaz-Basantes, Juan A. Conesa, Andres Fullana",
+    "journal": "Sustainability",
+    "year": 2020,
+    "doi": "10.3390/su12145514",
+    "url": "https://doi.org/10.3390/su12145514",
+    "type": "Research article",
+    "sha256": "b7ebe8a293114ddc343fb228bd162a68ff1738d80b732a772efef588d1159b62",
+    "rights": "CC BY 4.0 per primary PDF p. 17. Paraphrase only; no PDF or figures republished.",
+    "description": "An Ecuadorian food survey counted fibers and fragments and used FTIR subsampling to estimate the plastic fraction in beer, honey, milk, and soft drinks.",
+    "scope": "Direct beer and honey survey; chemical identification on a subsample, with category estimates extrapolated from an overall plastic fraction.",
+    "findings": "<p>An Ecuadorian food survey counted fibers and fragments and used FTIR subsampling to estimate the plastic fraction in beer, honey, milk, and soft drinks.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Microplastics in Honey, Beer, Milk and Refreshments in Ecuador as Emerging Contaminants measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Craft beer</td><td>{{claim:s-b7ebe8a29311-craft-beer-estimate}}</td><td>PDF p. 9 results; p. 13 Figure 6</td></tr><tr><td>Industrial beer</td><td>{{claim:s-b7ebe8a29311-industrial-beer-estimate}}</td><td>PDF p. 9 results; p. 13 Figure 6</td></tr><tr><td>All sampled food categories</td><td>{{claim:s-b7ebe8a29311-confirmed-subsample}}</td><td>PDF p. 6 §2.3; p. 12 Figure 5</td></tr></tbody></table></div>",
+    "methods": "Portions of beverage were diluted, sieved, oxidized with hydrogen peroxide, filtered and sonicated. Optical microscopy supplied counts and dimensions. Ten randomly selected objects per filter underwent FTIR. Across food groups, 64 of 530 analyzed objects were assigned as plastic; other material included cellulose and inorganic particles. Laminar flow and air cleaning were used; procedural blanks contained 4-9 fibers. Main text does not clearly document subtraction of those blank counts.",
+    "fitness": "Supports exploratory, paper-reported estimates in the sampled Ecuadorian foods. Does not support treating every observed fiber or fragment as plastic or all category estimates as individually confirmed particle counts.",
+    "limitations": "Small market sample, global FTIR fraction extrapolation, procedural contamination and uncertain blank subtraction. Sample counts differ between methods and Table 2. Reported size ranges describe mixed observed objects, not an isolated polymer-confirmed size distribution. Counts per liter of honey cannot be compared to counts per gram without a paper-supplied conversion. No health outcomes measured.",
+    "provenance": {
+      "library_folder": "papers-honey",
+      "filename": "2020_Diaz_microplastics-in-honey-beer-milk-and.pdf",
+      "locator": "PDF pp. 3-6 §§2.1-2.4; pp. 7-8 Table 2; p. 9 results; p. 12 Figure 5; p. 13 Figure 6.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2020_Diaz_microplastics-in-honey-beer-milk-and.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-honey",
+          "filename": "2020_Diaz_microplastics-in-honey-beer-milk-and.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-cb575acb0f42",
+    "title": "Occurrence and characteristics of microplastics in South African beverages",
+    "authors": "Gibbon Ramaremisa, Rudolph M. Erasmus, Hlanganani Tutu, Dalia Saad",
+    "journal": "Environmental Pollution",
+    "year": 2025,
+    "doi": "10.1016/j.envpol.2024.125388",
+    "url": "https://doi.org/10.1016/j.envpol.2024.125388",
+    "type": "Research article",
+    "sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+    "rights": "CC BY-NC-ND 4.0 per primary PDF p. 1. Bibliographic facts and original paraphrase only; no PDF or figures republished.",
+    "description": "A study of alcoholic and nonalcoholic beverages used microscopy and Raman spectroscopy to investigate particle properties and packaging groups.",
+    "scope": "Alcoholic-beverage context. Main methods do not establish that the alcoholic aggregate is a beer-specific estimate.",
+    "findings": "<p>A study of alcoholic and nonalcoholic beverages used microscopy and Raman spectroscopy to investigate particle properties and packaging groups.</p><p>No numerical product measurement from this source is accepted in this packet. Useful context for polymer confirmation, mixed beverage categories, and uncertainty in packaging source attribution. No numerical beer concentration accepted.</p>",
+    "methods": "Wet peroxide oxidation, filtration, Rose Bengal exclusion of stained natural material, stereomicroscopy and micro-Raman. Raman characterized 70% of non-stained particles per filter. Blank experiments are reported, but a numerical blank correction result is not provided in the inspected main methods/results.",
+    "fitness": "Useful context for polymer confirmation, mixed beverage categories, and uncertainty in packaging source attribution. No numerical beer concentration accepted.",
+    "limitations": "Alcoholic aggregate is not relabeled as beer. Raman fluorescence and residual natural material may cause misclassification or underestimation. Natural material on plastic surfaces may be excluded by staining. Main text Table 1 swaps combined alcoholic/nonalcoholic means relative to results; no numerical concentration accepted here. Available online in 2024, volume year 2025; primary volume year used.",
+    "provenance": {
+      "library_folder": "papers-beer",
+      "filename": "2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+      "locator": "PDF pp. 1-3 §§2.1-2.5; pp. 4-7 §§3.1-3.9; p. 8 conclusions.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-beer/2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-beer",
+          "filename": "2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-e90dfcc63831",
+    "title": "Detection of microplastics in honey of stingless bee (Heterotrigona itama) and honey bee (Apis mellifera) from Malaysia",
+    "authors": "Yusof Shuaib Ibrahim, Muhammad Naim Rosazan, Muhammad Izzelen Izzauddin Mamat, Sabiqah Tuan Anuar, Wahizatul Afzan Azmi",
+    "journal": "Biodiversitas",
+    "year": 2025,
+    "doi": "10.13057/biodiv/d260326",
+    "url": "https://doi.org/10.13057/biodiv/d260326",
+    "type": "Research article",
+    "sha256": "e90dfcc638313ae1de894b1fd8b46438a57e7c347590fef1575f6e533d3b3b96",
+    "rights": "Downloaded open-access primary article; explicit license not located in inspected PDF. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A preliminary Malaysian honey survey compared microscopically classified particles between stingless-bee and honey-bee samples and confirmed polyethylene in selected particles.",
+    "scope": "Direct honey survey; microscopy counts with chemical confirmation restricted to six selected particles.",
+    "findings": "<p>A preliminary Malaysian honey survey compared microscopically classified particles between stingless-bee and honey-bee samples and confirmed polyethylene in selected particles.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Detection of microplastics in honey of stingless bee (Heterotrigona itama) and honey bee (Apis mellifera) from Malaysia measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Heterotrigona itama honey</td><td>{{claim:s-e90dfcc63831-stingless-count}}</td><td>PDF p. 4 Table 1; p. 3 results</td></tr><tr><td>Apis mellifera honey</td><td>{{claim:s-e90dfcc63831-honeybee-count}}</td><td>PDF p. 4 Table 1; p. 3 results</td></tr><tr><td>Honey particle subsample</td><td>{{claim:s-e90dfcc63831-ftir-selected}}</td><td>PDF p. 4 FTIR results</td></tr><tr><td>Heterotrigona itama honey</td><td>{{claim:s-e90dfcc63831-stingless-size}}</td><td>PDF p. 4 results</td></tr></tbody></table></div>",
+    "methods": "Twelve honeys, six from each bee species, were digested in triplicate from 10 g portions with hydrogen peroxide after dilution and filtered onto 1.2 µm glass filters. Stereomicroscopy classified and counted objects. Hot-needle testing, SEM, and FTIR were applied to selected objects. Only six objects could be identified by FTIR, all PE. Equipment/solutions were rinsed/filtered, samples covered, airborne blank filter used, and closed room with air filtration reported. Numerical blank counts/subtraction and polymer-specific recovery are not reported in inspected methods/results.",
+    "fitness": "Supports paper-reported microscopy-based counts and PE presence in the selected objects. Whole-count polymer identity and an absence of natural fibers are not established.",
+    "limitations": "Preliminary selection of farm/store honey. Chemical confirmation of only six selected particles; visually classified fibers dominate and cannot all be labeled chemically confirmed PE. Abstract size range differs from results bins and Table 1 means; use results/table-specific size context only. Blank filter mentioned without numerical blank results or correction. Species comparison does not isolate environment, processing, or packaging as cause.",
+    "provenance": {
+      "library_folder": "papers-honey",
+      "filename": "2025_Ibrahim_detection-of-microplastics-in-honey-of.pdf",
+      "locator": "PDF pp. 2-3 methods, controls and results; p. 4 Tables 1-2 and FTIR-selection limitation; p. 5 Figure 3.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2025_Ibrahim_detection-of-microplastics-in-honey-of.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-honey",
+          "filename": "2025_Ibrahim_detection-of-microplastics-in-honey-of.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-6776e996b5cf",
+    "title": "Microplastic Migration from Plastic Packaging into Honey",
+    "authors": "Klytaimnistra Katsara, Zacharias Viskadourakis, Eleftherios Alissandrakis, George Kenanakis, Vassilis M. Papadakis",
+    "journal": "Microplastics",
+    "year": 2025,
+    "doi": "10.3390/microplastics4040090",
+    "url": "https://doi.org/10.3390/microplastics4040090",
+    "type": "Research article",
+    "sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+    "rights": "CC BY 4.0 per primary PDF p. 1. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A storage study examined honey in flexible pouches with Raman particle identification and separate GC-MS analysis of extractable chemicals.",
+    "scope": "Qualitative packaging-related particle evidence from specific honey pouches under outdoor, refrigerated, and dark/dry storage.",
+    "findings": "<p>A storage study examined honey in flexible pouches with Raman particle identification and separate GC-MS analysis of extractable chemicals.</p><p>No numerical product measurement from this source is accepted in this packet. Supports polymer identification and an association with pouch packaging in this experiment. Counts are not adopted because filter-area selection, extrapolation, contamination runs, and batch variation require resolution.</p>",
+    "methods": "Honey dilution, warming, peroxide digestion, sodium bromide separation and sequential filtration. Material larger than 74 µm discarded, then 1.2 µm final filters examined by Raman microscopy. Spectra compared against inner PE and outer PET packaging, with ATR-FTIR bulk-film characterization. Some early runs contaminated by peroxide storage container; replacement reagent described. Selected filter areas with differing particle density used for extrapolation, excluding center/edges. GC-MS measures extractable chemicals separately.",
+    "fitness": "Supports polymer identification and an association with pouch packaging in this experiment. Counts are not adopted because filter-area selection, extrapolation, contamination runs, and batch variation require resolution.",
+    "limitations": "No accepted numeric pouch-release rate or mass estimate. Table 1 has contaminated runs and observed versus statistical counts; field selection is not uniform whole-filter enumeration. Greater-than-sieve aggregates occur despite prefiltration; pore size is not validated detection limit. Storage-control and outdoor trends are not universally monotonic. Crystallized honey and sample recovery differed. Cannot extend to all honey packages or treat GC-MS chemicals as particle counts.",
+    "provenance": {
+      "library_folder": "papers-honey",
+      "filename": "2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+      "locator": "PDF pp. 3-7 §§2.1-2.7; pp. 7-13 §§3.1-3.3 and Table 1; pp. 14-16 polymer discussion; p. 22 conclusions.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-honey",
+          "filename": "2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-41d8667b76f0",
+    "title": "Drinking plastics? Quantification and qualification of microplastics in drinking water distribution systems by µFTIR and Py-GCMS",
+    "authors": "Inga V. Kirstein, Fides Hensel, Alessio Gomiero, Lucian Iordachescu, Alvise Vianello, Hans B. Wittgren, Jes Vollertsen",
+    "journal": "Water Research",
+    "year": 2021,
+    "doi": "10.1016/j.watres.2020.116519",
+    "url": "https://doi.org/10.1016/j.watres.2020.116519",
+    "type": "Research article",
+    "sha256": "41d8667b76f0ce12b3a80e5e2c422806a0b75ee98cc52075f2ea396c81aeae1f",
+    "rights": "CC BY-NC-ND 4.0 per primary PDF pp. 1-2. Bibliographic facts and original paraphrase only; no PDF or figures republished.",
+    "description": "An investigation of a Swedish drinking-water distribution system combined µFTIR particle analysis with pyrolysis-GC/MS polymer-mass analysis.",
+    "scope": "One Swedish waterworks and connected distribution pipes during a sampling campaign, not a global tap-water concentration.",
+    "findings": "<p>An investigation of a Swedish drinking-water distribution system combined µFTIR particle analysis with pyrolysis-GC/MS polymer-mass analysis.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Drinking plastics? Quantification and qualification of microplastics in drinking water distribution systems by µFTIR and Py-GCMS measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Drinking water distribution samples</td><td>{{claim:s-41d8667b76f0-system-count}}</td><td>PDF p. 6 §3.2; PDF p. 3 sampling and p. 4 §2.6</td></tr><tr><td>Extracted drinking-water particles</td><td>{{claim:s-41d8667b76f0-nominal-floor}}</td><td>PDF p. 4 §2.6</td></tr><tr><td>Detected drinking-water particles</td><td>{{claim:s-41d8667b76f0-observed-major-size}}</td><td>PDF p. 8 §3.4 and Figure 4</td></tr></tbody></table></div>",
+    "methods": "Triplicate samples at five stations, with 200-1100 L filtered through 5 µm steel filters. Filter cleaning, extraction, optional density separation, sample splitting, µFTIR imaging and automated classification plus Py-GCMS. Nominal µFTIR floor 6.6 µm after minimum-pixel rule. Five station blanks averaged 46 ± 63 MPs/blank. Polymer-specific blank values subtracted, negative count differences set to zero; size analysis used uncorrected detections. µFTIR mass estimated from shape/density; Py-GCMS independently measured polymer mass.",
+    "fitness": "Supports blank-corrected source-specific counts and separately characterized dimensions. Demonstrates why spectroscopic count and thermal polymer mass are distinct measurements.",
+    "limitations": "Single system/campaign; relatively sparse detections and variable blanks. Aliquots, not every particle, shared across methods. Zero after subtraction is not proof of absence. Size distributions use uncorrected detections. Model-derived particle mass is not directly measured mass. Primary volume year is 2021 despite 2020 filename/DOI/online date. No clinical outcomes or category-wide safety threshold.",
+    "provenance": {
+      "library_folder": "papers-drinking-water-tap",
+      "filename": "2020_Kirstein_drinking-plastics-quantification-and-qualification-of.pdf",
+      "locator": "PDF p. 3 §2.1; p. 4 §§2.2-2.6; pp. 5-6 §§3.1-3.3 and Figures 1-2; p. 8 §3.4; p. 9 discussion.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-drinking-water-tap/2020_Kirstein_drinking-plastics-quantification-and-qualification-of.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-drinking-water-tap",
+          "filename": "2020_Kirstein_drinking-plastics-quantification-and-qualification-of.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-ebd2006452ff",
+    "title": "A Study of Microplastic Particles in Danish Tap Water",
+    "authors": "Louise Feld, Vitor Hugo da Silva, Fionn Murphy, Nanna B. Hartmann, Jakob Strand",
+    "journal": "Water",
+    "year": 2021,
+    "doi": "10.3390/w13152097",
+    "url": "https://doi.org/10.3390/w13152097",
+    "type": "Research article",
+    "sha256": "ebd2006452ff7ebf7f6ff46cf71a8a7dd9a0c6c4c5109d22bf307decdd1bd05d",
+    "rights": "CC BY 4.0 per primary PDF p. 1. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A Danish tap-water study tested larger visually selected objects against µFTIR chemical identification and blank-based detection thresholds, with additional smaller-particle analysis at selected sites.",
+    "scope": "Tap water from Danish homes/workplaces; distinguishes MP-like objects, verified polymers, blanks, and partial-filter small-particle results.",
+    "findings": "<p>A Danish tap-water study tested larger visually selected objects against µFTIR chemical identification and blank-based detection thresholds, with additional smaller-particle analysis at selected sites.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"A Study of Microplastic Particles in Danish Tap Water measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>MP-like objects in Danish tap water</td><td>{{claim:s-ebd2006452ff-large-confirmation}}</td><td>PDF pp. 7-8 §3.1; p. 11 conclusions</td></tr><tr><td>Visually classified objects</td><td>{{claim:s-ebd2006452ff-large-lod}}</td><td>PDF p. 6 §2.8; p. 7 §3.1</td></tr><tr><td>Selected Danish tap-water filter fractions</td><td>{{claim:s-ebd2006452ff-small-observed}}</td><td>PDF p. 10 §3.2 and Table 1</td></tr><tr><td>Small-particle Danish water analysis</td><td>{{claim:s-ebd2006452ff-small-size}}</td><td>PDF p. 10 §3.2</td></tr></tbody></table></div>",
+    "methods": "Closed steel-filter tap sampling, 50 L/site. Microscopic screening for objects above 100 µm and µFTIR verification of representative subset. Additional hyperspectral imaging down to nominal 10 µm at three sites examined 10% of each final filter, representing 5 L. Five larger-particle blanks averaged 13.2 ± 9.4 MP-like objects, giving LoD 44/sample. Two small-particle blanks included one PET and rubber in one blank. Recovery experiments reported for fibers/beads/fragments.",
+    "fitness": "Strong illustration of natural-fiber misidentification and the need to compare low counts with blanks. Supports source-specific counts, not a claim of zero plastic in all tap water.",
+    "limitations": "All larger visual-object counts below blank-derived LoD. Only selected objects chemically validated. Smaller fraction assessed at only three locations and 10% of filter area. PET/rubber also found in a small-particle blank. Reported smaller-particle concentration estimates are extrapolated and not treated here as contamination-free tap-water concentrations. No nanoplastic assessment or health outcomes.",
+    "provenance": {
+      "library_folder": "papers-drinking-water-tap",
+      "filename": "2021_Feld_a-study-of-microplastic-particles-in.pdf",
+      "locator": "PDF pp. 3-6 methods and blanks; pp. 7-9 §3.1; p. 10 §3.2 and Table 1; pp. 11-12 conclusions.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-drinking-water-tap/2021_Feld_a-study-of-microplastic-particles-in.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-drinking-water-tap",
+          "filename": "2021_Feld_a-study-of-microplastic-particles-in.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-06b18fa11037",
+    "title": "Microplastic Contamination of Chicken Meat and Fish through Plastic Cutting Boards",
+    "authors": "Rana Zeeshan Habib, Ruwaya Al Kindi, Feras Al Salem, Wajeeh Faris Kittaneh, Vijo Poulose, Syed Haris Iftikhar, Abdel-Hamid Ismail Mourad, Thies Thiemann",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "year": 2022,
+    "doi": "10.3390/ijerph192013442",
+    "url": "https://doi.org/10.3390/ijerph192013442",
+    "type": "Research article",
+    "sha256": "06b18fa11037381a24db74a3a8470ae1520001dab0f8cd2c6ad506334aa280c6",
+    "rights": "CC BY 4.0 per primary PDF p. 1. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A market-based study examined plastic fragments in chicken and fish cut on plastic boards, comparing material chemistry and a limited washing experiment.",
+    "scope": "Shop-cut chicken/fish from markets in the United Arab Emirates and Kuwait, with corresponding board characterization.",
+    "findings": "<p>A market-based study examined plastic fragments in chicken and fish cut on plastic boards, comparing material chemistry and a limited washing experiment.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Microplastic Contamination of Chicken Meat and Fish through Plastic Cutting Boards measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Chicken cut in a UAE shop</td><td>{{claim:s-06b18fa11037-chicken-c2}}</td><td>PDF p. 6 Table 1</td></tr><tr><td>Chicken sample C2</td><td>{{claim:s-06b18fa11037-chicken-c2-size}}</td><td>PDF p. 6 Table 1; p. 4 methods</td></tr><tr><td>King mackerel F6</td><td>{{claim:s-06b18fa11037-fish-f6}}</td><td>PDF p. 6 Table 2</td></tr><tr><td>Washed king mackerel F6A</td><td>{{claim:s-06b18fa11037-fish-f6-washed}}</td><td>PDF p. 6 Table 2 and washing paragraph</td></tr></tbody></table></div>",
+    "methods": "Meat digested with aqueous KOH, filtered and washed; microscopy/ImageJ assessed counts and Feret dimensions. FTIR of recovered material and board filings identified polyethylene; DSC/density supported LDPE board assignment. Triplicate subsamples. Equipment/filter inspections, cleaned surfaces, cotton coats, tested sample bags and parallel blanks reported; numerical blank results and recovery correction not supplied in inspected main text.",
+    "fitness": "Direct evidence consistent with mechanical transfer from boards in the sampled shops. Counts per gram of sampled food cannot be recast as particles per knife stroke, board lifetime, or typical household serving.",
+    "limitations": "Single primary study in this folder, few vendor samples, nonrandom market observations and different food-cutting conditions. Color/polymer correspondence supports attribution but does not provide a universal wear rate. Table 1 C2 count differs from attribution in surrounding text; Table 1 used explicitly. Other table/text inconsistencies exist; no pooled category range or mechanical-wear mass converted to intake. Filter pore is not analytical detection floor. No human health outcomes.",
+    "provenance": {
+      "library_folder": "papers-kitchenware-cutting-boards",
+      "filename": "2022_Habib_microplastic-contamination-of-chicken-meat-and.pdf",
+      "locator": "PDF pp. 2-4 methods; pp. 5-7 results; p. 6 Tables 1-2; pp. 9-11 discussion/conclusions.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-kitchenware-cutting-boards/2022_Habib_microplastic-contamination-of-chicken-meat-and.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-kitchenware-cutting-boards",
+          "filename": "2022_Habib_microplastic-contamination-of-chicken-meat-and.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-e13c6d651052",
+    "title": "A Comparison of Different Approaches for Characterizing Microplastics in Selected Personal Care Products",
+    "authors": "Kofi O. Renner, Helen A. Foster, Edwin J. Routledge, Mark D. Scrimshaw",
+    "journal": "Environmental Toxicology and Chemistry",
+    "year": 2022,
+    "doi": "10.1002/etc.5057",
+    "url": "https://doi.org/10.1002/etc.5057",
+    "type": "Research article",
+    "sha256": "e13c6d65105256aeab722823f38bc1c3206007f2e3b87bc573ce5c275dd672da",
+    "rights": "CC BY per primary PDF p. 1. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A methods comparison used selected toothpastes and facial scrubs labeled as containing polyethylene to compare counts and size distributions across analytical approaches.",
+    "scope": "Selected PE-containing personal-care products; method comparison, not a representative prevalence survey of cosmetics.",
+    "findings": "<p>A methods comparison used selected toothpastes and facial scrubs labeled as containing polyethylene to compare counts and size distributions across analytical approaches.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"A Comparison of Different Approaches for Characterizing Microplastics in Selected Personal Care Products measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Selected PE-containing facial scrub FS2</td><td>{{claim:s-e13c6d651052-facial-scrub-microscopy}}</td><td>PDF p. 5 Table 2; pp. 3-4 methods</td></tr><tr><td>Facial scrub FS2</td><td>{{claim:s-e13c6d651052-facial-scrub-size}}</td><td>PDF p. 5 Table 2; p. 3 methods</td></tr></tbody></table></div>",
+    "methods": "Warm-water dispersion, salt density separation, centrifugation and aliquot counting. Light microscopy, laser diffraction and imaging flow cytometry measured different size features/windows. Ten randomly selected fragments per product subjected to µFTIR, confirming PE. Complete extraction blanks analyzed; no particles seen by microscopy/laser diffraction, but imaging flow cytometry blanks high enough to prevent quantification of most products. No reference-material recovery validation; aim was comparison of counting methods.",
+    "fitness": "Supports product-code-specific light-microscopy numbers and method-dependent size distributions. It does not support treating all flow-cytometry events as plastic.",
+    "limitations": "Four deliberately PE-containing products; not prevalence or current-market survey. Chemical identity checked on subsample, not every counted object. Counts extrapolated from aliquots. Table 2 TP2 differs from narrative and flow-cytometry FS2 differs between Table 4 and narrative; accepted Table 2 facial-scrub value only. Primary volume year 2022 despite online publication/filename 2021. No dermal uptake or clinical outcomes measured.",
+    "provenance": {
+      "library_folder": "papers-cosmetics-general",
+      "filename": "2021_Renner_a-comparison-of-different-approaches-for.pdf",
+      "locator": "PDF pp. 2-4 methods; p. 5 Tables 2-3 and count discussion; p. 6 Table 4, polymer identification and conclusions.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-cosmetics-general/2021_Renner_a-comparison-of-different-approaches-for.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-cosmetics-general",
+          "filename": "2021_Renner_a-comparison-of-different-approaches-for.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-ee700e8b74e0",
+    "title": "Personal Care and Cosmetic Products as a Potential Source of Environmental Contamination by Microplastics in a Densely Populated Asian City",
+    "authors": "Saidu M. Bashir, Sam Kimiko, Chu-Wa Mak, James Kar-Hei Fang, David Gonçalves",
+    "journal": "Frontiers in Marine Science",
+    "year": 2021,
+    "doi": "10.3389/fmars.2021.683482",
+    "url": "https://doi.org/10.3389/fmars.2021.683482",
+    "type": "Research article",
+    "sha256": "ee700e8b74e01c55710b25e23522235f6c769b3e20ecb601083e7a1df2ee07a9",
+    "rights": "CC BY per primary PDF p. 11. Cite and paraphrase; no PDF or figures republished.",
+    "description": "A Macao study combined an ingredient-label survey, extraction of selected personal-care products, and a separate coastal-sediment investigation.",
+    "scope": "Product measurements in selected cleansers/scrubs, distinct from label survey, modeled environmental emissions, and environmental sediment counts.",
+    "findings": "<p>A Macao study combined an ingredient-label survey, extraction of selected personal-care products, and a separate coastal-sediment investigation.</p><p class=\"hmi-table-hint\">Scroll horizontally for methods and limitations.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Personal Care and Cosmetic Products as a Potential Source of Environmental Contamination by Microplastics in a Densely Populated Asian City measurements\" tabindex=\"0\"><table><thead><tr><th>Endpoint</th><th>Source-reported result</th><th>Locator</th></tr></thead><tbody><tr><td>Selected facial scrub B</td><td>{{claim:s-ee700e8b74e0-scrub-b-table2}}</td><td>PDF p. 5 Table 2; pp. 2-3 methods</td></tr><tr><td>Selected facial scrub B</td><td>{{claim:s-ee700e8b74e0-scrub-b-size}}</td><td>PDF p. 5 Table 2; p. 3 methods</td></tr></tbody></table></div>",
+    "methods": "Small wet-product portions dispersed in alcohol/water, density separation, drying and binocular microscope enumeration. Three replicate extractions per product; selected fragments measured and weighed. Raman identification confirmed LDPE as major product polymer. Described negative/positive controls and recovery concern sediment workflow; no separate numerical product-workflow blank/recovery result located.",
+    "fitness": "Supports selected-product Table 2 measurements, retaining a conflict with narrative. The ingredient-label inventory is not laboratory confirmation of every product.",
+    "limitations": "Label-screen-selected microbead products, sampled historically; not all cosmetics or current market. Product A/C include other material; use product B Table 2 result with LDPE assignment. Table 2 means differ from nearby prose and product descriptions differ between methods/results. Product-specific blank validation unclear; sediment controls cannot be assumed to validate product extraction. No measured skin penetration, human dose, or clinical outcome.",
+    "provenance": {
+      "library_folder": "papers-cosmetics-general",
+      "filename": "2021_Bashir_personal-care-and-cosmetic-products-as.pdf",
+      "locator": "PDF pp. 2-4 methods; p. 5 Table 2 and results; p. 6 Figures 2-3; p. 11 rights.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-cosmetics-general/2021_Bashir_personal-care-and-cosmetic-products-as.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-cosmetics-general",
+          "filename": "2021_Bashir_personal-care-and-cosmetic-products-as.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-70a2257b7f9b",
+    "title": "Hidden Threats in Infant Diets and Environment: Risks of Microplastics and Nanoplastics in Food",
+    "authors": "Kornelia Kadac-Czapska, Bożena Bukowska, Paulina Sicińska, Małgorzata Grembecka",
+    "journal": "Reviews of Environmental Contamination and Toxicology",
+    "year": 2025,
+    "doi": "10.1007/s44169-025-00099-z",
+    "url": "https://doi.org/10.1007/s44169-025-00099-z",
+    "type": "Review",
+    "sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+    "rights": "CC BY-NC-ND 4.0 per primary PDF p. 23. Bibliographic facts and original paraphrase only; no PDF or figures republished.",
+    "description": "A narrative review discusses infant exposure pathways and summarizes studies of milk, formula, water, produce, and other foods.",
+    "scope": "Context-only review; no original test of packaged infant puree in the supplied category folder.",
+    "findings": "<p>A narrative review discusses infant exposure pathways and summarizes studies of milk, formula, water, produce, and other foods.</p><p>No numerical product measurement from this source is accepted in this packet. Useful for mapping questions and leads to original studies. Not accepted as a source of a numerical infant-puree concentration or product-specific health claim.</p>",
+    "methods": "Literature synthesis, not a new consumer-product experiment. Its food tables attribute measurements to other papers. No original puree sampling, particle extraction, polymer confirmation, recovery, or blank-control data.",
+    "fitness": "Useful for mapping questions and leads to original studies. Not accepted as a source of a numerical infant-puree concentration or product-specific health claim.",
+    "limitations": "Only file in infant-food-puree folder. Broad infant-food discussion includes milk, formula, water, produce, meat and flour, but none becomes a packaged-puree test merely because an infant may eat it. Tables and toxicology results are secondary, not original findings. Original source retrieval/review needed before numerical acceptance.",
+    "provenance": {
+      "library_folder": "papers-infant-food-puree",
+      "filename": "2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+      "locator": "PDF p. 1 review identity; pp. 9-12 infant-food sections and Table 3; pp. 22-23 limitations and license.",
+      "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-infant-food-puree/2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-infant-food-puree",
+          "filename": "2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-d4417412ccc4",
+    "title": "The Global Spread of Microplastics: Contamination in Mussels, Clams, and Crustaceans from World Markets",
+    "authors": "Tamara Mutić, Jelena Mutić, Miloš Ilić, Vesna Jovanović, Jelena Aćimović, Boban Andjelković, Dragana Stanić-Vučinić, Maria Krishna de Guzman, Mirjana Andjelkovic, Mirjana Turkalj, Tanja Cirkovic Velickovic",
+    "journal": "Foods",
+    "year": 2024,
+    "doi": "10.3390/foods13233793",
+    "url": "https://doi.org/10.3390/foods13233793",
+    "type": "Research article",
+    "sha256": "d4417412ccc4174d8fb2332c132502389d5d9a14dc2f5f0ddf710edc2924efb0",
+    "rights": "CC BY 4.0, PDF p. 1. Paraphrase only; no PDF or figures redistributed.",
+    "description": "A market survey used digestion and microFTIR to analyze edible tissue from commercial shellfish purchased in different regions.",
+    "scope": "Edible shellfish tissue; market purchase does not establish production origin.",
+    "findings": "<p>A market survey used digestion and microFTIR to analyze edible tissue from commercial shellfish purchased in different regions.</p><ul><li>{{claim:s-d4417412ccc4-prevalence}}; Edible parts of commercial shellfish; 190 animals analyzed individually.</li><li>{{claim:s-d4417412ccc4-clam-korea}}; Clams purchased in Korea; all tested individuals, including nondetections.</li><li>{{claim:s-d4417412ccc4-mussel-belgium}}; Mussels purchased in Belgium; all tested individuals, including nondetections.</li><li>{{claim:s-d4417412ccc4-analysis-size-limit}}; MicroFTIR characterization of shellfish isolates; paper distinguishes image spatial resolution from reported smaller detected particles.</li></ul>",
+    "methods": "Alkaline, dual enzymatic and peroxide digestion; whole-filter microFTIR screening with spectral matching and manual checks. Air and procedural blanks; no confirmed plastic in reported procedural blanks. Recovery and polymer integrity were tested.",
+    "fitness": "Direct evidence about edible tissue from the sampled market lots.",
+    "limitations": "Selected markets and species, not a global prevalence estimate. The main text reports a size limit but finer analytical consistency is limited; supplementary tables were not supplied separately. Purchase location is not necessarily harvest location.",
+    "provenance": {
+      "library_folder": "papers-fish-seafood-mixed",
+      "filename": "2024_Mutic_the-global-spread-of-microplastics-contamination.pdf",
+      "locator": "PDF pp. 3-8 §§2-3.2.1; p. 7 Table 2",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-fish-seafood-mixed",
+          "filename": "2024_Mutic_the-global-spread-of-microplastics-contamination.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-452a5f83f01d",
+    "title": "Microplastics in eviscerated flesh and excised organs of dried fish",
+    "authors": "Ali Karami, Abolfazl Golieskardi, Yu Bin Ho, Vincent Larat, Babak Salamatinia",
+    "journal": "Scientific Reports",
+    "year": 2017,
+    "doi": "10.1038/s41598-017-05828-6",
+    "url": "https://doi.org/10.1038/s41598-017-05828-6",
+    "type": "Research article",
+    "sha256": "452a5f83f01d973fe8504fc739d9a90387bcda26fd33c55219acd85d485b3431",
+    "rights": "CC BY 4.0, PDF p. 9. Paraphrase only.",
+    "description": "A dried-fish study chemically distinguished plastic polymers, pigments, other particles and unidentified material in separated flesh and organs.",
+    "scope": "Dried fish from Malaysian markets; flesh means fish excluding gills and viscera, not isolated muscle.",
+    "findings": "<p>A dried-fish study chemically distinguished plastic polymers, pigments, other particles and unidentified material in separated flesh and organs.</p><ul><li>{{claim:s-452a5f83f01d-confirmed}}; Four dried-fish species, 30 fish/species, flesh and organs analyzed separately.</li><li>{{claim:s-452a5f83f01d-flesh}}; Eviscerated flesh defined as whole fish excluding gills and viscera.</li><li>{{claim:s-452a5f83f01d-organs}}; Gills and viscera analyzed together, separately from eviscerated flesh.</li><li>{{claim:s-452a5f83f01d-initial-sieve}}; Dried-fish digest filtered before density separation and final fine filtration.</li></ul>",
+    "methods": "KOH digestion, initial coarse filtration, NaI density separation, visual candidate selection and micro-Raman identification. EDX examined inorganic composition. Concurrent digestion and density-separation blanks contained no particles.",
+    "fitness": "Direct evidence for the sampled dried fish, with flesh and organ fractions kept separate.",
+    "limitations": "Whole eviscerated flesh includes tissues beyond muscle. Coarse initial filtration limits small-particle recovery; the later fine filter is not a detection limit. Packaging/processing versus environmental contributions were unresolved.",
+    "provenance": {
+      "library_folder": "papers-fish-seafood-mixed",
+      "filename": "2017_Karami_microplastics-in-eviscerated-flesh-and-excised.pdf",
+      "locator": "PDF pp. 2-4 Results and Figures 1, 5-6; pp. 6-7 Methods",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-fish-seafood-mixed",
+          "filename": "2017_Karami_microplastics-in-eviscerated-flesh-and-excised.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-bc68ef9e4ee3",
+    "title": "First Report on Occurrence and Characterization of Microplastics in Feces of Larus armenicus (Buturlin, 1934) in the Lake Van Basin (Eastern Anatolia, Türkiye)",
+    "authors": "Erkan Azizoğlu",
+    "journal": "Toxics",
+    "year": 2026,
+    "doi": "10.3390/toxics14030202",
+    "url": "https://doi.org/10.3390/toxics14030202",
+    "type": "Research article",
+    "sha256": "bc68ef9e4ee3b62489355a71d11a3faeaa549454b9cbb69d70de03fde4de4cf2",
+    "rights": "CC BY, PDF p. 1. Paraphrase only.",
+    "description": "A noninvasive survey reported suspected particles in composite Armenian gull fecal samples, with FTIR support for selected larger particles.",
+    "scope": "Wildlife feces at Lake Van Basin stations; environmental context only.",
+    "findings": "<p>A noninvasive survey reported suspected particles in composite Armenian gull fecal samples, with FTIR support for selected larger particles.</p><ul><li>{{claim:s-bc68ef9e4ee3-deposits}}; Selected from Armenian gull feces collected in the Lake Van Basin; pooled before analysis.</li><li>{{claim:s-bc68ef9e4ee3-suspects}}; Composite gull feces; no quantitative field or procedural blanks.</li><li>{{claim:s-bc68ef9e4ee3-ftirsample}}; Selection of larger particles; Methods describes fibers longer than 300 µm.</li><li>{{claim:s-bc68ef9e4ee3-largest-size-class}}; Most frequent visual size category of all suspected fecal particles.</li></ul>",
+    "methods": "Fecal deposits were pooled into composite groups, digested with KOH and peroxide, filtered and visually classified. Selected larger particles underwent FTIR; SEM-EDX assessed surface and elemental characteristics. Quantitative field and procedural blanks were not performed.",
+    "fitness": "Evidence that selected fecal particles were polymers; supports a narrow local environmental occurrence page.",
+    "limitations": "Not individual-bird prevalence or body burden. Most visual particles were not chemically confirmed. No quantitative blanks means airborne contamination cannot be ruled out. Abstract and Methods differ in description of which larger particles were selected. EDX alone cannot establish polymer identity.",
+    "provenance": {
+      "library_folder": "papers-environmental-wildlife",
+      "filename": "2026_Azizoglu_first-report-on-occurrence-and-characterization.pdf",
+      "locator": "PDF pp. 4-7 §§2-3.2, Tables 1-2; pp. 11-12 polymer discussion",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-environmental-wildlife",
+          "filename": "2026_Azizoglu_first-report-on-occurrence-and-characterization.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-850d35272369",
+    "title": "Human exposure to PM10 microplastics in indoor air",
+    "authors": "Nadiia Yakovenko, Lucía Pérez-Serrano, Théo Segur, Oskar Hagelskjaer, Henar Margenat, Gaël Le Roux, Jeroen E. Sonke",
+    "journal": "PLOS ONE",
+    "year": 2025,
+    "doi": "10.1371/journal.pone.0328011",
+    "url": "https://doi.org/10.1371/journal.pone.0328011",
+    "type": "Research article",
+    "sha256": "850d35272369816328e323e65b209df4d7c6d6faf91156f55189d4ae4df5dfac",
+    "rights": "CC BY per PDF p. 1. Paraphrase only.",
+    "description": "An indoor-air study used Raman spectroscopy to quantify small suspended particles in apartments and car cabins, with blank and recovery corrections.",
+    "scope": "Suspended indoor air sampled in selected French apartments and cars.",
+    "findings": "<p>An indoor-air study used Raman spectroscopy to quantify small suspended particles in apartments and car cabins, with blank and recovery corrections.</p><ul><li>{{claim:s-850d35272369-residential}}; Seven samples from three French apartments; blank/recovery corrected, area extrapolated.</li><li>{{claim:s-850d35272369-car}}; Five samples from two car cabins; blank/recovery corrected, area extrapolated.</li><li>{{claim:s-850d35272369-apartment-size}}; Raman identified particles from residential air samples.</li></ul>",
+    "methods": "Active air sampling onto filters; Raman identification on a small central filter area; size/polymer-specific blank subtraction, recovery correction and extrapolation to filter area and sampled air volume.",
+    "fitness": "Direct evidence about the measured indoor-air conditions and small-particle analytical window.",
+    "limitations": "Small convenience sample; filter-area extrapolation and recovery correction add uncertainty. Recovery was tested with larger reference beads than many observed particles. Recovery estimates are inconsistently presented between Methods and Results. Car versus apartment difference was not statistically significant. Model-derived nanoplastic and inhaled-dose extrapolations are excluded here.",
+    "provenance": {
+      "library_folder": "papers-household-dust-air",
+      "filename": "2025_Yakovenko_human-exposure-to-pm10-microplastics-in.pdf",
+      "locator": "PDF pp. 3-9 Materials and methods, Results, Figures 1-3",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-household-dust-air",
+          "filename": "2025_Yakovenko_human-exposure-to-pm10-microplastics-in.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-b77f33e84d3c",
+    "title": "Investigation of indoor microplastics in settled indoor house dust in single-person residential buildings in Japan",
+    "authors": "Yifan Bai, Eunsu Lim, Yuan Ni, Jingyi Wei, Shunji Kurosu, Jinya Takeuchi, Hoon Kim, Takeshi Ogasawara, Akihisa Takemura",
+    "journal": "Japan Architectural Review",
+    "year": 2025,
+    "doi": "10.1002/2475-8876.70013",
+    "url": "https://doi.org/10.1002/2475-8876.70013",
+    "type": "Research article",
+    "sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+    "rights": "CC BY-NC-ND per PDF p. 1. Cite and paraphrase; no PDF or figures redistributed.",
+    "description": "A household dust survey chemically identified selected particles in sieved settled-dust fractions, separating synthetic polymers from cellulose.",
+    "scope": "Floor dust from single-person residences in Japan; composition survey, not measured air concentration.",
+    "findings": "<p>A household dust survey chemically identified selected particles in sieved settled-dust fractions, separating synthetic polymers from cellulose.</p><ul><li>{{claim:s-b77f33e84d3c-dustsamples}}; Single-person residences in four Japanese regions; collected using vacuum cleaners.</li><li>{{claim:s-b77f33e84d3c-petshare}}; Selected dust particles, not total dust mass or all airborne fibers.</li></ul>",
+    "methods": "Participants vacuum-collected settled dust; sieved fractions underwent random particle selection and KBr-plate microFTIR identification, with optical and SEM morphology. Clean laboratory handling described, but no quantified procedural blank result located.",
+    "fitness": "Supports presence and composition of polymers in the selected settled-dust particles.",
+    "limitations": "Selected particles do not establish total particles per gram or air volume. Cellulose was abundant and is not automatically plastic. No quantified blank result located. Size/region summary percentages vary across the paper, so no aggregate polymer percentage is used. Publication is the 2025 volume despite the acquisition filename and copyright dating to 2024.",
+    "provenance": {
+      "library_folder": "papers-household-dust-air",
+      "filename": "2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+      "locator": "PDF pp. 1-4 §§2-3.2; p. 8 limitations",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-household-dust-air",
+          "filename": "2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-d2f3af1338e5",
+    "title": "Detection of Microplastic in Human Placenta and Meconium in a Clinical Setting",
+    "authors": "Thorsten Braun, Loreen Ehrlich, Wolfgang Henrich, Sebastian Koeppel, Ievgeniia Lomako, Philipp Schwabl, Bettina Liebmann",
+    "journal": "Pharmaceutics",
+    "year": 2021,
+    "doi": "10.3390/pharmaceutics13070921",
+    "url": "https://doi.org/10.3390/pharmaceutics13070921",
+    "type": "Research article",
+    "sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+    "rights": "CC BY 4.0 per PDF p. 1. Paraphrase only.",
+    "description": "A clinical pilot screened placenta and meconium while examining operating-room materials, airborne fallout and negative controls.",
+    "scope": "Clinical human sample screening; methodological pilot.",
+    "findings": "<p>A clinical pilot screened placenta and meconium while examining operating-room materials, airborne fallout and negative controls.</p><ul><li>{{claim:s-d2f3af1338e5-size-window}}; FTIR clinical pilot; placenta and meconium tables.</li></ul>",
+    "methods": "Chemical digestion, coarse sieving and FTIR microscopy screened a specified polymer panel. Sampling, instrument/container negative controls, procedural blank, clinical material checks and operating-room fallout were assessed.",
+    "fitness": "Demonstrates why human tissue findings require detailed contamination controls.",
+    "limitations": "Very small pilot; several negative controls were positive. Some sample and control polymers overlap, making counts or general prevalence unsuitable. Clinical handling complicates attribution. Positive screening does not establish fetal injury or a route from a named product.",
+    "provenance": {
+      "library_folder": "papers-human-biomonitoring",
+      "filename": "2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+      "locator": "PDF pp. 3-8 §§2-3 and Tables 1-2",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-human-biomonitoring",
+          "filename": "2021_Braun_detection-of-microplastic-in-human-placenta.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-d78cd56bfc44",
+    "title": "Microplastics in the Olfactory Bulb of the Human Brain",
+    "authors": "Luís Fernando Amato-Lourenço, Katia Cristina Dantas, Gabriel Ribeiro Júnior, Vitor Ribeiro Paes, Rômulo Augusto Ando, Raul de Oliveira Freitas, Ohanna Maria Menezes M. da Costa, Renata S. Rabelo, Kelly Cristina Soares Bispo, Regiani Carvalho-Oliveira, Thais Mauad",
+    "journal": "JAMA Network Open",
+    "year": 2024,
+    "doi": "10.1001/jamanetworkopen.2024.40018",
+    "url": "https://doi.org/10.1001/jamanetworkopen.2024.40018",
+    "type": "Research article",
+    "sha256": "d78cd56bfc44afaf13cf730b5fd79ccbb70a058ad23492a13c4cb0a80057b45a",
+    "rights": "CC BY per PDF pp. 1 and 8. Paraphrase only.",
+    "description": "A postmortem case series identified synthetic polymer particles and fibers in olfactory bulb tissue using microFTIR.",
+    "scope": "Human postmortem olfactory bulb specimens; observational detection.",
+    "findings": "<p>A postmortem case series identified synthetic polymer particles and fibers in olfactory bulb tissue using microFTIR.</p><ul><li>{{claim:s-d78cd56bfc44-occurrence}}; São Paulo postmortem olfactory bulb case series.</li><li>{{claim:s-d78cd56bfc44-total}}; Direct cryosections and digested olfactory bulb filters.</li><li>{{claim:s-d78cd56bfc44-particle-size}}; Nonfiber objects measured from microphotographs; fibers separately reported.</li></ul>",
+    "methods": "Direct cryosections and enzyme-digested tissue filters examined with microFTIR and library matching; plastic-minimizing handling, procedural/negative controls and stillbirth control tissue. No synthetic polymers reported in procedural or negative-control filters. Recovery testing was not feasible.",
+    "fitness": "Supports tissue-specific detection in the studied decedents.",
+    "limitations": "Small selected postmortem sample; incomplete digested-tissue availability; tissue matrix can confound spectra; nanoplastics were not detectable. Entry route, product source, cumulative body burden and disease causation were not established.",
+    "provenance": {
+      "library_folder": "papers-human-biomonitoring",
+      "filename": "2024_AmatoLourenco_microplastics-in-the-olfactory-bulb-of.pdf",
+      "locator": "PDF pp. 2-4 Methods and Results; p. 7 Table 2; p. 8 Limitations",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-human-biomonitoring",
+          "filename": "2024_AmatoLourenco_microplastics-in-the-olfactory-bulb-of.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-ec050c3d5049",
+    "title": "The contribution of washing processes of synthetic clothes to microplastic pollution",
+    "authors": "Francesca De Falco, Emilia Di Pace, Mariacristina Cocca, Maurizio Avella",
+    "journal": "Scientific Reports",
+    "year": 2019,
+    "doi": "10.1038/s41598-019-43023-x",
+    "url": "https://doi.org/10.1038/s41598-019-43023-x",
+    "type": "Research article",
+    "sha256": "ec050c3d5049f8e503c90c855677f41777252e2c8e13fad07e86521682c90b25",
+    "rights": "CC BY 4.0 per PDF p. 11. Paraphrase only.",
+    "description": "Household washing trials measured fiber mass released from selected garments and examined how composition and yarn structure affected release.",
+    "scope": "Laundry wastewater from selected polyester garments and a mixed textile.",
+    "findings": "<p>Household washing trials measured fiber mass released from selected garments and examined how composition and yarn structure affected release.</p><ul><li>{{claim:s-ec050c3d5049-polyester-knit}}; First wash of study-code BT polyester knit, household synthetic program at 40 °C for 107 min; duplicate trials.</li><li>{{claim:s-ec050c3d5049-polyester-woven}}; First wash of study-code GB polyester woven blouse, same household washing protocol.</li></ul>",
+    "methods": "Whole-effluent staged filtration, gravimetric mass, microscopy and SEM sizes, FTIR identity and thermal analysis for the mixed textile. Empty cleaning cycles and blank tests found no microfiber contamination. Published fiber counts were calculated from mass and assumed geometry, not individually counted.",
+    "fitness": "Direct textile release evidence; pure-polyester mass results are kept separate from blended-cellulose release.",
+    "limitations": "Few garment types and duplicate wash trials limit generalization. Fiber counts depend on geometry assumptions. Smaller fibers in a separate aliquot were not extrapolated to total wastewater. Fabric structure and recycled content were confounded.",
+    "provenance": {
+      "library_folder": "papers-textiles-apparel-outdoor-gear",
+      "filename": "2019_Falco_the-contribution-of-washing-processes-of.pdf",
+      "locator": "PDF pp. 2-3 Results; pp. 8-9 Methods",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-textiles-apparel-outdoor-gear",
+          "filename": "2019_Falco_the-contribution-of-washing-processes-of.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "s-1cab99d72043",
+    "title": "Characterization of Nanoplastics, Fibrils, and Microplastics Released during Washing and Abrasion of Polyester Textiles",
+    "authors": "Tong Yang, Jialuo Luo, Bernd Nowack",
+    "journal": "Environmental Science & Technology",
+    "year": 2021,
+    "doi": "10.1021/acs.est.1c04826",
+    "url": "https://doi.org/10.1021/acs.est.1c04826",
+    "type": "Research article",
+    "sha256": "1cab99d720439befa005675bd60eeed69ac6c3335a79177c6bcdb3737562a637",
+    "rights": "Copyright 2021 authors, published by ACS, PDF p. 1; no reuse license identified in supplied PDF. Cite and paraphrase only.",
+    "description": "A controlled polyester-fleece experiment distinguished conventional microfibers, fine fibrils and nanoparticles after washing and abrasion followed by washing.",
+    "scope": "One polyester fleece in controlled laundering and abrasion tests.",
+    "findings": "<p>A controlled polyester-fleece experiment distinguished conventional microfibers, fine fibrils and nanoparticles after washing and abrasion followed by washing.</p><ul><li>{{claim:s-1cab99d72043-wash-fibers}}; Prewashed polyester fleece; controlled Gyrowash laundering at 40 °C for 45 min.</li><li>{{claim:s-1cab99d72043-abraded-fibers}}; Prewashed fleece after 5000 Martindale rubs, followed by controlled laundering/extraction.</li><li>{{claim:s-1cab99d72043-wash-nano}}; Controlled laundering of polyester fleece; NTA count with blank subtraction; selected nanoparticles chemically supported as PET.</li><li>{{claim:s-1cab99d72043-nano-window}}; NTA quantitative fraction used for textile nanoparticle result.</li></ul>",
+    "methods": "Gyrowash laundering and Martindale abrasion; SEM counted fibers/fibrils; NTA counted nanoparticles; TEM morphology and STXM/NEXAFS confirmed PET in selected nanoparticles. Method blanks traversed processing and were subtracted.",
+    "fitness": "Direct evidence of different size fractions from the tested textile, with chemical support for selected nanoparticles.",
+    "limitations": "One textile and laboratory settings. NTA does not chemically identify each counted particle. Significant nanoparticle background was subtracted. Particle-to-mass estimates assume shape and are not direct mass measurements. Abrasion sample means abrasion followed by extraction/washing, not airborne release.",
+    "provenance": {
+      "library_folder": "papers-textiles-apparel-outdoor-gear",
+      "filename": "2021_Yang_characterization-of-nanoplastics-fibrils-and-microplastics.pdf",
+      "locator": "PDF pp. 2-7 §§2-3.4; PDF p. 6 printed 15878 Table 1",
+      "manifest_hash_matches": true,
+      "authoritative_library_matches": [
+        {
+          "folder": "papers-textiles-apparel-outdoor-gear",
+          "filename": "2021_Yang_characterization-of-nanoplastics-fibrils-and-microplastics.pdf"
+        }
+      ]
+    }
+  }
+]

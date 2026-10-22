@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-22",
+  "brand": "Microplastics Reference Library",
+  "deployment": "dpl_2iCKMjPgvQRLWzgeBsQck9yC7AnW",
+  "url": "https://microplasticsindex-dmltra60c-karen-pendergrass-projects.vercel.app",
+  "target": "Preview",
+  "readyState": "READY",
+  "source_commit": "dc7ee70d7241a995c5440a8c95aaec9a13fa58a1",
+  "protection": "Vercel Authentication, all_except_custom_domains",
+  "anonymous_status": 302,
+  "manifest_matches_local": true,
+  "page_count": 76,
+  "source_count": 49,
+  "claim_count": 80,
+  "http_checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "application_matches_local_build": true,
+      "provider_injection": "Exact Vercel preview feedback script excluded from body comparison"
+    },
+    {
+      "path": "/products/plastic-food-storage",
+      "status": 200,
+      "application_matches_local_build": true
+    },
+    {
+      "path": "/products/baby-wipes",
+      "status": 200,
+      "application_matches_local_build": true
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "application_matches_local_build": true
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "application_matches_local_build": true
+    },
+    {
+      "path": "/build-manifest.json",
+      "status": 200,
+      "application_matches_local_build": true
+    },
+    {
+      "path": "/lint",
+      "status": 404
+    },
+    {
+      "path": "/batch-reports",
+      "status": 404
+    },
+    {
+      "path": "/api/evidence-packet",
+      "status": 404
+    },
+    {
+      "path": "/ingredients/ingredients/salt",
+      "status": 404
+    }
+  ]
+}

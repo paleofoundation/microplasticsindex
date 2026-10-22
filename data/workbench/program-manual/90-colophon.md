@@ -1,7 +1,0 @@
-# Colophon
-
-This manual is a compiled document. Its content is authored as source files, assembled into a single master for each edition by a build script, and typeset to PDF through a Typst book template. The internal and public editions are generated from one source: the public edition omits the internal Program Operations part and the internal-use notice, and the two never diverge on a fact. Regenerating the manual after a source change is a single build, which is what keeps the bound document and the operating reality from drifting apart.
-
-The program's authoritative operating documents, the Program Governance Policy and the Lot Testing Schedule, are under separate version control and may be revised between editions of this manual. Where this manual and a controlled operating document disagree, the controlled document governs for operational purposes, and the Program Operator issues a Technical Clarification.
-
-Operated by the Institute of Contaminant Standards. Copyright, the year of publication, Paleo Certified, Inc. The HMTc Certification Mark and seal artwork are trademarks of Paleo Certified, Inc.; the mark is pending registration with the United States Patent and Trademark Office (Serial No. 99307306). Correspondence regarding this manual, including controlled-terms methodology-access requests under Part 5.1, is directed to the Program Operator through the Institute of Contaminant Standards at contaminantstandards.com.

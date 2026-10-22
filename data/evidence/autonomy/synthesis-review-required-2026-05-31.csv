@@ -1,8 +1,0 @@
-slug,metal,verdict,distinct_sources,weak_recon_share,pooled_p10,pooled_p90,pooled_p95,reason
-fish-containing-baby-foods,tAs,READY FOR REVIEW,2,1,48.3103,152.0345,158.5172,weak_reconstruction_dominant
-fish-containing-baby-foods,tHg,READY FOR REVIEW,2,1,7.718,15.0798,15.5399,weak_reconstruction_dominant
-fruit-purees,Pb,PROVISIONAL: review sensitivity disagreement,4,0.5,0.0324,3.8846,5.105,weak_reconstruction_dominant
-fruit-purees,tHg,PROVISIONAL: review sensitivity disagreement,4,0.5,0,1.502,9.8853,weak_reconstruction_dominant
-fruit-purees,Al,READY FOR REVIEW,3,0.67,198.329,1091.1931,1108.0966,weak_reconstruction_dominant
-fruit-purees,Ni,PROVISIONAL: review sensitivity disagreement,3,0.67,37.0887,178.9941,198.5037,weak_reconstruction_dominant
-fruit-purees,Sn,PROVISIONAL: review sensitivity disagreement,3,0.67,9.664,248.167,376.0709,weak_reconstruction_dominant

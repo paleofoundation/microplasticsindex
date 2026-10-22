@@ -1,0 +1,3466 @@
+[
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Malik_2025_bioplastic_diapers_wipes_consumer_awareness.pdf",
+    "sha256": "e39f014f1c8c5d586204ec40b2d0f91c2680a8a9ab97bbe7de17cf46fd040108",
+    "manifest_hash": "e39f014f1c8c5d586204ec40b2d0f91c2680a8a9ab97bbe7de17cf46fd040108",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Hada_2020_nonwoven_wet_wipes_trends.pdf",
+    "sha256": "5772e804433ff730431d8904190af7a3356b7cf77b3bd13768698b08a32827ff",
+    "manifest_hash": "5772e804433ff730431d8904190af7a3356b7cf77b3bd13768698b08a32827ff",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Hu_2021_wet_wipes_masks_fiber_microplastics.pdf",
+    "sha256": "bf9b26292b7d486cc1b3e9f579a3682994e743802dd7e453b367a327a83dfa32",
+    "manifest_hash": "bf9b26292b7d486cc1b3e9f579a3682994e743802dd7e453b367a327a83dfa32",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Shruti_2021_wet_wipes_microfibers_COVID.pdf",
+    "sha256": "7ae96f1ffdbb8c467b9ee9a185020cafa76d41674c97a953648a55418ed38fa6",
+    "manifest_hash": "7ae96f1ffdbb8c467b9ee9a185020cafa76d41674c97a953648a55418ed38fa6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Kwon_2022_microfiber_shedding_nonwoven_wipes.pdf",
+    "sha256": "4b43a51e028214c84c3c6d3c0cfa14c756bfbe9d639ee2730b58b5727bc9805c",
+    "manifest_hash": "4b43a51e028214c84c3c6d3c0cfa14c756bfbe9d639ee2730b58b5727bc9805c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Allison_2023_flushed_biodegradable_wipes_degrade.pdf",
+    "sha256": "89ce18cb30e2e2d1e7a8a929b2489fdfa91a9fa7dc9da7f68ae86e5530b20f59",
+    "manifest_hash": "89ce18cb30e2e2d1e7a8a929b2489fdfa91a9fa7dc9da7f68ae86e5530b20f59",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Allison_2025_flushed_wet_wipe_emissions_rivers.pdf",
+    "sha256": "a0b2d2d51fbd54808bd1b948669e9315de5592155f5adf8d6522620d310cff96",
+    "manifest_hash": "a0b2d2d51fbd54808bd1b948669e9315de5592155f5adf8d6522620d310cff96",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Chia_2025_microplastics_pediatric_health_review.pdf",
+    "sha256": "f621c3d4ce590b3f8194c6cfad94ca022c265937d411880dbc7ec979fb2582a7",
+    "manifest_hash": "f621c3d4ce590b3f8194c6cfad94ca022c265937d411880dbc7ec979fb2582a7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "EU_2019_Directive_2019-904_single-use_plastics.pdf",
+    "sha256": "76df869d7d216c0776935028d11f07a8150a333ae433692da39a38264ec10144",
+    "manifest_hash": "76df869d7d216c0776935028d11f07a8150a333ae433692da39a38264ec10144",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "EU_2020_Implementing_Regulation_2020-2151_SUP_marking.pdf",
+    "sha256": "6968bca39f26d6e0682c2dd641a00bbd9f7528224b2b51291d63c940389df381",
+    "manifest_hash": "6968bca39f26d6e0682c2dd641a00bbd9f7528224b2b51291d63c940389df381",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Obriain_2020_wet_wipes_sanitary_towels_microplastic_fibres.pdf",
+    "sha256": "a2925479b077e5f23753c9b9767e3b36768d819b8e16372f12e6501f759f8dfe",
+    "manifest_hash": "a2925479b077e5f23753c9b9767e3b36768d819b8e16372f12e6501f759f8dfe",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-baby-wipes",
+    "filename": "Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+    "sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+    "manifest_hash": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2021_Filho_detection-and-characterization-of-small-sized.pdf",
+    "sha256": "e45e50ed9de0fee8bbc70cb19177d9b67eab4be5c0bfef788824ee597cef89cd",
+    "manifest_hash": "e45e50ed9de0fee8bbc70cb19177d9b67eab4be5c0bfef788824ee597cef89cd",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Saraluck_detection-of-microplastics-in-human-breast.pdf",
+    "sha256": "897059afa8b4ea521552ceb0ca9d8844c678a75860f72cfe2472e0a9dde1e495",
+    "manifest_hash": "897059afa8b4ea521552ceb0ca9d8844c678a75860f72cfe2472e0a9dde1e495",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2023_Crosta_microplastics-contamination-in-nonalcoholic-beverages-from.pdf",
+    "sha256": "cbc7844a6c4d35f56d4f174997ab9ba97e72f2778159a020f56c8240c7d5e1a6",
+    "manifest_hash": "cbc7844a6c4d35f56d4f174997ab9ba97e72f2778159a020f56c8240c7d5e1a6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Visentin_assessing-microplastic-contamination-in-milk-and.pdf",
+    "sha256": "546d0be004342210f20d5e58e967f8e6fa0459f0caeb0fdfe30bc999703a0809",
+    "manifest_hash": "546d0be004342210f20d5e58e967f8e6fa0459f0caeb0fdfe30bc999703a0809",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Banica_microplastics-polycyclic-aromatic-hydrocarbons-and-heavy.pdf",
+    "sha256": "880d7ed463f8b90bf35f5b49e8f8bfd2a17ae50958e612a98785b02c66c9ab0b",
+    "manifest_hash": "880d7ed463f8b90bf35f5b49e8f8bfd2a17ae50958e612a98785b02c66c9ab0b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Soudavari_occurrence-and-health-risk-assessment-of.pdf",
+    "sha256": "1e1e98b48d7172edc607e47594d21d0ef84ae097d9e42065d1d1f882eba503b0",
+    "manifest_hash": "1e1e98b48d7172edc607e47594d21d0ef84ae097d9e42065d1d1f882eba503b0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Akbulut_microplastic-release-from-single-use-plastic.pdf",
+    "sha256": "a77701332406b55edbb5659038519c7a76374f44b9114939a4c167334169969f",
+    "manifest_hash": "a77701332406b55edbb5659038519c7a76374f44b9114939a4c167334169969f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Wang_assessing-microplastic-contamination-in-soda-beverages.pdf",
+    "sha256": "4a8f85efd049c319a189f5843ff3877085b0d347e42617a7245487f418f49702",
+    "manifest_hash": "4a8f85efd049c319a189f5843ff3877085b0d347e42617a7245487f418f49702",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2026_Thamsenanupap_occurrence-and-characteristics-of-microplastics-in.pdf",
+    "sha256": "99d5198813a93c757d1162196281413a8c2508a4fdcbc3d434b0c8648f5921c4",
+    "manifest_hash": "99d5198813a93c757d1162196281413a8c2508a4fdcbc3d434b0c8648f5921c4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Santonicola_study-of-fibrous-microplastic-and-natural.pdf",
+    "sha256": "ca7ed36ea2939662b5775e2642f1a203ec6a03d84d4ee27e0403a7413fbc8e6f",
+    "manifest_hash": "ca7ed36ea2939662b5775e2642f1a203ec6a03d84d4ee27e0403a7413fbc8e6f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2026_Jabbarzadeh_microplastic-contamination-in-commercial-milk-quantification.pdf",
+    "sha256": "4c7137d6934edd3d3c7faa581d37d1951933785bbd7e95358a707f44ef13dfa1",
+    "manifest_hash": "4c7137d6934edd3d3c7faa581d37d1951933785bbd7e95358a707f44ef13dfa1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2022_Vitali_microplastics-and-nanoplastics-in-food-water.pdf",
+    "sha256": "efcf24be23d068bb536265315749f82b119c695decd918890d9fe0bf4c8a818d",
+    "manifest_hash": "efcf24be23d068bb536265315749f82b119c695decd918890d9fe0bf4c8a818d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2020_Chen_quantification-of-microplastics-by-count-size.pdf",
+    "sha256": "97ac777f63459c4b07c657abcf8d5b826234c0bb53d9af423906b11d4c47e411",
+    "manifest_hash": "97ac777f63459c4b07c657abcf8d5b826234c0bb53d9af423906b11d4c47e411",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Dang_quantification-of-polystyrene-microplastics-in-water.pdf",
+    "sha256": "eb5627314a355116ba52287d85787f6d21a543d39d014e579af8e10cc191f6d3",
+    "manifest_hash": "eb5627314a355116ba52287d85787f6d21a543d39d014e579af8e10cc191f6d3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_AlMansoori_synthetic-microplastics-in-hot-and-cold.pdf",
+    "sha256": "2d61e27a13a9bbc8af48c5899165b1355c46db59e7c3fd21cb3dedb6d6bd4aeb",
+    "manifest_hash": "2d61e27a13a9bbc8af48c5899165b1355c46db59e7c3fd21cb3dedb6d6bd4aeb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+    "sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+    "manifest_hash": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2024_Zhang_microplastics-and-nanoplastics-in-drinking-water.pdf",
+    "sha256": "0e07183824f02167a516a4c5e27c83c794395aaebeef1c80a04f3ae1db159a22",
+    "manifest_hash": "0e07183824f02167a516a4c5e27c83c794395aaebeef1c80a04f3ae1db159a22",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2020_Punyauppapath_microplastics-origin-environmental-impact-food-and.pdf",
+    "sha256": "077df78cc13174da847a1fd2359ec506e6d13a722b53e9795f6ee98ab836f9f8",
+    "manifest_hash": "077df78cc13174da847a1fd2359ec506e6d13a722b53e9795f6ee98ab836f9f8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Kim_portable-surface-acoustic-wave-sensor-systems.pdf",
+    "sha256": "1028b718293ad90e73ad6cc6137cf7860a7b232d02c3eb0a4e760a3373660e07",
+    "manifest_hash": "1028b718293ad90e73ad6cc6137cf7860a7b232d02c3eb0a4e760a3373660e07",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2026_Shafiq_influence-of-milking-methods-on-microplastic.pdf",
+    "sha256": "568321bdd2dc398b0878074c9be06f314c4e4de0d020f3c5b1117c4e49720a9a",
+    "manifest_hash": "568321bdd2dc398b0878074c9be06f314c4e4de0d020f3c5b1117c4e49720a9a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2026_Santonicola_analytical-protocol-assessment-for-microplastic-and.pdf",
+    "sha256": "7a35448003b4f9f2d2df53a2a8a7d7760c275320ff95fc7482a80460f81663ab",
+    "manifest_hash": "7a35448003b4f9f2d2df53a2a8a7d7760c275320ff95fc7482a80460f81663ab",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2023_Kour_overall-migration-of-microplastics-in-mineral.pdf",
+    "sha256": "2675ee2f3577b6b34cb29cc5d56b607abaee280f7f2f9a2de82afc5f2b74ef87",
+    "manifest_hash": "2675ee2f3577b6b34cb29cc5d56b607abaee280f7f2f9a2de82afc5f2b74ef87",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_GonzalezPuetate_bovine-milk-and-microplastics-revealing-the.pdf",
+    "sha256": "b84aa2282604bd18f96e4af4a28e70061b6135453f901f311d41c2bde6f42dab",
+    "manifest_hash": "b84aa2282604bd18f96e4af4a28e70061b6135453f901f311d41c2bde6f42dab",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Ciampo_human-milk-microplastics-and-children-s.pdf",
+    "sha256": "5e9c58182d527fc327480832a744a55ecc48bc02ea1d610bd81783c2b3878846",
+    "manifest_hash": "5e9c58182d527fc327480832a744a55ecc48bc02ea1d610bd81783c2b3878846",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2025_Banica_emerging-health-risks-associated-with-the.pdf",
+    "sha256": "07dddefcd113091e76b75c0e6ced553052ebbe06500b7372ac49a5aa7a846c9c",
+    "manifest_hash": "07dddefcd113091e76b75c0e6ced553052ebbe06500b7372ac49a5aa7a846c9c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-beer",
+    "filename": "2026_Xiao_complementarity-of-portable-and-benchtop-near.pdf",
+    "sha256": "18c30f5266704221e7855577bf18cb5a7da5011ccc371259d8faba8051fd3d93",
+    "manifest_hash": "18c30f5266704221e7855577bf18cb5a7da5011ccc371259d8faba8051fd3d93",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2022_Nizamali_assessing-microplastic-characteristics-in-bottled-drinking.pdf",
+    "sha256": "f744dddbb35f5c0941eccf1d4a04bab9b4a28bf637974baa289cc96d0c05fb76",
+    "manifest_hash": "f744dddbb35f5c0941eccf1d4a04bab9b4a28bf637974baa289cc96d0c05fb76",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2023_Vitali_quantitative-image-analysis-of-microplastics-in.pdf",
+    "sha256": "a3f834287b8ce277096a0d6aa0c7b07fa39a774e3daa211ffc67d888f213befe",
+    "manifest_hash": "a3f834287b8ce277096a0d6aa0c7b07fa39a774e3daa211ffc67d888f213befe",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2022_Tse_quantitative-assessment-of-full-size-microplastics.pdf",
+    "sha256": "5c2236d5c91718f4b41b481a08922c7a25c341bb2c4b9f0f0358ba8f3bcb0db9",
+    "manifest_hash": "5c2236d5c91718f4b41b481a08922c7a25c341bb2c4b9f0f0358ba8f3bcb0db9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2023_Hossain_first-evidence-of-microplastics-and-their.pdf",
+    "sha256": "fa6c7aeb4c03a73d7689a9a1318abfd0fe927711ef272048da28c1d6fbd602be",
+    "manifest_hash": "fa6c7aeb4c03a73d7689a9a1318abfd0fe927711ef272048da28c1d6fbd602be",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2024_Sarlin_occurrence-and-characterization-of-microplastics-in.pdf",
+    "sha256": "32759b62308530fd597daf7f8460589728937333b58d95bfc620113f802a04fa",
+    "manifest_hash": "32759b62308530fd597daf7f8460589728937333b58d95bfc620113f802a04fa",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2023_Gambino_characterization-of-microplastics-in-water-bottled.pdf",
+    "sha256": "e8627d56229c959e4958dfecb22f2df5321a9d2507c7b75b609518a0251089f1",
+    "manifest_hash": "e8627d56229c959e4958dfecb22f2df5321a9d2507c7b75b609518a0251089f1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2025_Shokunbi_occurrence-and-assessment-of-human-exposure.pdf",
+    "sha256": "aedc77bb572c35ee50ec44c27a7631b32a972aac56576d9a0ff3748212d6a11a",
+    "manifest_hash": "aedc77bb572c35ee50ec44c27a7631b32a972aac56576d9a0ff3748212d6a11a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2025_Camilleri_detection-quantification-and-characterisation-of-microplastics.pdf",
+    "sha256": "022b63a341bc3ce51cd0593d0e7d894c179561b78ed8d7bae2b99579e117ace8",
+    "manifest_hash": "022b63a341bc3ce51cd0593d0e7d894c179561b78ed8d7bae2b99579e117ace8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2025_Lopez_analysis-of-the-presence-of-microplastics.pdf",
+    "sha256": "0453f95d969d69622360f1e10753bb4ad34a75acff8ce79aaba66c0ab1543b28",
+    "manifest_hash": "0453f95d969d69622360f1e10753bb4ad34a75acff8ce79aaba66c0ab1543b28",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_Bolkvadze_microplastics-bottled-water-and-science-communication.pdf",
+    "sha256": "7e7fb886333c9d3b998d3bc3ee9cbffa2fddae15ed3fb60de52368ebae1acff0",
+    "manifest_hash": "7e7fb886333c9d3b998d3bc3ee9cbffa2fddae15ed3fb60de52368ebae1acff0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2024_Kurniawan_microplastic-as-an-written-composition-in.pdf",
+    "sha256": "08fa50a75a5ab5dd1704ac750765835a043349d1ddb9c50d097603f55d7201f8",
+    "manifest_hash": "08fa50a75a5ab5dd1704ac750765835a043349d1ddb9c50d097603f55d7201f8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_Silva_distribution-polymer-composition-and-exposure-risks.pdf",
+    "sha256": "37022fd84deb552d2a1bea9b5fd62fd1b633d5a0245eb782633d4e382e8f5cfb",
+    "manifest_hash": "37022fd84deb552d2a1bea9b5fd62fd1b633d5a0245eb782633d4e382e8f5cfb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_DAHIRU_risk-assessment-of-microplastics-contamination-in.pdf",
+    "sha256": "5b5a66e4dbbb58047fb7c6f6ad092d5bad5c7bbaa23d3b2590dbd4ccb5511039",
+    "manifest_hash": "5b5a66e4dbbb58047fb7c6f6ad092d5bad5c7bbaa23d3b2590dbd4ccb5511039",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_Zahari_quantitative-analysis-of-microplastic-presence-in.pdf",
+    "sha256": "7269c3d85f2d48c742c2f7b07cb528f9743e7331f934899bb6deeb8f6e468285",
+    "manifest_hash": "7269c3d85f2d48c742c2f7b07cb528f9743e7331f934899bb6deeb8f6e468285",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_Prince_assessment-of-storage-induced-microplastic-generation.pdf",
+    "sha256": "432c48cc2fa26998a9b847fce3c1ebf1a77bc3a31f7e0262881f84ee2bc0954b",
+    "manifest_hash": "432c48cc2fa26998a9b847fce3c1ebf1a77bc3a31f7e0262881f84ee2bc0954b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2026_Hussain_everyday-storage-and-handling-of-pet.pdf",
+    "sha256": "4a2506c1753ccc1b218a4cd2c32e3204eb6c418bf36b47e33ba26c2d65dfbf47",
+    "manifest_hash": "4a2506c1753ccc1b218a4cd2c32e3204eb6c418bf36b47e33ba26c2d65dfbf47",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2023_AleksanderKwaterczak_investigating-the-content-of-microplastics-and.pdf",
+    "sha256": "dbe534026ae7322221c1da82aae40b6b15a6380eba90862d4b3a528e8f8f7243",
+    "manifest_hash": "dbe534026ae7322221c1da82aae40b6b15a6380eba90862d4b3a528e8f8f7243",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2021_Weier_from-the-well-to-the-bottle.pdf",
+    "sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+    "manifest_hash": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-bottled-drinking-water",
+    "filename": "2023_Osoro_identification-of-microplastics-in-plastic-bottled.pdf",
+    "sha256": "31092a7ebb7daafceb422e405a220f8a0cdf4f027e688aae17e21e9e40860dc4",
+    "manifest_hash": "31092a7ebb7daafceb422e405a220f8a0cdf4f027e688aae17e21e9e40860dc4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2022_Habib_trends-of-microplastic-abundance-in-personal.pdf",
+    "sha256": "ecc7f98b3cb0509a290f996f2f2a1e24736c2c6c0283149742eb8fc5bb273044",
+    "manifest_hash": "ecc7f98b3cb0509a290f996f2f2a1e24736c2c6c0283149742eb8fc5bb273044",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2021_Bashir_personal-care-and-cosmetic-products-as.pdf",
+    "sha256": "ee700e8b74e01c55710b25e23522235f6c769b3e20ecb601083e7a1df2ee07a9",
+    "manifest_hash": "ee700e8b74e01c55710b25e23522235f6c769b3e20ecb601083e7a1df2ee07a9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2021_Lee_a-novel-method-for-extraction-quantification.pdf",
+    "sha256": "293b9fd1329f11a21b5590804a107da5e744f4ae797c2f9d04167f9f79326458",
+    "manifest_hash": "293b9fd1329f11a21b5590804a107da5e744f4ae797c2f9d04167f9f79326458",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2016_Tanaka_microplastic-fragments-and-microbeads-in-digestive.pdf",
+    "sha256": "a40c13c7c787c7a7600ce004349bc6a38df38a94542d398659ae9cd3b73b9c92",
+    "manifest_hash": "a40c13c7c787c7a7600ce004349bc6a38df38a94542d398659ae9cd3b73b9c92",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2016_Duis_microplastics-in-the-aquatic-and-terrestrial.pdf",
+    "sha256": "fa4233e22f4371cebd7457bba15d9bb5355dc23b9db1779dd9fc556088904f33",
+    "manifest_hash": "fa4233e22f4371cebd7457bba15d9bb5355dc23b9db1779dd9fc556088904f33",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2021_Renner_a-comparison-of-different-approaches-for.pdf",
+    "sha256": "e13c6d65105256aeab722823f38bc1c3206007f2e3b87bc573ce5c275dd672da",
+    "manifest_hash": "e13c6d65105256aeab722823f38bc1c3206007f2e3b87bc573ce5c275dd672da",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2025_Hussain_presence-of-microplastic-in-personal-care.pdf",
+    "sha256": "281c3be3d46def8f4a7ea2b8cb7ddd03380777ce21ec20028d05c2d2f5a1891c",
+    "manifest_hash": "281c3be3d46def8f4a7ea2b8cb7ddd03380777ce21ec20028d05c2d2f5a1891c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2022_Cubas_plastics-and-microplastic-in-the-cosmetic.pdf",
+    "sha256": "10bf77bb8058d0e4678f2e3308c7ce3e9da89f2d1d14683757d1927c25ee2b72",
+    "manifest_hash": "10bf77bb8058d0e4678f2e3308c7ce3e9da89f2d1d14683757d1927c25ee2b72",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2024_Giustra_microplastics-in-cosmetics-open-questions-and.pdf",
+    "sha256": "1ce97b1f4fc9435c2bfa67814800e2722e663273b64a2c261ff26200dc80f12e",
+    "manifest_hash": "1ce97b1f4fc9435c2bfa67814800e2722e663273b64a2c261ff26200dc80f12e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2024_Gamage_microplastics-in-personal-care-products-and.pdf",
+    "sha256": "8a0e962b0846a24fc9a07fb777dc929637f122a54cbd375238072e356f2908ec",
+    "manifest_hash": "8a0e962b0846a24fc9a07fb777dc929637f122a54cbd375238072e356f2908ec",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2026_Spena_from-biopolymers-to-pickering-emulsions-a.pdf",
+    "sha256": "d9644418c09544bc71202ddcb4e2eb07d48052e063cba6104ed23e1b779b857a",
+    "manifest_hash": "d9644418c09544bc71202ddcb4e2eb07d48052e063cba6104ed23e1b779b857a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2021_DHont_dropping-the-microbead-source-and-sink.pdf",
+    "sha256": "bb024c1b98f5ae46badfacedf3f6b3ffce95683c75cbccea70e10af1fc6e52b9",
+    "manifest_hash": "bb024c1b98f5ae46badfacedf3f6b3ffce95683c75cbccea70e10af1fc6e52b9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2025_Silva_a-call-to-ban-non-essential.pdf",
+    "sha256": "8afb094e2728a778754dd78385f14440ad01cb3b622cfa1cb0e3c853c30da607",
+    "manifest_hash": "8afb094e2728a778754dd78385f14440ad01cb3b622cfa1cb0e3c853c30da607",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2026_Sinesi_tailoring-starch-particle-morphology-through-enzymatic.pdf",
+    "sha256": "a9cb2118648c79b9088855df26e7a5b911d0ac7a73936594267dea09df7c3f7a",
+    "manifest_hash": "a9cb2118648c79b9088855df26e7a5b911d0ac7a73936594267dea09df7c3f7a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2018_Kentin_an-eu-ban-on-microplastics-in.pdf",
+    "sha256": "a50ef1c84dbc635e5eac5566226b9ff9fce261cd470280f48be129973622780a",
+    "manifest_hash": "a50ef1c84dbc635e5eac5566226b9ff9fce261cd470280f48be129973622780a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2021_Ju_biodegradable-chito-beads-replacing-non-biodegradable.pdf",
+    "sha256": "01f4f18678fb975704487a0900658aa80a62f59f1a00f9a31fb3170af708281b",
+    "manifest_hash": "01f4f18678fb975704487a0900658aa80a62f59f1a00f9a31fb3170af708281b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-cosmetics-general",
+    "filename": "2025_Han_microplastics-in-cosmetics-emerging-risks-for.pdf",
+    "sha256": "5b1a7ef756af3d4294d4fd74db1b8b19f3d4fdcdee4ea4d2c222d200baa4ccd7",
+    "manifest_hash": "5b1a7ef756af3d4294d4fd74db1b8b19f3d4fdcdee4ea4d2c222d200baa4ccd7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Schymanski_analysis-of-microplastics-in-drinking-water.pdf",
+    "sha256": "8e86c5cc9b85c666afb4fa4b6bc849c17ee3f08bea7f2545687b71906c9b3b5d",
+    "manifest_hash": "8e86c5cc9b85c666afb4fa4b6bc849c17ee3f08bea7f2545687b71906c9b3b5d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2020_Kirstein_drinking-plastics-quantification-and-qualification-of.pdf",
+    "sha256": "41d8667b76f0ce12b3a80e5e2c422806a0b75ee98cc52075f2ea396c81aeae1f",
+    "manifest_hash": "41d8667b76f0ce12b3a80e5e2c422806a0b75ee98cc52075f2ea396c81aeae1f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Zhang_identification-of-poly-ethylene-terephthalate-nanoplastics.pdf",
+    "sha256": "8f8ac6207f08139d2ce0e6b2a96680778fb6b46d4f7ab8e6c77dc425659b50ae",
+    "manifest_hash": "8f8ac6207f08139d2ce0e6b2a96680778fb6b46d4f7ab8e6c77dc425659b50ae",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2019_Kniggendorf_microplastics-detection-in-streaming-tap-water.pdf",
+    "sha256": "655025aade8f4650959837fd965c7c25506352f258ce2c147a73fb9719afe7ae",
+    "manifest_hash": "655025aade8f4650959837fd965c7c25506352f258ce2c147a73fb9719afe7ae",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2018_Wolff_determination-of-the-microplastics-emission-in.pdf",
+    "sha256": "f23c6ed78ae4a2eb496eb70bf9fd5b08f225f3e6bf5a9afdc4ba9b8f510ad1d1",
+    "manifest_hash": "f23c6ed78ae4a2eb496eb70bf9fd5b08f225f3e6bf5a9afdc4ba9b8f510ad1d1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Maurizi_it-matters-how-we-measure-quantification.pdf",
+    "sha256": "f18e223e0be6d13bfae1c3bf79027fb236479cf93c426c9b048a9052bce6f447",
+    "manifest_hash": "f18e223e0be6d13bfae1c3bf79027fb236479cf93c426c9b048a9052bce6f447",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_CcanccapaCartagena_a-straightforward-py-gc-ms-methodology.pdf",
+    "sha256": "6264fb4fe077574c8426a06f54d72fc5231f4798128be28304ccf4539b540212",
+    "manifest_hash": "6264fb4fe077574c8426a06f54d72fc5231f4798128be28304ccf4539b540212",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Sefiloglu_microplastics-in-drinking-water-quantitative-analysis.pdf",
+    "sha256": "14aa25b2c95a5668c9f9d8f37ffa2352093a799cebc6d8021b86ddf042fd0775",
+    "manifest_hash": "14aa25b2c95a5668c9f9d8f37ffa2352093a799cebc6d8021b86ddf042fd0775",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Xu_the-detection-and-analysis-of-microplastics.pdf",
+    "sha256": "9590381d0c0a5b24ebe5298df57326932d66aad60124bdde354e7d7197ba8bab",
+    "manifest_hash": "9590381d0c0a5b24ebe5298df57326932d66aad60124bdde354e7d7197ba8bab",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Li_tracking-microplastics-contamination-in-drinking-water.pdf",
+    "sha256": "6d6d341bcfbc73df9e8fb421afc2ae903b1ab9d5e71c51a7b419d8c118a7ad18",
+    "manifest_hash": "6d6d341bcfbc73df9e8fb421afc2ae903b1ab9d5e71c51a7b419d8c118a7ad18",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Cordeiro_profile-and-different-approaches-for-size.pdf",
+    "sha256": "70101e5c36fd085b6fe3015897646d101bad4032030f65c7a047a672dcf2502d",
+    "manifest_hash": "70101e5c36fd085b6fe3015897646d101bad4032030f65c7a047a672dcf2502d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2026_Younis_the-hidden-hazard-in-every-sip.pdf",
+    "sha256": "5e607594c4f4e8ae2b6e69961e3e39771ce88883f68e80455a45fcc6f15905b5",
+    "manifest_hash": "5e607594c4f4e8ae2b6e69961e3e39771ce88883f68e80455a45fcc6f15905b5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2026_Namdarian_microplastic-contamination-in-drinking-water-sources.pdf",
+    "sha256": "a7442dec827561287811ebe055854e0e649dc69a304b8349f3fffdd13efa221a",
+    "manifest_hash": "a7442dec827561287811ebe055854e0e649dc69a304b8349f3fffdd13efa221a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2026_Malik_exposure-relevant-microplastic-characteristics-in-drinking.pdf",
+    "sha256": "a51aa706491a5de090c8ad590fd89232db2d5e60cf624b9add4497c974723a7c",
+    "manifest_hash": "a51aa706491a5de090c8ad590fd89232db2d5e60cf624b9add4497c974723a7c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2026_Pirsaheb_a-study-on-microplastics-occurrence-and.pdf",
+    "sha256": "972ee8d845e204059e51b197aa2549e19d867597ed149e0a030012719485295c",
+    "manifest_hash": "972ee8d845e204059e51b197aa2549e19d867597ed149e0a030012719485295c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Ponti_representative-test-material-for-validation-of.pdf",
+    "sha256": "c590648b0ebc2ddc47c54bd6c70cd81bc3f5699c56513a29f6cbed57ce9f4776",
+    "manifest_hash": "c590648b0ebc2ddc47c54bd6c70cd81bc3f5699c56513a29f6cbed57ce9f4776",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2022_Semmouri_presence-of-microplastics-in-drinking-water.pdf",
+    "sha256": "3818cfc66cbaf8c22cde249218286136d616ce68a6dca0e07fddc77bc9b43c41",
+    "manifest_hash": "3818cfc66cbaf8c22cde249218286136d616ce68a6dca0e07fddc77bc9b43c41",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Adib_identification-of-microplastics-in-conventional-drinking.pdf",
+    "sha256": "fc95909f45d19c7d23d34025a6ff6a8b92b7ab42db4b51a12e38d446a1f351bd",
+    "manifest_hash": "fc95909f45d19c7d23d34025a6ff6a8b92b7ab42db4b51a12e38d446a1f351bd",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Ramaremisa_detection-and-characterisation-of-microplastics-in.pdf",
+    "sha256": "94f0eaf019b295028b0b39df663f08693c4421d10d10fafc6eeb3f75c9ebae71",
+    "manifest_hash": "94f0eaf019b295028b0b39df663f08693c4421d10d10fafc6eeb3f75c9ebae71",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Cecilia_microplastics-attenuation-from-surface-water-to.pdf",
+    "sha256": "13f557d949062daa66b6ac40ae156c76369f71dee5102828ebc13be5025df86a",
+    "manifest_hash": "13f557d949062daa66b6ac40ae156c76369f71dee5102828ebc13be5025df86a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Halfar_microplastic-contamination-in-czech-drinking-water.pdf",
+    "sha256": "fe51ad4f0c2f106d9c74f8e213abef1d77ee86be647c387123e7bce3d0a7b27d",
+    "manifest_hash": "fe51ad4f0c2f106d9c74f8e213abef1d77ee86be647c387123e7bce3d0a7b27d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Kumar_microplastics-in-drinking-water-assessing-occurrence.pdf",
+    "sha256": "532555f6d54dfced2013307e462d50420227f77384a041bfbb892d2dfc6dd09f",
+    "manifest_hash": "532555f6d54dfced2013307e462d50420227f77384a041bfbb892d2dfc6dd09f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_RodriguezBarroso_microplastics-in-drinking-water-efficiency-of.pdf",
+    "sha256": "005a2f18051c0ca484d528d2f16d78c9acd67ff48f719884fcabeab614cf6647",
+    "manifest_hash": "005a2f18051c0ca484d528d2f16d78c9acd67ff48f719884fcabeab614cf6647",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_DAscanio_comparison-of-astm-and-in-line.pdf",
+    "sha256": "9fea4ac86a4952691bdde3a632471ea2f592c019f92bb01276d108feeea9a3c5",
+    "manifest_hash": "9fea4ac86a4952691bdde3a632471ea2f592c019f92bb01276d108feeea9a3c5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Sharifi_qualitative-and-quantitative-analyses-of-microplastics.pdf",
+    "sha256": "76e2176513f712c0601ecae411687cc60976d5064df48d101bd7f47626c73196",
+    "manifest_hash": "76e2176513f712c0601ecae411687cc60976d5064df48d101bd7f47626c73196",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Muhib_microplastic-pollution-from-plastic-drinking-bottle.pdf",
+    "sha256": "a365da02a0d52edc6ab2d20085484724b661f6f03477a426a603e2ef68cbd5c4",
+    "manifest_hash": "a365da02a0d52edc6ab2d20085484724b661f6f03477a426a603e2ef68cbd5c4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_BERTOSH_microplastics-in-drinking-water-and-food.pdf",
+    "sha256": "9cef476c65a355ea1d99a54d8e76e3b53636eeaa06ffc55622ed92862aa6300b",
+    "manifest_hash": "9cef476c65a355ea1d99a54d8e76e3b53636eeaa06ffc55622ed92862aa6300b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Schroder_efficacy-of-electrolytic-treatment-on-degrading.pdf",
+    "sha256": "18475754566ff268c13df8ae8d5087b0f6df70dd4e4d4b81d9fc10b8b0c0628a",
+    "manifest_hash": "18475754566ff268c13df8ae8d5087b0f6df70dd4e4d4b81d9fc10b8b0c0628a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Kameda_development-of-sampling-and-analytical-methods.pdf",
+    "sha256": "7465a5f516f8ef0d58fec503c7f1be9151cab655e755897f34707fd10e406eeb",
+    "manifest_hash": "7465a5f516f8ef0d58fec503c7f1be9151cab655e755897f34707fd10e406eeb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_SATHYA_unveiling-the-potential-of-metagenomics-for.pdf",
+    "sha256": "65963e32a8adc18a07987d8c53525ac3948d34d78bde5da92e2c2abe63a90ce9",
+    "manifest_hash": "65963e32a8adc18a07987d8c53525ac3948d34d78bde5da92e2c2abe63a90ce9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Shrestha_regulating-threshold-microplastics-concentrations-tmc-in.pdf",
+    "sha256": "31d5b1f18a56797426cce3a4525307564974ac7f7caf1130af3fcba5ce18011c",
+    "manifest_hash": "31d5b1f18a56797426cce3a4525307564974ac7f7caf1130af3fcba5ce18011c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Pranandi_development-of-a-low-cost-kit.pdf",
+    "sha256": "abc7464d2e3cc896bef93b567d38c4955935beb0f93c599c9e13c162593566a8",
+    "manifest_hash": "abc7464d2e3cc896bef93b567d38c4955935beb0f93c599c9e13c162593566a8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Zhang_activation-of-gut-metabolite-acsl4-lpcat3.pdf",
+    "sha256": "76eaf4a60afbcd9916877bfc27e0b214e31802e8cfc6ffc684505b04a61d5526",
+    "manifest_hash": "76eaf4a60afbcd9916877bfc27e0b214e31802e8cfc6ffc684505b04a61d5526",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2022_Maurizi_do-drinking-water-plants-retain-microplastics.pdf",
+    "sha256": "6af2383b7e8e57a1d21b95588ad6ebb3fd3575d872dc16c4dbd13f303fba44a6",
+    "manifest_hash": "6af2383b7e8e57a1d21b95588ad6ebb3fd3575d872dc16c4dbd13f303fba44a6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Kahkha_investigation-of-heavy-metals-adsorbed-on.pdf",
+    "sha256": "e4d1f2a7ec1d03a40d0a0fc5800614c395b8eada828338c05980716b06ddd8b0",
+    "manifest_hash": "e4d1f2a7ec1d03a40d0a0fc5800614c395b8eada828338c05980716b06ddd8b0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2025_Hassan_tracking-microplastics-at-the-source-a.pdf",
+    "sha256": "0937b9561d2ed19967a349300c98a86d6935ce79db12d48709373037e837fbe4",
+    "manifest_hash": "0937b9561d2ed19967a349300c98a86d6935ce79db12d48709373037e837fbe4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Brancaleone_microplastic-in-drinking-water-a-pilot.pdf",
+    "sha256": "cc539d1940df19242493b72f033e8f1dda0526f8bf417be80335f5e4de2d4fa6",
+    "manifest_hash": "cc539d1940df19242493b72f033e8f1dda0526f8bf417be80335f5e4de2d4fa6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Luqman_microplastic-contamination-in-human-stools-foods.pdf",
+    "sha256": "a31f19793c30c5bcb655faf7409763a15a209f704c52c370b5cf959234186971",
+    "manifest_hash": "a31f19793c30c5bcb655faf7409763a15a209f704c52c370b5cf959234186971",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2020_Lam_microplastic-contamination-of-surface-water-sourced.pdf",
+    "sha256": "2227525c9b97a3c4f51c2083484c6c2efcc5249ddfe102b43481be935ccd7a07",
+    "manifest_hash": "2227525c9b97a3c4f51c2083484c6c2efcc5249ddfe102b43481be935ccd7a07",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Pratesi_presence-and-quantification-of-microplastic-in.pdf",
+    "sha256": "01e76b39c8bf1e01798438698f88a2f14fd347b97999d5dbbcfe4a01efb5f580",
+    "manifest_hash": "01e76b39c8bf1e01798438698f88a2f14fd347b97999d5dbbcfe4a01efb5f580",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Watson_impact-of-microplastics-on-the-fate.pdf",
+    "sha256": "993afde7e7a56018f7d29fb200d816974c983ce92d33e0f3258ad5294d145ab3",
+    "manifest_hash": "993afde7e7a56018f7d29fb200d816974c983ce92d33e0f3258ad5294d145ab3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Rapa_insights-into-anthropogenic-micro-and-nanoplastic.pdf",
+    "sha256": "d4f7cb4038e425a05e881b741e8548f9671e908b1a9f3fa4a94567ce431e0c89",
+    "manifest_hash": "d4f7cb4038e425a05e881b741e8548f9671e908b1a9f3fa4a94567ce431e0c89",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Costa_echotilt-an-acoustofluidic-method-for-the.pdf",
+    "sha256": "d4f51fa7fb0b6205d615c36870272088ff7f81bc1c0e39b8b0198c6b6a443b9b",
+    "manifest_hash": "d4f51fa7fb0b6205d615c36870272088ff7f81bc1c0e39b8b0198c6b6a443b9b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2020_Ferraz_microplastic-concentrations-in-raw-and-drinking.pdf",
+    "sha256": "2b276fe91dd1721786d95d8bc336edcdec8e745840acc8a9e62145b984846b91",
+    "manifest_hash": "2b276fe91dd1721786d95d8bc336edcdec8e745840acc8a9e62145b984846b91",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2021_Feld_a-study-of-microplastic-particles-in.pdf",
+    "sha256": "ebd2006452ff7ebf7f6ff46cf71a8a7dd9a0c6c4c5109d22bf307decdd1bd05d",
+    "manifest_hash": "ebd2006452ff7ebf7f6ff46cf71a8a7dd9a0c6c4c5109d22bf307decdd1bd05d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2024_Sun_microplastic-transportation-in-a-typical-drinking.pdf",
+    "sha256": "f83eaab1e232029f7777e6b55e6605d02270be8d16cfca1ead509d15ebae09c8",
+    "manifest_hash": "f83eaab1e232029f7777e6b55e6605d02270be8d16cfca1ead509d15ebae09c8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2022_Singh_microplastics-in-drinking-water-a-macro.pdf",
+    "sha256": "0a9f171ae36858be9e6b376a161993598fbc68b2ef9223f8c04b958ccea5144a",
+    "manifest_hash": "0a9f171ae36858be9e6b376a161993598fbc68b2ef9223f8c04b958ccea5144a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-drinking-water-tap",
+    "filename": "2023_Buyukunal_microplastic-pollution-of-drinking-water-in.pdf",
+    "sha256": "b54a41e4f34feda7644e77e388a00a50741874f12a3a0b3d62b35fa89cd1b43e",
+    "manifest_hash": "b54a41e4f34feda7644e77e388a00a50741874f12a3a0b3d62b35fa89cd1b43e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-environmental-wildlife",
+    "filename": "2026_Azizoglu_first-report-on-occurrence-and-characterization.pdf",
+    "sha256": "bc68ef9e4ee3b62489355a71d11a3faeaa549454b9cbb69d70de03fde4de4cf2",
+    "manifest_hash": "bc68ef9e4ee3b62489355a71d11a3faeaa549454b9cbb69d70de03fde4de4cf2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2016_CONTAM_presence-of-microplastics-and-nanoplastics-in.pdf",
+    "sha256": "3253845c8248d6d03e85875abb9c4738eeb9b6b7c8420edacbf948b2daa3c2d1",
+    "manifest_hash": "3253845c8248d6d03e85875abb9c4738eeb9b6b7c8420edacbf948b2daa3c2d1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2016_Dehaut_microplastics-in-seafood-benchmark-protocol-for.pdf",
+    "sha256": "b5a587d35423e72e4e4903189db8314849ecd79bddb41f78d36f725f2d096d50",
+    "manifest_hash": "b5a587d35423e72e4e4903189db8314849ecd79bddb41f78d36f725f2d096d50",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2019_Walkinshaw_microplastics-and-seafood-lower-trophic-organisms.pdf",
+    "sha256": "32406b298df9e997772c3aa79e7dad20d00836fdda78dd70bc7aecb963f766ab",
+    "manifest_hash": "32406b298df9e997772c3aa79e7dad20d00836fdda78dd70bc7aecb963f766ab",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2020_Curren_evidence-of-marine-microplastics-in-commercially.pdf",
+    "sha256": "dbd77657e64d7d59470683cf74e12b6a32e81e61c67e667ec164b23e85ffc282",
+    "manifest_hash": "dbd77657e64d7d59470683cf74e12b6a32e81e61c67e667ec164b23e85ffc282",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2020_Adeogun_detection-and-occurrence-of-microplastics-in.pdf",
+    "sha256": "791559fa8af287c447afadaee1905f457a6230db911bf7cb1aa2d9b0d060faf8",
+    "manifest_hash": "791559fa8af287c447afadaee1905f457a6230db911bf7cb1aa2d9b0d060faf8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2020_Khan_the-plastic-nile-first-evidence-of.pdf",
+    "sha256": "401e95e796f160bf27218b2d07fc504cf252a28f326869e925ff7eb72ebf39d5",
+    "manifest_hash": "401e95e796f160bf27218b2d07fc504cf252a28f326869e925ff7eb72ebf39d5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Jeyavani_biochemical-genotoxic-and-histological-implications-of.pdf",
+    "sha256": "e38a249aa8fb25ec2a76d2dfb2712a2b67e32957ed3b4865a7f50701b14d6179",
+    "manifest_hash": "e38a249aa8fb25ec2a76d2dfb2712a2b67e32957ed3b4865a7f50701b14d6179",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2018_Kazmiruk_abundance-and-distribution-of-microplastics-within.pdf",
+    "sha256": "8382d87d492a4c1f6aef9a14d40b70b0f827f5bfcb7562fe795a0af900b489ce",
+    "manifest_hash": "8382d87d492a4c1f6aef9a14d40b70b0f827f5bfcb7562fe795a0af900b489ce",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Lu_levels-of-phthalates-bisphenol-a-nonylphenol.pdf",
+    "sha256": "5e1ad21d59824e5056a0ef099b4a1bd73e0b52849b0277557ee8c56c4d6a974b",
+    "manifest_hash": "5e1ad21d59824e5056a0ef099b4a1bd73e0b52849b0277557ee8c56c4d6a974b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Niemcharoen_microplastic-contaminated-feed-interferes-with-antioxidant.pdf",
+    "sha256": "8c776d04f6b48edac6412884e70234b1edf852f3a584aab166bc39b5b731eb8a",
+    "manifest_hash": "8c776d04f6b48edac6412884e70234b1edf852f3a584aab166bc39b5b731eb8a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Addo_occurrence-of-microplastics-in-wild-oysters.pdf",
+    "sha256": "8cfbf9f95da8853ab5caa36589fcc5c8933127531bb82d7e52477b9bb7f5b2a2",
+    "manifest_hash": "8cfbf9f95da8853ab5caa36589fcc5c8933127531bb82d7e52477b9bb7f5b2a2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Hossain_microplastics-in-different-tissues-of-a.pdf",
+    "sha256": "934c1797503df50ca4b8983701590e33a57e1131e89efc8df05041a2dcf1cf12",
+    "manifest_hash": "934c1797503df50ca4b8983701590e33a57e1131e89efc8df05041a2dcf1cf12",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Muhib_microplastics-contamination-in-fish-feeds-characterization.pdf",
+    "sha256": "d608d7a9fd5d4c027e9d254709d09c8974fc40095d2c4b2c4c14882778cd4c57",
+    "manifest_hash": "d608d7a9fd5d4c027e9d254709d09c8974fc40095d2c4b2c4c14882778cd4c57",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2020_Facchetti_detection-of-metal-doped-fluorescent-pvc.pdf",
+    "sha256": "d23e03f17711da65a3d0a34c8424adbeb97743743d9190235984e0a5608f1bc4",
+    "manifest_hash": "d23e03f17711da65a3d0a34c8424adbeb97743743d9190235984e0a5608f1bc4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Dambrosio_occurrence-and-characterization-of-microplastics-in.pdf",
+    "sha256": "c988c4e7750ff4bf0c5f0658b7b6a85ab48c5e7cd821a0ffdc2814fecd180b67",
+    "manifest_hash": "c988c4e7750ff4bf0c5f0658b7b6a85ab48c5e7cd821a0ffdc2814fecd180b67",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Cunningham_animal-contests-and-microplastics-evidence-of.pdf",
+    "sha256": "a3401843d893dcc65124bde37d1805b040b4cfc980df6053a72336cb87163539",
+    "manifest_hash": "a3401843d893dcc65124bde37d1805b040b4cfc980df6053a72336cb87163539",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Khan_exploration-of-microplastic-pollution-with-particular.pdf",
+    "sha256": "e01a6a79a4d7c2f95cc91123f3b69aa39a290c123846f14f3e7773fe9d7f73f3",
+    "manifest_hash": "e01a6a79a4d7c2f95cc91123f3b69aa39a290c123846f14f3e7773fe9d7f73f3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Saad_the-first-evidence-of-microplastic-presence.pdf",
+    "sha256": "38fb33677a404d166cc8c5c7bbe133bcc1631afa8a44842c4e699a947e426a14",
+    "manifest_hash": "38fb33677a404d166cc8c5c7bbe133bcc1631afa8a44842c4e699a947e426a14",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Volgare_a-versatile-approach-to-evaluate-the.pdf",
+    "sha256": "317eaa3fb46a6b5866a44d41e624102d984371718c6f56451e6e909000174577",
+    "manifest_hash": "317eaa3fb46a6b5866a44d41e624102d984371718c6f56451e6e909000174577",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Gundogdu_microplastic-contamination-in-canned-fish-sold.pdf",
+    "sha256": "d86ec7c38583fac9400eafc6a1f701c0ce78a16b1030c395f311bd1541b0e9a7",
+    "manifest_hash": "d86ec7c38583fac9400eafc6a1f701c0ce78a16b1030c395f311bd1541b0e9a7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Li_influence-of-microplastics-on-the-growth.pdf",
+    "sha256": "dc5f21a51fa092ad3200b9bfc228969018b2ba1c14af33bd6432c6c9291fe3e8",
+    "manifest_hash": "dc5f21a51fa092ad3200b9bfc228969018b2ba1c14af33bd6432c6c9291fe3e8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Tanaviyutpakdee_exposure-assessment-of-heavy-metals-and.pdf",
+    "sha256": "d8bae776d3a8ddb6fd84cad95594452884ec290206a7d188b51ca3181020f81d",
+    "manifest_hash": "d8bae776d3a8ddb6fd84cad95594452884ec290206a7d188b51ca3181020f81d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2024_Mutic_the-global-spread-of-microplastics-contamination.pdf",
+    "sha256": "d4417412ccc4174d8fb2332c132502389d5d9a14dc2f5f0ddf710edc2924efb0",
+    "manifest_hash": "d4417412ccc4174d8fb2332c132502389d5d9a14dc2f5f0ddf710edc2924efb0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Silva_optimization-of-an-analytical-protocol-for.pdf",
+    "sha256": "87956514e27b6164f30e4b4d4830720d655ea9458638507debba132bb467755a",
+    "manifest_hash": "87956514e27b6164f30e4b4d4830720d655ea9458638507debba132bb467755a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2024_Conger_an-analysis-of-suspected-microplastics-in.pdf",
+    "sha256": "db032bb7fdb0542ddef52178a66b922f6a77b058d0a8ad68add9ddf7df2d5569",
+    "manifest_hash": "db032bb7fdb0542ddef52178a66b922f6a77b058d0a8ad68add9ddf7df2d5569",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Zhong_analysis-of-microplastics-in-aquatic-shellfish.pdf",
+    "sha256": "61d4d432d1136577e76928f4ac373159ff65cd8160c923c09f2b86576e5df0b9",
+    "manifest_hash": "61d4d432d1136577e76928f4ac373159ff65cd8160c923c09f2b86576e5df0b9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2025_VURAL_protocol-for-extraction-and-analysis-of.pdf",
+    "sha256": "4d4e0edfed491d6dafd8ac439fd0cefc23115bbbb18fee16872b0cf9eeaee1e8",
+    "manifest_hash": "4d4e0edfed491d6dafd8ac439fd0cefc23115bbbb18fee16872b0cf9eeaee1e8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2024_Kudla_quantifying-effects-and-ingestion-of-several.pdf",
+    "sha256": "5e8e7c33606fc3825715703c02528d9a2eb8185202b7afd1988d388588d32ed8",
+    "manifest_hash": "5e8e7c33606fc3825715703c02528d9a2eb8185202b7afd1988d388588d32ed8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Sparks_characteristics-and-risk-assessment-of-microplastics.pdf",
+    "sha256": "1c6de7b6be98303280e4f348d4763a7ad96f19a3faa8043a7c5966396a0dc88b",
+    "manifest_hash": "1c6de7b6be98303280e4f348d4763a7ad96f19a3faa8043a7c5966396a0dc88b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Quaglia_preliminary-survey-on-the-occurrence-of.pdf",
+    "sha256": "bbc94d2519fb5042a13bdcd6268e443ff5166fbd2978e66f89a7ae09b1394f24",
+    "manifest_hash": "bbc94d2519fb5042a13bdcd6268e443ff5166fbd2978e66f89a7ae09b1394f24",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2017_Karami_microplastics-in-eviscerated-flesh-and-excised.pdf",
+    "sha256": "452a5f83f01d973fe8504fc739d9a90387bcda26fd33c55219acd85d485b3431",
+    "manifest_hash": "452a5f83f01d973fe8504fc739d9a90387bcda26fd33c55219acd85d485b3431",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Provenza_mussel-watch-program-for-microplastics-in.pdf",
+    "sha256": "a27137b0aeaef3edf1051cd56e14987a2322d5f483e5064c064d3628036bee1d",
+    "manifest_hash": "a27137b0aeaef3edf1051cd56e14987a2322d5f483e5064c064d3628036bee1d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Hoellein_microplastics-in-invasive-freshwater-mussels-dreissena.pdf",
+    "sha256": "a5170613f0227d33dd109a223abeb3a83a5e4212c7be90487aa84b4d8d91098d",
+    "manifest_hash": "a5170613f0227d33dd109a223abeb3a83a5e4212c7be90487aa84b4d8d91098d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Ruairuen_microplastic-contamination-in-blood-cockles-and.pdf",
+    "sha256": "5df28ada4320ce84e49333113a7f450b6d952792b8666f8460d54e37240dd267",
+    "manifest_hash": "5df28ada4320ce84e49333113a7f450b6d952792b8666f8460d54e37240dd267",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2019_DelaTorre_microplastic-abundance-in-three-commercial-fish.pdf",
+    "sha256": "d4ce2b130185d7f0d394518b38fa369f5ef843ea66ac016c34d40e6d6e9a44ff",
+    "manifest_hash": "d4ce2b130185d7f0d394518b38fa369f5ef843ea66ac016c34d40e6d6e9a44ff",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Thiele_microplastics-in-fish-and-fishmeal-an.pdf",
+    "sha256": "64a0264efec165c1c86b20f6151b037b121aaee2eec0ead76e2ac1604bfe2496",
+    "manifest_hash": "64a0264efec165c1c86b20f6151b037b121aaee2eec0ead76e2ac1604bfe2496",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Loayza_evidence-of-microplastics-in-water-and.pdf",
+    "sha256": "196edc68946cfde4f0f705f3072b30405537f2517026c61ebb54bec8bc88c77c",
+    "manifest_hash": "196edc68946cfde4f0f705f3072b30405537f2517026c61ebb54bec8bc88c77c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2024_Mahu_quantification-and-characterization-of-microplastics-ingested.pdf",
+    "sha256": "a2ec15aec466bb7b3100d66e582ffba90f91919a5fadb7c5ae07c85412f28adf",
+    "manifest_hash": "a2ec15aec466bb7b3100d66e582ffba90f91919a5fadb7c5ae07c85412f28adf",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Mercogliano_extraction-and-identification-of-microplastics-from.pdf",
+    "sha256": "1354a3adcc3f7a6b59f6125c81dd7ff2454b0120d440ead78354f8f4206b3459",
+    "manifest_hash": "1354a3adcc3f7a6b59f6125c81dd7ff2454b0120d440ead78354f8f4206b3459",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2026_Kim_microplastics-facilitate-protozoan-pathogen-contamination-in.pdf",
+    "sha256": "f55d069f075f0c5e915fd6a476e38101a098e6d2d5c465117dd04dc1d96970cc",
+    "manifest_hash": "f55d069f075f0c5e915fd6a476e38101a098e6d2d5c465117dd04dc1d96970cc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Santonicola_research-and-characterization-of-fibrous-microplastics.pdf",
+    "sha256": "04116f5afb51ba5e39ab69349aae3ea8e9995ff313e534d5f8123c9df7976d2e",
+    "manifest_hash": "04116f5afb51ba5e39ab69349aae3ea8e9995ff313e534d5f8123c9df7976d2e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Santonicola_occurrence-of-potential-plastic-microfibers-in.pdf",
+    "sha256": "af06d264b8b19746f21c12596dca0ab2d84801d3c617382eb2e7fc0a176302c2",
+    "manifest_hash": "af06d264b8b19746f21c12596dca0ab2d84801d3c617382eb2e7fc0a176302c2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Lorenzoni_identification-and-quantification-of-potential-microplastics.pdf",
+    "sha256": "2b08825153bdf16f3251c294c0427617025550db0e13625984b85e3da4e66f93",
+    "manifest_hash": "2b08825153bdf16f3251c294c0427617025550db0e13625984b85e3da4e66f93",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2026_Muniz_histochemical-alteration-protein-nitration-and-antioxidant.pdf",
+    "sha256": "f3ac5a5c6f4ef69a8d6b2a634a69ab32bb76c9a58d4155b6f5f831e54936f0d5",
+    "manifest_hash": "f3ac5a5c6f4ef69a8d6b2a634a69ab32bb76c9a58d4155b6f5f831e54936f0d5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2026_Omara_refined-analysis-of-microplastics-in-endemic.pdf",
+    "sha256": "8fd9b3beba331fc05887584fe1f278b9ec5a645908eb1f8772b5e800c77a6615",
+    "manifest_hash": "8fd9b3beba331fc05887584fe1f278b9ec5a645908eb1f8772b5e800c77a6615",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2025_Khongmeunrak_standardized-trimodal-histopathological-examination-for-microplastic.pdf",
+    "sha256": "4282cbb630e61e180898e6fab283010914e029f69e4a317e30554ce6c5c71b5d",
+    "manifest_hash": "4282cbb630e61e180898e6fab283010914e029f69e4a317e30554ce6c5c71b5d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2018_Smith_microplastics-in-seafood-and-the-implications.pdf",
+    "sha256": "f9c062eb436e60f4f57c8a50129c070b8e5b0d6a353345a25734f1381f350cca",
+    "manifest_hash": "f9c062eb436e60f4f57c8a50129c070b8e5b0d6a353345a25734f1381f350cca",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2019_Hastuti_the-presence-of-microplastics-in-the.pdf",
+    "sha256": "41e694f2f75836ee8f4fda5ff1a124dad5d31157b8de73297648bff69ac9f7f6",
+    "manifest_hash": "41e694f2f75836ee8f4fda5ff1a124dad5d31157b8de73297648bff69ac9f7f6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Vital_do-microplastic-contaminated-seafood-consumption-pose.pdf",
+    "sha256": "f01c18c2eb08895461f223d778068f688fc7c66bf2046557e3a2fc00ba21138f",
+    "manifest_hash": "f01c18c2eb08895461f223d778068f688fc7c66bf2046557e3a2fc00ba21138f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2018_McNeish_microplastic-in-riverine-fish-is-connected.pdf",
+    "sha256": "988bc4928c237b45d933bc7e305200e7b18e9415f4a0158f34731f04afb75cbe",
+    "manifest_hash": "988bc4928c237b45d933bc7e305200e7b18e9415f4a0158f34731f04afb75cbe",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2022_Ibryamova_assessment-of-the-bioaccumulation-of-microplastics.pdf",
+    "sha256": "356ece607ee5640c3240de1fc5674bbf6876d2e55f19f0dec1108810c4d366b0",
+    "manifest_hash": "356ece607ee5640c3240de1fc5674bbf6876d2e55f19f0dec1108810c4d366b0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Prusty_an-assessment-of-microplastic-contamination-in.pdf",
+    "sha256": "d66eb6834574e0098b3c26f370d22e9d2b39978a17eaa92e3226f29be27f1675",
+    "manifest_hash": "d66eb6834574e0098b3c26f370d22e9d2b39978a17eaa92e3226f29be27f1675",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2020_Chen_microplastic-contamination-of-three-commonly-consumed.pdf",
+    "sha256": "3dbed3875906384d2a22d7fd10ee0aba9024bd78040c85239768f7ebcdd74798",
+    "manifest_hash": "3dbed3875906384d2a22d7fd10ee0aba9024bd78040c85239768f7ebcdd74798",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2021_Simone_study-of-microplastics-and-inorganic-contaminants.pdf",
+    "sha256": "97717c0821d140a98eb5abee6c857a9e90b9a99ac092093dc1d3337fd67bac32",
+    "manifest_hash": "97717c0821d140a98eb5abee6c857a9e90b9a99ac092093dc1d3337fd67bac32",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Manolaki_microplastic-contamination-in-cultured-mussels-and.pdf",
+    "sha256": "3c23668427d0ed1ddc51e4eb9f9c1a1d5545e5ccb03b57495041db874ed60fda",
+    "manifest_hash": "3c23668427d0ed1ddc51e4eb9f9c1a1d5545e5ccb03b57495041db874ed60fda",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Gagne_micro-and-nanoplastic-contamination-and-its.pdf",
+    "sha256": "2f3cae6abfedf77db505aca18365992e6331020c03aa3d8c2202e2fa1b39dfcc",
+    "manifest_hash": "2f3cae6abfedf77db505aca18365992e6331020c03aa3d8c2202e2fa1b39dfcc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2023_Polt_abundance-and-distribution-of-microplastics-in.pdf",
+    "sha256": "bebabf305a41306b07f8459f78f9098a8cf9fa45dad36966dceaa8038051bdb0",
+    "manifest_hash": "bebabf305a41306b07f8459f78f9098a8cf9fa45dad36966dceaa8038051bdb0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2025_Capuozzo_microplastic-contamination-from-ready-to-cook.pdf",
+    "sha256": "aa4ee705b0583864237104088f4a0a5deb8511a3e4ca95834cda4c1efb0c448e",
+    "manifest_hash": "aa4ee705b0583864237104088f4a0a5deb8511a3e4ca95834cda4c1efb0c448e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2025_Ahmed_microplastics-in-certain-commercial-finfish-and.pdf",
+    "sha256": "a1a9e95ef3e2a5ac334193e9caf60c359c98c4c71f08722133e8e973e9006886",
+    "manifest_hash": "a1a9e95ef3e2a5ac334193e9caf60c359c98c4c71f08722133e8e973e9006886",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-fish-seafood-mixed",
+    "filename": "2025_Ibrahim_morphochemical-information-on-microplastic-fibers-found.pdf",
+    "sha256": "fcfbacbe29e9ceef62b7e6cd61d3c4f221eafd33652027cb8ccf5aba9eee78a8",
+    "manifest_hash": "fcfbacbe29e9ceef62b7e6cd61d3c4f221eafd33652027cb8ccf5aba9eee78a8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2022_Deng_microplastics-released-from-food-containers-can.pdf",
+    "sha256": "ea6b25a1a9c220c9a54a2a517910283dc128d01f07c719d6a200e2871220f884",
+    "manifest_hash": "ea6b25a1a9c220c9a54a2a517910283dc128d01f07c719d6a200e2871220f884",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2023_Zhu_microplastics-in-polystyrene-made-food-containers.pdf",
+    "sha256": "eaea1431349d3ed2804d7baa99b78e386685e6db7269ccfebd9ca1e19c5cac8e",
+    "manifest_hash": "eaea1431349d3ed2804d7baa99b78e386685e6db7269ccfebd9ca1e19c5cac8e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2022_Zhou_analysis-of-microplastics-in-takeaway-food.pdf",
+    "sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "manifest_hash": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2023_Wang_quantitative-analysis-of-polystyrene-microplastic-and.pdf",
+    "sha256": "88679f8d72dd3233e68230ed2c278da890a4ea6dd38d1b9189fe4c2afab7d635",
+    "manifest_hash": "88679f8d72dd3233e68230ed2c278da890a4ea6dd38d1b9189fe4c2afab7d635",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2026_Barrancos_portable-multichannel-measurement-system-for-real.pdf",
+    "sha256": "87035dca440862b2aede313fcd3fb769b35832c416baa4b65aa9f114d6a45814",
+    "manifest_hash": "87035dca440862b2aede313fcd3fb769b35832c416baa4b65aa9f114d6a45814",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2026_Xu_classification-quantification-and-fluorescence-behavior-analysis.pdf",
+    "sha256": "908207211a49a52d59c1061fc255c9471bd6c0070178e644e4fbb018729c876b",
+    "manifest_hash": "908207211a49a52d59c1061fc255c9471bd6c0070178e644e4fbb018729c876b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2026_Hou_portable-microwave-sensor-system-for-real.pdf",
+    "sha256": "7d3ea38f62a0f1f281b612e65a961c7ff49172ba26fabc39e09d35ab085a3330",
+    "manifest_hash": "7d3ea38f62a0f1f281b612e65a961c7ff49172ba26fabc39e09d35ab085a3330",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Xue_detection-of-microplastic-release-into-water.pdf",
+    "sha256": "6bc41798f4cfdc18a0c6654834073979ba439ca7065e9a6c9c73a2718c40751b",
+    "manifest_hash": "6bc41798f4cfdc18a0c6654834073979ba439ca7065e9a6c9c73a2718c40751b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2026_Kim_microplastics-released-from-disposable-food-containers.pdf",
+    "sha256": "928a947ad149f485769be694724e35ee8bfda47c6b51e14305575a4c23cc1fc9",
+    "manifest_hash": "928a947ad149f485769be694724e35ee8bfda47c6b51e14305575a4c23cc1fc9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2024_Yetim_determination-of-microplastic-release-from-disposable.pdf",
+    "sha256": "098d9a246f6c51ddde9fa05ab368b57201cc4e604e97217c242bf7cf62338dd4",
+    "manifest_hash": "098d9a246f6c51ddde9fa05ab368b57201cc4e604e97217c242bf7cf62338dd4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2023_KadacCzapska_microplastics-derived-from-food-packaging-wastetheir.pdf",
+    "sha256": "cb5872da1ca3756edd374e7470a334242cb87887ae69c0815d6f0d9a8920ad3e",
+    "manifest_hash": "cb5872da1ca3756edd374e7470a334242cb87887ae69c0815d6f0d9a8920ad3e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2022_Hu_microplastics-in-widely-used-polypropylene-made.pdf",
+    "sha256": "cec1e8fa034e64b85b41270560fb04dff6d7affeca772be380d2b47d8c6529e2",
+    "manifest_hash": "cec1e8fa034e64b85b41270560fb04dff6d7affeca772be380d2b47d8c6529e2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Eid_antioxidants-immunotoxicological-and-histopathological-impacts-of.pdf",
+    "sha256": "9ec02ed58673e36c4a7bdf9ab012001b8d32f3d2c94f12764017734b0bb8c10d",
+    "manifest_hash": "9ec02ed58673e36c4a7bdf9ab012001b8d32f3d2c94f12764017734b0bb8c10d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Alatas_rapid-differentiation-between-microplastic-particles-using.pdf",
+    "sha256": "4a987d0646733a6da177d30a851dfed7b8a5902f8828f119142abae991a02429",
+    "manifest_hash": "4a987d0646733a6da177d30a851dfed7b8a5902f8828f119142abae991a02429",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2024_Perez_development-of-a-new-methodology-for.pdf",
+    "sha256": "fae7028342290603df06b22c5919f30bf4e348f10079116b2c869ee7fd135447",
+    "manifest_hash": "fae7028342290603df06b22c5919f30bf4e348f10079116b2c869ee7fd135447",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2024_Nagy_nudging-consumers-about-the-issue-of.pdf",
+    "sha256": "bc3aac0bb446e38df4c7135b0c257d91bc14bdfcf5124021f3c347c802584333",
+    "manifest_hash": "bc3aac0bb446e38df4c7135b0c257d91bc14bdfcf5124021f3c347c802584333",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Ferreira_biodegradable-nanocomposite-films-containing-combined-zno.pdf",
+    "sha256": "18c6ec346881a2fd2d362b114645a1a83d4e1a3993ea93be03b11d574fa91d9a",
+    "manifest_hash": "18c6ec346881a2fd2d362b114645a1a83d4e1a3993ea93be03b11d574fa91d9a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Agarwal_microplastics-from-disposable-paper-cups-a.pdf",
+    "sha256": "7f40e7ca50d431ac6e26f82a603b6d9e366bd1dbffc27e061897af86d27b96a8",
+    "manifest_hash": "7f40e7ca50d431ac6e26f82a603b6d9e366bd1dbffc27e061897af86d27b96a8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2022_CorellaPuertas_development-of-simplified-characterization-factors-for.pdf",
+    "sha256": "313494fe8032a9672c1af281fb98c740f2f4da6819e0228ecb33427d35b9199c",
+    "manifest_hash": "313494fe8032a9672c1af281fb98c740f2f4da6819e0228ecb33427d35b9199c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Katsara_microplastic-migration-from-food-packaging-on.pdf",
+    "sha256": "8aafc13dbf0218f6ecc583f13a34f134eb622964f96322d9b4ab46cfef395e52",
+    "manifest_hash": "8aafc13dbf0218f6ecc583f13a34f134eb622964f96322d9b4ab46cfef395e52",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-food-packaging-plastic-tubs",
+    "filename": "2025_Du_identification-and-characterization-of-microplastics-released.pdf",
+    "sha256": "f69279a2a0c674f385c38db07e10d6c4ea4a6da9739b5df4db3e18229f9a0037",
+    "manifest_hash": "f69279a2a0c674f385c38db07e10d6c4ea4a6da9739b5df4db3e18229f9a0037",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2025_Schuab_evaluation-of-microplastic-contamination-in-table.pdf",
+    "sha256": "653ce777e94bc4cf0b5a6b90a1a9705804ee8ffb52c09597cf515b59695ed863",
+    "manifest_hash": "653ce777e94bc4cf0b5a6b90a1a9705804ee8ffb52c09597cf515b59695ed863",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2025_Ibrahim_detection-of-microplastics-in-honey-of.pdf",
+    "sha256": "e90dfcc638313ae1de894b1fd8b46438a57e7c347590fef1575f6e533d3b3b96",
+    "manifest_hash": "e90dfcc638313ae1de894b1fd8b46438a57e7c347590fef1575f6e533d3b3b96",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2026_Fadda_hidden-pollutants-in-food-evidence-of.pdf",
+    "sha256": "d01f94b6f03e3cb672afb35ed679b407d8fe42efed4c95bd95b7f45c1149c68c",
+    "manifest_hash": "d01f94b6f03e3cb672afb35ed679b407d8fe42efed4c95bd95b7f45c1149c68c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2026_Zhao_poly-butylene-adipate-co-terephthalate-biodegradable.pdf",
+    "sha256": "5cfcb8c922690e1ab90298ba93994ef1fcb4e66bf64cbdd90bc3aede7551cc55",
+    "manifest_hash": "5cfcb8c922690e1ab90298ba93994ef1fcb4e66bf64cbdd90bc3aede7551cc55",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2025_Aprilianti_identification-of-microplastic-polymers-in-packaged.pdf",
+    "sha256": "e6ea8cda6621f0606b1db3fa8e967b0d66db32f1b3df7f0542122d431621bf83",
+    "manifest_hash": "e6ea8cda6621f0606b1db3fa8e967b0d66db32f1b3df7f0542122d431621bf83",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2021_Naggar_are-honey-bees-at-risk-from.pdf",
+    "sha256": "9cf1facff6785f70a4008f623161d2517c762f22b7f7fdff42436c4617056237",
+    "manifest_hash": "9cf1facff6785f70a4008f623161d2517c762f22b7f7fdff42436c4617056237",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2026_Bilecen_honey-as-a-bioindicator-of-microplastic.pdf",
+    "sha256": "e5d0de59baef1465e5b5d09ff94ad9f8bbc8cab5ffbc78fbc163007d9b8c844b",
+    "manifest_hash": "e5d0de59baef1465e5b5d09ff94ad9f8bbc8cab5ffbc78fbc163007d9b8c844b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2020_Diaz_microplastics-in-honey-beer-milk-and.pdf",
+    "sha256": "b7ebe8a293114ddc343fb228bd162a68ff1738d80b732a772efef588d1159b62",
+    "manifest_hash": "b7ebe8a293114ddc343fb228bd162a68ff1738d80b732a772efef588d1159b62",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2025_Kadarsah_microplastic-contamination-in-heterotrigona-itama-bee.pdf",
+    "sha256": "4d46e5f30452adc89ba88e054c98d6069b18bb7051fc04e0f6aa63195175768c",
+    "manifest_hash": "4d46e5f30452adc89ba88e054c98d6069b18bb7051fc04e0f6aa63195175768c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2022_Katsara_honey-quality-and-microplastic-migration-from.pdf",
+    "sha256": "eb74dae477c7fb1822a064f3d8e3e0442f82624c1ac9da139d01d2ad3327e592",
+    "manifest_hash": "eb74dae477c7fb1822a064f3d8e3e0442f82624c1ac9da139d01d2ad3327e592",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-honey",
+    "filename": "2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+    "sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+    "manifest_hash": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Jin_characterisation-of-changes-in-global-genes.pdf",
+    "sha256": "75f7e61a1a84d091a6d9bd96095919a8546d91280c3218f1b17153e3dc77ddde",
+    "manifest_hash": "75f7e61a1a84d091a6d9bd96095919a8546d91280c3218f1b17153e3dc77ddde",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2022_Jarosz_airborne-microplastic-in-the-atmospheric-deposition.pdf",
+    "sha256": "dab31aa6d08e69f7b2f626d023d0e08c161f9297164735cef3ea1d32168c8295",
+    "manifest_hash": "dab31aa6d08e69f7b2f626d023d0e08c161f9297164735cef3ea1d32168c8295",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2022_Vitali_rapid-single-particle-atmospheric-solids-analysis.pdf",
+    "sha256": "a033325c4859cdd56503cb6f87fd35a3b50d95a41fc27c691ac7d0b14f8f2dd4",
+    "manifest_hash": "a033325c4859cdd56503cb6f87fd35a3b50d95a41fc27c691ac7d0b14f8f2dd4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Dziobak_first-evidence-of-microplastic-inhalation-among.pdf",
+    "sha256": "b7c807a5bd0c3d31d0e9786e94997dfbbb2fcf9cd0e8a92bd8484b46eaad7e76",
+    "manifest_hash": "b7c807a5bd0c3d31d0e9786e94997dfbbb2fcf9cd0e8a92bd8484b46eaad7e76",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Swinnerton_the-emission-and-physicochemical-properties-of.pdf",
+    "sha256": "13c7f430afc382bebcbcc6af4e2a51a92f0272191e79e07f777e1b3a84aca110",
+    "manifest_hash": "13c7f430afc382bebcbcc6af4e2a51a92f0272191e79e07f777e1b3a84aca110",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Evangelou_atmospheric-microplastic-emissions-from-land-and.pdf",
+    "sha256": "13da170b1eb1d8373f1738267977b717e891189c4c013fcac15baa9d2e19c2d0",
+    "manifest_hash": "13da170b1eb1d8373f1738267977b717e891189c4c013fcac15baa9d2e19c2d0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Islam_human-inhalation-exposure-assessment-of-the.pdf",
+    "sha256": "7069c549a6533bbf54190f51cc8376ff4b3c21ce96789af8b749b492a3fec052",
+    "manifest_hash": "7069c549a6533bbf54190f51cc8376ff4b3c21ce96789af8b749b492a3fec052",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Gagan_characterizing-atmospheric-oxidation-and-cloud-condensation.pdf",
+    "sha256": "68cac841b7b103c7538949808d4e476de2b8116f01fe9a1d0b18a792db8675da",
+    "manifest_hash": "68cac841b7b103c7538949808d4e476de2b8116f01fe9a1d0b18a792db8675da",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Santizo_microplastic-materials-for-inhalation-studies-preparation.pdf",
+    "sha256": "5ba07ce21aab0a9afb2e30a1257ed97895a7da9419de4accade3161d77dcfab2",
+    "manifest_hash": "5ba07ce21aab0a9afb2e30a1257ed97895a7da9419de4accade3161d77dcfab2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Placci_multitechnique-characterization-of-eco-corona-formation.pdf",
+    "sha256": "98b5e15ce1e92b3b73140fbbc4bf7280d24877142a5c757cc2286c02a4b69b81",
+    "manifest_hash": "98b5e15ce1e92b3b73140fbbc4bf7280d24877142a5c757cc2286c02a4b69b81",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Guo_characteristics-sources-and-potential-ecological-risk.pdf",
+    "sha256": "f9d1d56b08cc7b9df492fcce37e7f5a8da9631fefe9f7602c98f2e3aeacb52f9",
+    "manifest_hash": "f9d1d56b08cc7b9df492fcce37e7f5a8da9631fefe9f7602c98f2e3aeacb52f9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_TransitoMedina_gentamicin-release-study-in-uniaxial-and.pdf",
+    "sha256": "67fb370e8ec3fd8f5026e01a67023012d9eff3f1a25bbecf6e9eded9d9e75c52",
+    "manifest_hash": "67fb370e8ec3fd8f5026e01a67023012d9eff3f1a25bbecf6e9eded9d9e75c52",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Rao_characterization-and-health-risk-assessment-of.pdf",
+    "sha256": "9ad998ce35886c2e3dbc3337392416409241b7557606ed11d051f91252f0c4df",
+    "manifest_hash": "9ad998ce35886c2e3dbc3337392416409241b7557606ed11d051f91252f0c4df",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Zhang_real-time-detection-of-urban-atmospheric.pdf",
+    "sha256": "55a4d326f53cba0fb372097d86732e11ac06ce5d19a721f5a225172f42a3e1d1",
+    "manifest_hash": "55a4d326f53cba0fb372097d86732e11ac06ce5d19a721f5a225172f42a3e1d1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Rangrazi_investigation-of-airborne-microplastics-emission-and.pdf",
+    "sha256": "123192a7398b2985a54343f5101885f5bce013a47a971b8b18b1e7db92839949",
+    "manifest_hash": "123192a7398b2985a54343f5101885f5bce013a47a971b8b18b1e7db92839949",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Wang_a-holdi-mass-spectrometry-platform-for.pdf",
+    "sha256": "d2742b779f67ef878d010e0475319ff83349a0f43d20ed80634495ab08494c47",
+    "manifest_hash": "d2742b779f67ef878d010e0475319ff83349a0f43d20ed80634495ab08494c47",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Pandey_human-exposure-to-airborne-microplastics-a.pdf",
+    "sha256": "e9b2185dc48bfb5a40cfeb7e807d1c932a4c6ad1a3d9a0e2180cf05b94722ce0",
+    "manifest_hash": "e9b2185dc48bfb5a40cfeb7e807d1c932a4c6ad1a3d9a0e2180cf05b94722ce0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Hasan_understanding-the-occurrence-and-fate-of.pdf",
+    "sha256": "337ed162c66e25b219a5e18aad554cc2ab6a280ad8b1273c68cc004ae970ce27",
+    "manifest_hash": "337ed162c66e25b219a5e18aad554cc2ab6a280ad8b1273c68cc004ae970ce27",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Fan_a-toxicological-assessment-of-airborne-microplastics.pdf",
+    "sha256": "cc5f8640b46863d32a884859cd433adb5121973aea674498f346b7978abf553a",
+    "manifest_hash": "cc5f8640b46863d32a884859cd433adb5121973aea674498f346b7978abf553a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Szostak_integrated-gcms-and-atrftir-analysis-of.pdf",
+    "sha256": "0f3cf206eea2c302888618543bb00a9f3926e2bafc308d6a37a7b4f330a67d43",
+    "manifest_hash": "0f3cf206eea2c302888618543bb00a9f3926e2bafc308d6a37a7b4f330a67d43",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Aves_comparative-assessment-of-five-analytical-methods.pdf",
+    "sha256": "ff38e1317c1d4b2277da0215491a867909151ee127bf97df54cee73adf028385",
+    "manifest_hash": "ff38e1317c1d4b2277da0215491a867909151ee127bf97df54cee73adf028385",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2020_Evangeliou_atmospheric-transport-is-a-major-pathway.pdf",
+    "sha256": "15a96fb397799f445301d5f271578f0e8f5e3b45ecac0cf4c0be876a1109c417",
+    "manifest_hash": "15a96fb397799f445301d5f271578f0e8f5e3b45ecac0cf4c0be876a1109c417",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2019_Prata_an-easy-method-for-processing-and.pdf",
+    "sha256": "ef4c5b65e8aa9b258f82fbe8b354a66e283cd571bd8bab555f269361c3da088b",
+    "manifest_hash": "ef4c5b65e8aa9b258f82fbe8b354a66e283cd571bd8bab555f269361c3da088b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2020_Allen_examination-of-the-ocean-as-a.pdf",
+    "sha256": "fdab04d191c168ff642b36c97e0ca8d52512cf77e102083ea19e331410190400",
+    "manifest_hash": "fdab04d191c168ff642b36c97e0ca8d52512cf77e102083ea19e331410190400",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2022_Tian_quantification-of-polyethylene-terephthalate-microplastics-and.pdf",
+    "sha256": "eccf3620fcbc82146ea50d91fef0d4432fd8ff2c4501efbee175319091b15778",
+    "manifest_hash": "eccf3620fcbc82146ea50d91fef0d4432fd8ff2c4501efbee175319091b15778",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2020_Li_covid-19-performance-study-of-microplastic.pdf",
+    "sha256": "6825f2ab37a90528c4d85b5f8322e3a175118d777ef508ec68915cb0d0d06261",
+    "manifest_hash": "6825f2ab37a90528c4d85b5f8322e3a175118d777ef508ec68915cb0d0d06261",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Haque_microplastics-in-indoor-dust-at-dhaka.pdf",
+    "sha256": "6844238611f6b3b69857c873adcf5a8240869fde94631d4b4aa66c6af93bff8b",
+    "manifest_hash": "6844238611f6b3b69857c873adcf5a8240869fde94631d4b4aa66c6af93bff8b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Bhat_retracted-article-an-in-depth-study.pdf",
+    "sha256": "889904d713c6254ccc235d270bc83e65c22edcfa85297eb6f131c15d09c12c03",
+    "manifest_hash": "889904d713c6254ccc235d270bc83e65c22edcfa85297eb6f131c15d09c12c03",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Elnahas_atmospheric-deposition-of-microplastics-in-south.pdf",
+    "sha256": "87dba5f1f635424b1b71be9dfecf32365023d458b95d869627350def02103937",
+    "manifest_hash": "87dba5f1f635424b1b71be9dfecf32365023d458b95d869627350def02103937",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Limsiriwong_exploring-personal-exposure-to-airborne-microplastics.pdf",
+    "sha256": "6081cbc4f4b4cfde11422b8c6285ef014229c37b29c6c06b55ae58377706c594",
+    "manifest_hash": "6081cbc4f4b4cfde11422b8c6285ef014229c37b29c6c06b55ae58377706c594",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Choi_assessing-inhalation-intake-of-microplastics-using.pdf",
+    "sha256": "30206945f48ea92e616caba95a92916c5cc70bffccb2169baab9cce39aa689d9",
+    "manifest_hash": "30206945f48ea92e616caba95a92916c5cc70bffccb2169baab9cce39aa689d9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Yang_influence-of-regional-environmental-variables-on.pdf",
+    "sha256": "e76332278ed18fe6ed7942c51e918bb21594c98ad27e283c173b19a4f1963ad4",
+    "manifest_hash": "e76332278ed18fe6ed7942c51e918bb21594c98ad27e283c173b19a4f1963ad4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Jafarova_robinia-pseudoacacia-l-black-locust-leaflets.pdf",
+    "sha256": "a4a9510d7ebdff439b0e73204c453f01fe471b3773a2b4fbdf89b1bd53c5e367",
+    "manifest_hash": "a4a9510d7ebdff439b0e73204c453f01fe471b3773a2b4fbdf89b1bd53c5e367",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Foroutan_a-model-for-dry-deposition-of.pdf",
+    "sha256": "598b6948584d6ba91d3ff73f9ff1c40f480fe884c45da67272e6fb739b4b8328",
+    "manifest_hash": "598b6948584d6ba91d3ff73f9ff1c40f480fe884c45da67272e6fb739b4b8328",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Ozturk_atmospheric-microplastic-deposition-in-high-altitude.pdf",
+    "sha256": "ca273b9400664f4839a22ea0c23d6d9fce435b254f5c71c9c2eb83d4e734c153",
+    "manifest_hash": "ca273b9400664f4839a22ea0c23d6d9fce435b254f5c71c9c2eb83d4e734c153",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Tan_airborne-pet-nanoplastics-alter-tobaccos-chemical.pdf",
+    "sha256": "3b5088cb9de7b508f1143d3c3b41d83fb608d8f5ec76296f7a3be316155e728c",
+    "manifest_hash": "3b5088cb9de7b508f1143d3c3b41d83fb608d8f5ec76296f7a3be316155e728c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Bargagli_potential-role-of-mosses-in-evaluating.pdf",
+    "sha256": "b2a13471170d42be06c0cbf21782951d7c397f855904134a55f8c5e8981135da",
+    "manifest_hash": "b2a13471170d42be06c0cbf21782951d7c397f855904134a55f8c5e8981135da",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Beni_atmospheric-aerosol-microplastics-intake-and-deposition.pdf",
+    "sha256": "d46577243c4448c7133336d27bc497ee91d98a5c9845651ce8c50ae3899abb9b",
+    "manifest_hash": "d46577243c4448c7133336d27bc497ee91d98a5c9845651ce8c50ae3899abb9b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Mohmad_environmental-influences-on-microplastics-and-particulate.pdf",
+    "sha256": "9720ca7d5517865a25c72fa7bf0d61ea4f594012db34a677792e7e8b9a0ed293",
+    "manifest_hash": "9720ca7d5517865a25c72fa7bf0d61ea4f594012db34a677792e7e8b9a0ed293",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Lin_temporal-variations-and-characteristics-of-microplastics.pdf",
+    "sha256": "218725828d028fedf97cfcfd0b6be75a1c141a44ddd907a222c8c885d9f592b8",
+    "manifest_hash": "218725828d028fedf97cfcfd0b6be75a1c141a44ddd907a222c8c885d9f592b8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Balqis_microplastics-in-indoor-air-and-dust.pdf",
+    "sha256": "cdcb0e7b32cacac13ed99dd0f90e0ba111ca0ffbed17589b6c762ef8df35d31b",
+    "manifest_hash": "cdcb0e7b32cacac13ed99dd0f90e0ba111ca0ffbed17589b6c762ef8df35d31b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2026_Ministerio_atmospheric-microplastics-in-indoor-and-outdoor.pdf",
+    "sha256": "f6f1657b0d99bda42be8d57fa1255f7740a45ca5404f213172f3f5ebf2b32208",
+    "manifest_hash": "f6f1657b0d99bda42be8d57fa1255f7740a45ca5404f213172f3f5ebf2b32208",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Li_direct-ftir-analysis-of-microplastics-deposited.pdf",
+    "sha256": "33f5fee80fe32a1cb3d67558b70d18d79be0056d246ef6a8290bc74c2e9223ea",
+    "manifest_hash": "33f5fee80fe32a1cb3d67558b70d18d79be0056d246ef6a8290bc74c2e9223ea",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Chen_long-range-atmospheric-transport-of-microplastics.pdf",
+    "sha256": "1efda65197c476f76afa7110b37351de07a849faa807e9497aa801658fe42898",
+    "manifest_hash": "1efda65197c476f76afa7110b37351de07a849faa807e9497aa801658fe42898",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Gou_airborne-micro-and-nanoplastics-emerging-causes.pdf",
+    "sha256": "98789d091b8570da1ca69ae22b101e25e1e8d4ccb9d6233a5d8dc662da7ac9be",
+    "manifest_hash": "98789d091b8570da1ca69ae22b101e25e1e8d4ccb9d6233a5d8dc662da7ac9be",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Cary_single-inhalation-exposure-to-polyamide-micro.pdf",
+    "sha256": "cf8f39f9f90891c96b32c028f08e8ca705a0562c0a091b6c39048913e4c233a4",
+    "manifest_hash": "cf8f39f9f90891c96b32c028f08e8ca705a0562c0a091b6c39048913e4c233a4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2021_Loppi_accumulation-of-airborne-microplastics-in-lichens.pdf",
+    "sha256": "ec7feb368413dfd5d65abb9d1d936a4b3bdafaf621f37efe63858a8a67efe26e",
+    "manifest_hash": "ec7feb368413dfd5d65abb9d1d936a4b3bdafaf621f37efe63858a8a67efe26e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Borgatta_inhalation-of-microplasticsa-toxicological-complexity.pdf",
+    "sha256": "541cea12619b4dea0ea6693cac889e03350a963759e64a08acf796d1be1aa556",
+    "manifest_hash": "541cea12619b4dea0ea6693cac889e03350a963759e64a08acf796d1be1aa556",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Tomonaga_investigation-of-pulmonary-inflammatory-responses-following.pdf",
+    "sha256": "eba315b71e5eef9494a028c0ba31acf1de6e9b841f10212951802c8dec32b19b",
+    "manifest_hash": "eba315b71e5eef9494a028c0ba31acf1de6e9b841f10212951802c8dec32b19b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2021_Allen_temporal-archive-of-atmospheric-microplastic-deposition.pdf",
+    "sha256": "e97f0296cdb56fa8341ab0dc1bdd7a446f943046dc894dc007138639611e6545",
+    "manifest_hash": "e97f0296cdb56fa8341ab0dc1bdd7a446f943046dc894dc007138639611e6545",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Boakes_high-temporal-resolution-records-of-outdoor.pdf",
+    "sha256": "42ac59465c9db7ddfb0583200945f6d9649d8a79c5e98466d11b84683f4846bb",
+    "manifest_hash": "42ac59465c9db7ddfb0583200945f6d9649d8a79c5e98466d11b84683f4846bb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Yakovenko_human-exposure-to-pm10-microplastics-in.pdf",
+    "sha256": "850d35272369816328e323e65b209df4d7c6d6faf91156f55189d4ae4df5dfac",
+    "manifest_hash": "850d35272369816328e323e65b209df4d7c6d6faf91156f55189d4ae4df5dfac",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2022_Eunsu_microplastics-microfibers-in-settled-indoor-house.pdf",
+    "sha256": "25d675e330ad8f783799f035ca4a64eaff79d0c821a27d068b3401502937e0f7",
+    "manifest_hash": "25d675e330ad8f783799f035ca4a64eaff79d0c821a27d068b3401502937e0f7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+    "sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+    "manifest_hash": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Bertrim_moss-bags-as-biomonitors-of-atmospheric.pdf",
+    "sha256": "4ca9df04038b0d099eda03685a7b96a17d17c75b0e3c5e87aef630882fb3f843",
+    "manifest_hash": "4ca9df04038b0d099eda03685a7b96a17d17c75b0e3c5e87aef630882fb3f843",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Capozzi_biomonitoring-of-airborne-microplastic-deposition-in.pdf",
+    "sha256": "0d1bd70db7bb2eda955f970787718ef6c13831fd19d122bd67ac46eea9d0a8d7",
+    "manifest_hash": "0d1bd70db7bb2eda955f970787718ef6c13831fd19d122bd67ac46eea9d0a8d7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2023_Capozzi_optimizing-moss-and-lichen-transplants-as.pdf",
+    "sha256": "fa3193a3ff46a553d0078ff99a4ea5b34b75c21bccbb5152de2948c5dff4d84a",
+    "manifest_hash": "fa3193a3ff46a553d0078ff99a4ea5b34b75c21bccbb5152de2948c5dff4d84a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2022_Jafarova_lichen-biomonitoring-of-airborne-microplastics-in.pdf",
+    "sha256": "f60edd1b986ca670d758e3fbbeb35d0c2a69971070b12a1bc4309de3fd5d97b8",
+    "manifest_hash": "f60edd1b986ca670d758e3fbbeb35d0c2a69971070b12a1bc4309de3fd5d97b8",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Din_tracking-microplastics-in-the-air-cutting.pdf",
+    "sha256": "18b812d88e03c171c3f4bde8594307f4c8064095e2afb356c46646200c9283c5",
+    "manifest_hash": "18b812d88e03c171c3f4bde8594307f4c8064095e2afb356c46646200c9283c5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2025_Valera_microplastics-in-settled-dust-from-university.pdf",
+    "sha256": "263051f8ef74f3f4ea1ba2bcb7b37c5ff75069cb01bacb55d59474a12cdba1f5",
+    "manifest_hash": "263051f8ef74f3f4ea1ba2bcb7b37c5ff75069cb01bacb55d59474a12cdba1f5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-household-dust-air",
+    "filename": "2024_Gratzl_a-fluorescence-approach-for-an-online.pdf",
+    "sha256": "6e5ae5f0f6099d407b2394f051bdd2afb27ff15a60aff2942a329b5b281801c9",
+    "manifest_hash": "6e5ae5f0f6099d407b2394f051bdd2afb27ff15a60aff2942a329b5b281801c9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+    "sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+    "manifest_hash": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2022_Pironti_first-evidence-of-microplastics-in-human.pdf",
+    "sha256": "fe2e1e4d398803ae757b9683d7a44f4b0d13072bbde1a213ce38a9d97d23c2c4",
+    "manifest_hash": "fe2e1e4d398803ae757b9683d7a44f4b0d13072bbde1a213ce38a9d97d23c2c4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Rauert_assessing-the-efficacy-of-pyrolysisgas-chromatographymass.pdf",
+    "sha256": "0d4a6fabc78c41bb1e41395b567778fbf5dd98c8aaef4a91a91b3df12be548ac",
+    "manifest_hash": "0d4a6fabc78c41bb1e41395b567778fbf5dd98c8aaef4a91a91b3df12be548ac",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Salvia_fast-screening-flow-cytometry-method-for.pdf",
+    "sha256": "2855a6732a90ce2c9892c1826c4e3d7a083d46c42e7981c7bdb0cc99985c9623",
+    "manifest_hash": "2855a6732a90ce2c9892c1826c4e3d7a083d46c42e7981c7bdb0cc99985c9623",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2022_Zhang_polystyrene-nanoplastics-induce-lung-injury-via.pdf",
+    "sha256": "8e516c3f6b019142872f61e70b80a48fa9a6833f0742a136b4837445e126a7ea",
+    "manifest_hash": "8e516c3f6b019142872f61e70b80a48fa9a6833f0742a136b4837445e126a7ea",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Sincihu_wistar-rats-hippocampal-neurons-response-to.pdf",
+    "sha256": "99889866f11f3c28dddac52672278e03d151894efd3ed2d47f82ed9f6004dbdd",
+    "manifest_hash": "99889866f11f3c28dddac52672278e03d151894efd3ed2d47f82ed9f6004dbdd",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2022_Gallitelli_anthropogenic-particles-in-coypu-myocastor-coypus.pdf",
+    "sha256": "b86efe55117311a7038a447d071cc86548f355846f3db0ba6fb71f1686e6ef8d",
+    "manifest_hash": "b86efe55117311a7038a447d071cc86548f355846f3db0ba6fb71f1686e6ef8d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Guo_the-presence-of-microplastics-in-human.pdf",
+    "sha256": "83588d0ee8bdab9b1585eef635dd893de78a5ba3c170b5f361201057c7709d82",
+    "manifest_hash": "83588d0ee8bdab9b1585eef635dd893de78a5ba3c170b5f361201057c7709d82",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Hasanah_plasticizing-pregnancy-microplastics-identified-in-expectant.pdf",
+    "sha256": "215d835f8576b6fe505332fa43d2cb17516863aad14a1c236c96013624330c40",
+    "manifest_hash": "215d835f8576b6fe505332fa43d2cb17516863aad14a1c236c96013624330c40",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Xu_impact-of-microplastic-exposure-on-blood.pdf",
+    "sha256": "99553be6b802a5caabdf4abbef960d8e32d32adec79b1fd26420a958fe5c6279",
+    "manifest_hash": "99553be6b802a5caabdf4abbef960d8e32d32adec79b1fd26420a958fe5c6279",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Nardella_advancing-pyrolysis-gas-chromatography-mass-spectrometry.pdf",
+    "sha256": "fbe4c510cb4b8adb52e40a19c7e0c63d3f87041a446ca979739781bac39d2889",
+    "manifest_hash": "fbe4c510cb4b8adb52e40a19c7e0c63d3f87041a446ca979739781bac39d2889",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Toto_efficient-extraction-of-small-microplastic-particles.pdf",
+    "sha256": "5c568bf054e7e42d5e15b7b3116af651ceafbffe56beb4ae187ae41a27d61995",
+    "manifest_hash": "5c568bf054e7e42d5e15b7b3116af651ceafbffe56beb4ae187ae41a27d61995",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Ji_quantitative-detection-of-micro-and-nanoplastics.pdf",
+    "sha256": "ebf6f5f054636a5b715d9b966d074494ed32c2b20702f5bdb5da53e0b17ff811",
+    "manifest_hash": "ebf6f5f054636a5b715d9b966d074494ed32c2b20702f5bdb5da53e0b17ff811",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Scuto_microplastics-as-emerging-contaminants-and-human.pdf",
+    "sha256": "63d3a19ce59e06b0829b222443668bfc3e00a219072866f5502332e81504b7b4",
+    "manifest_hash": "63d3a19ce59e06b0829b222443668bfc3e00a219072866f5502332e81504b7b4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Ferraboschi_detection-of-microplastics-in-the-feline.pdf",
+    "sha256": "d8a53193d812c2315a3d2ef70e1ee611003b58ae51530e40f4aba80e03c11cca",
+    "manifest_hash": "d8a53193d812c2315a3d2ef70e1ee611003b58ae51530e40f4aba80e03c11cca",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_NoppMayr_microplastic-loads-in-eurasian-otter-lutra.pdf",
+    "sha256": "c328f1c004541e22e94bd70bb188b30b053298182f7215d52af5afa385152c14",
+    "manifest_hash": "c328f1c004541e22e94bd70bb188b30b053298182f7215d52af5afa385152c14",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Uppu_comment-on-microplastic-presence-in-dog.pdf",
+    "sha256": "f5d2eacd007b64196284b9e1c7601878cbbfd0b9eb80e21e7650d3a04945bacc",
+    "manifest_hash": "f5d2eacd007b64196284b9e1c7601878cbbfd0b9eb80e21e7650d3a04945bacc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Sina_a-comparative-analysis-of-microplastics-in.pdf",
+    "sha256": "50b3e8d555aff62a30c0b2f419c19562201c8316acbf46472c2eea97cf9896c0",
+    "manifest_hash": "50b3e8d555aff62a30c0b2f419c19562201c8316acbf46472c2eea97cf9896c0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Thamsenanupap_first-report-of-microplastics-in-wild.pdf",
+    "sha256": "d9433504f40a64f725754d6e43a2526b5b5fd6de32e9851c24ef141f91a80e02",
+    "manifest_hash": "d9433504f40a64f725754d6e43a2526b5b5fd6de32e9851c24ef141f91a80e02",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Zhang_integrative-analysis-of-pharmacology-and-transcriptomics.pdf",
+    "sha256": "e204060054007abc17af240692d3efd071c8a19a7c9cc94658225c751bdee46c",
+    "manifest_hash": "e204060054007abc17af240692d3efd071c8a19a7c9cc94658225c751bdee46c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Wang_health-risk-analysis-of-micro-and.pdf",
+    "sha256": "9ac2b4ecccd845bcfe5477f3a2268ab77460e472b9b05fe9494a2ee4ab9e44cc",
+    "manifest_hash": "9ac2b4ecccd845bcfe5477f3a2268ab77460e472b9b05fe9494a2ee4ab9e44cc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Celik_microplastics-in-greylag-goose-anser-anser.pdf",
+    "sha256": "b41311de0a7cd168af7a54231075b8b8fefbe2b693a8912469d1e04ec8e289c4",
+    "manifest_hash": "b41311de0a7cd168af7a54231075b8b8fefbe2b693a8912469d1e04ec8e289c4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Torres_optimisation-and-validation-of-a-quantitative.pdf",
+    "sha256": "03f0712d803ca16c0103a24c377610676c770d989861e321fe2a7b746fcee1af",
+    "manifest_hash": "03f0712d803ca16c0103a24c377610676c770d989861e321fe2a7b746fcee1af",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Sarabia_isolation-and-characterization-of-microplastics-from.pdf",
+    "sha256": "7f56d69a980fc013356f613e002959ce4782150142110bdf0006ed6563db0ab1",
+    "manifest_hash": "7f56d69a980fc013356f613e002959ce4782150142110bdf0006ed6563db0ab1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Kopatz_micro-and-nanoplastics-breach-the-bloodbrain.pdf",
+    "sha256": "0404fb6a75bddb7a5773f35f072048a599b9fb6bb3a569767926a37fead07d40",
+    "manifest_hash": "0404fb6a75bddb7a5773f35f072048a599b9fb6bb3a569767926a37fead07d40",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Woo_polypropylene-nanoplastic-exposure-leads-to-lung.pdf",
+    "sha256": "efd92d357df94c6ee3bdfbe2d6d4b8d64e2256ac35e9b93a0d6acbba5bd9da9b",
+    "manifest_hash": "efd92d357df94c6ee3bdfbe2d6d4b8d64e2256ac35e9b93a0d6acbba5bd9da9b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Sophian_microplastics-as-emerging-neurotoxins-brain-accumulation.pdf",
+    "sha256": "ba4da07eece13d72922c4647211787d38a4b5da9defa672b30619aef25021e9e",
+    "manifest_hash": "ba4da07eece13d72922c4647211787d38a4b5da9defa672b30619aef25021e9e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Sorkyte_microplastics-in-the-seminal-microenvironment-of.pdf",
+    "sha256": "157aa720a91c14c079d91613def8ab87fa9148ea78a993ad5800d4ad225dacb4",
+    "manifest_hash": "157aa720a91c14c079d91613def8ab87fa9148ea78a993ad5800d4ad225dacb4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Dimeas_microplastics-in-human-thoracic-tissues-increased.pdf",
+    "sha256": "d050dea74c461eb7a74895b05d2d2362074836aea99b1e6b2a75dbfddee1a45b",
+    "manifest_hash": "d050dea74c461eb7a74895b05d2d2362074836aea99b1e6b2a75dbfddee1a45b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Scuto_functional-foods-and-micro-and-nanoplastics.pdf",
+    "sha256": "ca6b14ffa1322d4db9c94a254c0d94167556d9113d94bcc271a0e8104ebaa350",
+    "manifest_hash": "ca6b14ffa1322d4db9c94a254c0d94167556d9113d94bcc271a0e8104ebaa350",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Jaafarzadeh_comparative-evaluation-of-urine-sputum-and.pdf",
+    "sha256": "67d261ac9985786edce68f5c5e88288d9e0ff86672fa76fb712127a324bd96a0",
+    "manifest_hash": "67d261ac9985786edce68f5c5e88288d9e0ff86672fa76fb712127a324bd96a0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Helgeson_the-association-of-microplastics-in-peripheral.pdf",
+    "sha256": "c7538eed731abaf6aba7aed58c0232e52f0a95d48325c63171b3c1a3d2c211e4",
+    "manifest_hash": "c7538eed731abaf6aba7aed58c0232e52f0a95d48325c63171b3c1a3d2c211e4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Marfella_microplastics-in-human-lung-tissue-from.pdf",
+    "sha256": "03cda327c5ff4f4b543e9e42f20ec0e2c484842a9c69e4f300b998c15ee98e06",
+    "manifest_hash": "03cda327c5ff4f4b543e9e42f20ec0e2c484842a9c69e4f300b998c15ee98e06",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Zhang_protein-phosphatase-2a-hedgehog-pathway-governs.pdf",
+    "sha256": "e5a81def43eb5ab8299e1c42f62a61e1556d149137b115f0762f9b5ece08e067",
+    "manifest_hash": "e5a81def43eb5ab8299e1c42f62a61e1556d149137b115f0762f9b5ece08e067",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Wu_microplasticsinduced-gut-microbiota-dysbiosis-accelerates-alzheimer.pdf",
+    "sha256": "15165b0e2e3eb2a72512216e12c070e1e24f69f869487a4f50da677783637b36",
+    "manifest_hash": "15165b0e2e3eb2a72512216e12c070e1e24f69f869487a4f50da677783637b36",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Zhang_sesamin-protects-against-polystyrene-microplastics-induced.pdf",
+    "sha256": "d1acd342d13aa24041d195c85a1b05eeb27fd36d48c9a0139cc9f1ce101e93ff",
+    "manifest_hash": "d1acd342d13aa24041d195c85a1b05eeb27fd36d48c9a0139cc9f1ce101e93ff",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_CabaFlores_micro-problems-with-macro-consequences-accumulation.pdf",
+    "sha256": "7560fe4422754bc2dc892766ab532fdf5895152d6ee7dd0f8cf5158a775813b9",
+    "manifest_hash": "7560fe4422754bc2dc892766ab532fdf5895152d6ee7dd0f8cf5158a775813b9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Refosco_microplastics-in-human-feces-a-pilot.pdf",
+    "sha256": "e9a75f71ddecb38d2d39597358de940fe8de4e60358df11f68d340c7b89c2a95",
+    "manifest_hash": "e9a75f71ddecb38d2d39597358de940fe8de4e60358df11f68d340c7b89c2a95",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Li_microplastics-and-nanoplastics-in-matched-human.pdf",
+    "sha256": "d0be9da8b608f62ec0692a2cd5ed440eba8005429de1c47138f034e3bc71e102",
+    "manifest_hash": "d0be9da8b608f62ec0692a2cd5ed440eba8005429de1c47138f034e3bc71e102",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Mishra_the-invisible-threat-microplastics-in-human.pdf",
+    "sha256": "35ed410b8af317a769b97232ba0368beb2dc765161dd870ffc6128a3da1ba5ce",
+    "manifest_hash": "35ed410b8af317a769b97232ba0368beb2dc765161dd870ffc6128a3da1ba5ce",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Gettings_polyethylene-terephthalate-pet-micro-and-nanoplastic.pdf",
+    "sha256": "22c63da9d5094c4d166acae03f7ab148ebade6e63d167b31874e72f135cf7705",
+    "manifest_hash": "22c63da9d5094c4d166acae03f7ab148ebade6e63d167b31874e72f135cf7705",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Vadhadiya_study-of-microplastics-in-human-blood.pdf",
+    "sha256": "909e4604bbfdb2bc9ad7dcc4fe8b0d94dfbff7dd219ac997d3a29fa5007e3d36",
+    "manifest_hash": "909e4604bbfdb2bc9ad7dcc4fe8b0d94dfbff7dd219ac997d3a29fa5007e3d36",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Nurika_microplastics-in-breast-milk-and-feces.pdf",
+    "sha256": "7e5a9d447375b44b50703a5f72e4b0fc6475c21e2157456fc28e3ccae7037827",
+    "manifest_hash": "7e5a9d447375b44b50703a5f72e4b0fc6475c21e2157456fc28e3ccae7037827",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Zainuddin_evaluating-the-suitability-of-atr-ftir.pdf",
+    "sha256": "1e9c3f88e8106e5906fa0ad8e6a7ffe9a386bd08e280ebd99f25f1668294df9d",
+    "manifest_hash": "1e9c3f88e8106e5906fa0ad8e6a7ffe9a386bd08e280ebd99f25f1668294df9d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2022_Lu_microplastics-potential-threat-to-patients-with.pdf",
+    "sha256": "1ac7b1c4d861e3ea990cf85ba59ebecf9a4cf66d338516f5074d22cb103064e4",
+    "manifest_hash": "1ac7b1c4d861e3ea990cf85ba59ebecf9a4cf66d338516f5074d22cb103064e4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2022_Ho_preliminary-findings-of-the-high-quantity.pdf",
+    "sha256": "c55f91029af0299cee0cccd6cba13af027986c2ef07a372617d98b54e2c739ad",
+    "manifest_hash": "c55f91029af0299cee0cccd6cba13af027986c2ef07a372617d98b54e2c739ad",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Hanrahan_maternal-exposure-to-polyethylene-micro-and.pdf",
+    "sha256": "fb2fef3a5ae62887077bc0075c16a674501f1a77a11057331a92358896d03719",
+    "manifest_hash": "fb2fef3a5ae62887077bc0075c16a674501f1a77a11057331a92358896d03719",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Epeslidou_microplastics-as-environmental-modifiers-of-lung.pdf",
+    "sha256": "b29ee36d4bccea7bfd20adbf22c744e42d69f4fadb6d528035df3e5bbc11abf0",
+    "manifest_hash": "b29ee36d4bccea7bfd20adbf22c744e42d69f4fadb6d528035df3e5bbc11abf0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Tsuji_relationship-between-microplastics-in-stool-diet.pdf",
+    "sha256": "ce40acfd1fd9ed83acfcee7c68506d8be23f70912d95feb5a432af920339872d",
+    "manifest_hash": "ce40acfd1fd9ed83acfcee7c68506d8be23f70912d95feb5a432af920339872d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_HernandezPeralta_dietary-microplastics-are-eliminated-through-feces.pdf",
+    "sha256": "77da6b997534bff36ea072863d24a127591e77df14eddd761b6f0bd84aca01a1",
+    "manifest_hash": "77da6b997534bff36ea072863d24a127591e77df14eddd761b6f0bd84aca01a1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Zhang_from-environment-to-brain-the-role.pdf",
+    "sha256": "68cfde4031d4bcec26e1ec2c04a91ac5ccff35419a1099e0b82ae8fe9a97e2fc",
+    "manifest_hash": "68cfde4031d4bcec26e1ec2c04a91ac5ccff35419a1099e0b82ae8fe9a97e2fc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Wang_microplastics-in-the-lung-tissues-associated.pdf",
+    "sha256": "462453284278c47999bfc7d42b4b6dd3d2bf7f136999a29eddf44a4fc50119bf",
+    "manifest_hash": "462453284278c47999bfc7d42b4b6dd3d2bf7f136999a29eddf44a4fc50119bf",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_Li_investigation-of-microplastics-10-m-in.pdf",
+    "sha256": "13d69aa05b485d096c9a78b22596894614945d35325ba4a6e1807cab6ac36cfa",
+    "manifest_hash": "13d69aa05b485d096c9a78b22596894614945d35325ba4a6e1807cab6ac36cfa",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2023_MendezSanhueza_microplastics-in-seabird-feces-from-coastal.pdf",
+    "sha256": "30b8ef90c1f295139d0c1f91f202b32a6e670c95b54b0e961cf564ca8e107aa5",
+    "manifest_hash": "30b8ef90c1f295139d0c1f91f202b32a6e670c95b54b0e961cf564ca8e107aa5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2026_Wang_from-the-gut-to-the-brain.pdf",
+    "sha256": "0c0d61fa153a816652271ed4bda207319002852a57543cb65d9d44cc457c8392",
+    "manifest_hash": "0c0d61fa153a816652271ed4bda207319002852a57543cb65d9d44cc457c8392",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_AmatoLourenco_microplastics-in-the-olfactory-bulb-of.pdf",
+    "sha256": "d78cd56bfc44afaf13cf730b5fd79ccbb70a058ad23492a13c4cb0a80057b45a",
+    "manifest_hash": "d78cd56bfc44afaf13cf730b5fd79ccbb70a058ad23492a13c4cb0a80057b45a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2024_Bishop_microplastics-dysregulate-innate-immunity-in-the.pdf",
+    "sha256": "d7d221021f7b61b9df5f012bf03f68b96ab35678e1051a7fdf13914d91e84af9",
+    "manifest_hash": "d7d221021f7b61b9df5f012bf03f68b96ab35678e1051a7fdf13914d91e84af9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Tomonaga_comparison-of-lung-disorders-following-intratracheal.pdf",
+    "sha256": "c090b01cd69ace6821039ce47aa27aec08d0a486a77fecf171a1adb3e76696d1",
+    "manifest_hash": "c090b01cd69ace6821039ce47aa27aec08d0a486a77fecf171a1adb3e76696d1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Sun_invisible-invaders-how-nanoplastics-hijack-the.pdf",
+    "sha256": "f1eb0a75b2f5670e2186d9ee57512448014025e70ecd02f0fbc986b1bab3ce3c",
+    "manifest_hash": "f1eb0a75b2f5670e2186d9ee57512448014025e70ecd02f0fbc986b1bab3ce3c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-human-biomonitoring",
+    "filename": "2025_Sincihu_microplastics-contamination-in-breast-milk-and.pdf",
+    "sha256": "f05c3ab354d52c40777e4d5a364e967b99a2b153bba6a6d8f86556c2fc07852b",
+    "manifest_hash": "f05c3ab354d52c40777e4d5a364e967b99a2b153bba6a6d8f86556c2fc07852b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-infant-feeding-bottles",
+    "filename": "2021_Song_microparticles-and-microplastics-released-from-daily.pdf",
+    "sha256": "80f7cd5b1cac54d035a8a4cbca00ba4531808194197e35776ea1c75fd4a8564a",
+    "manifest_hash": "80f7cd5b1cac54d035a8a4cbca00ba4531808194197e35776ea1c75fd4a8564a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-infant-feeding-bottles",
+    "filename": "2024_Zhu_microplastic-particles-detected-in-fetal-cord.pdf",
+    "sha256": "fcd1abb733e8bd119580b4cec52af6d06aeb77b01adcc41ca52d37e6eae49a5b",
+    "manifest_hash": "fcd1abb733e8bd119580b4cec52af6d06aeb77b01adcc41ca52d37e6eae49a5b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-infant-feeding-bottles",
+    "filename": "2026_Zhang_qualitative-and-quantitative-characterization-of-microplastics.pdf",
+    "sha256": "f3bfe9ff8d97c498c262bbe9733d1ab3f8689899a84a15671709d2ac65b56913",
+    "manifest_hash": "f3bfe9ff8d97c498c262bbe9733d1ab3f8689899a84a15671709d2ac65b56913",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-infant-feeding-bottles",
+    "filename": "2021_Li_sampling-identification-and-characterization-of-microplastics.pdf",
+    "sha256": "65f1d8743aefdecd599176eae8b6cec8f704a3d45006adb43893a49e93f4f6e0",
+    "manifest_hash": "65f1d8743aefdecd599176eae8b6cec8f704a3d45006adb43893a49e93f4f6e0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-infant-food-puree",
+    "filename": "2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+    "sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+    "manifest_hash": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-kitchenware-cutting-boards",
+    "filename": "2022_Habib_microplastic-contamination-of-chicken-meat-and.pdf",
+    "sha256": "06b18fa11037381a24db74a3a8470ae1520001dab0f8cd2c6ad506334aa280c6",
+    "manifest_hash": "06b18fa11037381a24db74a3a8470ae1520001dab0f8cd2c6ad506334aa280c6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2017_Karami_the-presence-of-microplastics-in-commercial.pdf",
+    "sha256": "d5adaa4c2600cdf37747bcb8a956f08ca847bcd63c017e6bfb97a71977eb259c",
+    "manifest_hash": "d5adaa4c2600cdf37747bcb8a956f08ca847bcd63c017e6bfb97a71977eb259c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2020_Stead_identification-of-tidal-trapping-of-microplastics.pdf",
+    "sha256": "f7c5586a8f29b05827894078a2a2e061fa92a08a5adde55e33c975d715ab18a3",
+    "manifest_hash": "f7c5586a8f29b05827894078a2a2e061fa92a08a5adde55e33c975d715ab18a3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Ruan_nanoplastics-detected-in-commercial-sea-salt.pdf",
+    "sha256": "16419161db970dea7672c8226073d92013989371ff4749750144ccac557f4eda",
+    "manifest_hash": "16419161db970dea7672c8226073d92013989371ff4749750144ccac557f4eda",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2021_Im_detection-of-microplastic-in-salts-using.pdf",
+    "sha256": "b9ba543ca6c5578b618b7ca722b9df0103e11dc86f7e343fa93a30e321b964d9",
+    "manifest_hash": "b9ba543ca6c5578b618b7ca722b9df0103e11dc86f7e343fa93a30e321b964d9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Maharjan_first-ever-study-uncovers-microplastic-contamination.pdf",
+    "sha256": "981a14e7d3f65b8ce468a64fbcf59c3e5a640a8650c12fec9dd06b0f298e4e51",
+    "manifest_hash": "981a14e7d3f65b8ce468a64fbcf59c3e5a640a8650c12fec9dd06b0f298e4e51",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2017_Karami_correction-corrigendum-the-presence-of-microplastics.pdf",
+    "sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "manifest_hash": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Bozkaya_physico-chemical-characterization-of-food-grade.pdf",
+    "sha256": "ff359d93944bf3aa013437a6cc4e7fa7c5604ddab1d1260eb56ebdeaf692a7d7",
+    "manifest_hash": "ff359d93944bf3aa013437a6cc4e7fa7c5604ddab1d1260eb56ebdeaf692a7d7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2017_Iniguez_microplastics-in-spanish-table-salt.pdf",
+    "sha256": "35d642f0d7990785bf090ea4a79ee79fca63a06390ec3c2f9273f0121a91f585",
+    "manifest_hash": "35d642f0d7990785bf090ea4a79ee79fca63a06390ec3c2f9273f0121a91f585",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2021_Ha_microplastic-contamination-in-commercial-sea-salt.pdf",
+    "sha256": "eed3678b4deed64fdcf7f25294b003d4b6836022f7ba1f941d046f244bbe60f2",
+    "manifest_hash": "eed3678b4deed64fdcf7f25294b003d4b6836022f7ba1f941d046f244bbe60f2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Saad_microplastic-contamination-in-table-salt-a.pdf",
+    "sha256": "c01d413681d35225298a5d7d94629c1c07e6b8a02cf82ee3ad43e841e6ba0b51",
+    "manifest_hash": "c01d413681d35225298a5d7d94629c1c07e6b8a02cf82ee3ad43e841e6ba0b51",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2023_Magalhaes_evaluation-of-salt-intended-for-human.pdf",
+    "sha256": "de353a95b9ec08bc3cdd4e2398a18f1a1e57884ceb0cca6ac9f3b81061d4391b",
+    "manifest_hash": "de353a95b9ec08bc3cdd4e2398a18f1a1e57884ceb0cca6ac9f3b81061d4391b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2023_Tsuyama_analysis-of-microplastics-in-table-salt.pdf",
+    "sha256": "d2a910702205c1e714babc8a902ed17f88abbdb4474b64e9b3c75a334f453b34",
+    "manifest_hash": "d2a910702205c1e714babc8a902ed17f88abbdb4474b64e9b3c75a334f453b34",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2026_Widarni_the-presence-and-characteristics-of-microplastics.pdf",
+    "sha256": "57086db6a6462acac2861c6df4c9dbd8a63e2e12b41b0377be0935d12f371cd0",
+    "manifest_hash": "57086db6a6462acac2861c6df4c9dbd8a63e2e12b41b0377be0935d12f371cd0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2026_MedinaGarcia_a-sustainable-analytical-workflow-for-microplastic.pdf",
+    "sha256": "2c31b86c35cbf520c74ffd6e81134fa7d19316371bc2758b71cebad03d005240",
+    "manifest_hash": "2c31b86c35cbf520c74ffd6e81134fa7d19316371bc2758b71cebad03d005240",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2026_Freitas_microplastic-contamination-in-salted-dried-beef.pdf",
+    "sha256": "af69d1b5b6876ac903c3c59f369786cdda3d5abf3166eb20ede9c895d529fc36",
+    "manifest_hash": "af69d1b5b6876ac903c3c59f369786cdda3d5abf3166eb20ede9c895d529fc36",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2026_Abeywickrama_coconut-shell-based-salt-pot-lunu.pdf",
+    "sha256": "079cb532033e9ea03b8cfe889947cc4c33556aa8299c336a4596272aa548972c",
+    "manifest_hash": "079cb532033e9ea03b8cfe889947cc4c33556aa8299c336a4596272aa548972c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2021_Rakib_microplastics-pollution-in-salt-pans-from.pdf",
+    "sha256": "5b5884e2aa9dc7455e35804bfdb62dfa2e7553563c9ed0e111e0d8f3f9d68ab1",
+    "manifest_hash": "5b5884e2aa9dc7455e35804bfdb62dfa2e7553563c9ed0e111e0d8f3f9d68ab1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2022_Schutze_comparison-of-different-salt-solutions-for.pdf",
+    "sha256": "86c6299fb711da9e24018a8c9f66479f07a208427c9169f27661a8e54db7e281",
+    "manifest_hash": "86c6299fb711da9e24018a8c9f66479f07a208427c9169f27661a8e54db7e281",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2022_Kuttykattil_consuming-microplastics-investigation-of-commercial-salts.pdf",
+    "sha256": "4232fea69f85fa25500c8ee9e07a8956120850a279c7b87f04779810c488aad4",
+    "manifest_hash": "4232fea69f85fa25500c8ee9e07a8956120850a279c7b87f04779810c488aad4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2023_Taghipour_incidence-and-exposure-to-microplastics-in.pdf",
+    "sha256": "69cbccc80e62f348a56614906b220698c1ba4d1081331e338efcc3bd353b38c6",
+    "manifest_hash": "69cbccc80e62f348a56614906b220698c1ba4d1081331e338efcc3bd353b38c6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2021_Khuyen_investigating-the-correlation-of-microplastic-pollution.pdf",
+    "sha256": "e8005df1facc627873a4cc40e1048defe9ef51a2a8c27da00809382526ce8be9",
+    "manifest_hash": "e8005df1facc627873a4cc40e1048defe9ef51a2a8c27da00809382526ce8be9",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Trusler_microplastic-pollution-in-salt-marsh-and.pdf",
+    "sha256": "b9822807e2413bcf8a3647f2186f55a35fc56c81409bdb393a8aba5333c094d1",
+    "manifest_hash": "b9822807e2413bcf8a3647f2186f55a35fc56c81409bdb393a8aba5333c094d1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2021_Hikon_preliminary-investigation-of-microplastic-as-a.pdf",
+    "sha256": "35aaf57c682dc0a17d599db0c9617ecb99a6ef2ee8af8d9bc1970ba30ae70cbe",
+    "manifest_hash": "35aaf57c682dc0a17d599db0c9617ecb99a6ef2ee8af8d9bc1970ba30ae70cbe",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2024_Astuti_behavior-of-coastal-communities-in-dealing.pdf",
+    "sha256": "7f6f5e24d63f35945de36f1037c0833537c1c5614a3da665e0a535b3c216b53d",
+    "manifest_hash": "7f6f5e24d63f35945de36f1037c0833537c1c5614a3da665e0a535b3c216b53d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2026_Han_microplastic-behaviors-and-ecological-risks-in.pdf",
+    "sha256": "a34aeb925fb7aa268c4c18911d8062fb7e8c2a7f3f686e5cff2132817d78c9b0",
+    "manifest_hash": "a34aeb925fb7aa268c4c18911d8062fb7e8c2a7f3f686e5cff2132817d78c9b0",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-salt",
+    "filename": "2023_Mazumder_an-investigation-on-the-prevalence-of.pdf",
+    "sha256": "35f52470981b7ecc75bafb6aa011a529ccefbebddc1e4024dedd48ff00db1de3",
+    "manifest_hash": "35f52470981b7ecc75bafb6aa011a529ccefbebddc1e4024dedd48ff00db1de3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2022_Mei_identification-and-evaluation-of-microplastics-from.pdf",
+    "sha256": "344cfd824c7ee6c0cc5f35b6b33c66dae98b6a6be81750b3d207b73c4ea90954",
+    "manifest_hash": "344cfd824c7ee6c0cc5f35b6b33c66dae98b6a6be81750b3d207b73c4ea90954",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2025_Joshi_detection-and-classification-of-microplastics-in.pdf",
+    "sha256": "4b88c9e81a0c8e042ce244feb606b15170c5dfcdaec2f770441aa52c7d5725cd",
+    "manifest_hash": "4b88c9e81a0c8e042ce244feb606b15170c5dfcdaec2f770441aa52c7d5725cd",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+    "sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+    "manifest_hash": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2023_Kashfi_microplastics-and-phthalate-esters-release-from.pdf",
+    "sha256": "8f71a5d7e59f70ff535af68f02b98e89f839805a3f7bb5839bcf990d65f83369",
+    "manifest_hash": "8f71a5d7e59f70ff535af68f02b98e89f839805a3f7bb5839bcf990d65f83369",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2020_Anon_determination-of-the-microplastic-particle-release.pdf",
+    "sha256": "e5776c0f0a762b64b8f22acd54897a2aa4502a86a8036e94dcbc1192bfe3600a",
+    "manifest_hash": "e5776c0f0a762b64b8f22acd54897a2aa4502a86a8036e94dcbc1192bfe3600a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2026_OnHwa_microplastic-release-from-fiber-and-coated.pdf",
+    "sha256": "aa734d6dfda2d73eb696b5e93fbc2e7444ed6ffe89f81734a1c7b7d4a84b3c87",
+    "manifest_hash": "aa734d6dfda2d73eb696b5e93fbc2e7444ed6ffe89f81734a1c7b7d4a84b3c87",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2023_Ali_health-risks-posed-by-microplastics-in.pdf",
+    "sha256": "7fe1c140f41b1230c05fc56a5a82343744da8c6590b1aac3cb5f578ff9664ea5",
+    "manifest_hash": "7fe1c140f41b1230c05fc56a5a82343744da8c6590b1aac3cb5f578ff9664ea5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2023_Malynka_expertise-of-pyramid-tea-bags-by.pdf",
+    "sha256": "86014dc4f365a21cfa8b1d8257477c967af77c6de7f363d363dac44b9063f605",
+    "manifest_hash": "86014dc4f365a21cfa8b1d8257477c967af77c6de7f363d363dac44b9063f605",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-tea-bags",
+    "filename": "2023_Xing_behavior-characteristics-and-sources-of-microplastics.pdf",
+    "sha256": "2f4dcd83042950d88aba38776833f490cfce4ad0fedcac846246d9fce620107b",
+    "manifest_hash": "2f4dcd83042950d88aba38776833f490cfce4ad0fedcac846246d9fce620107b",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2017_Almroth_quantifying-shedding-of-synthetic-fibers-from.pdf",
+    "sha256": "4722770160034ab0a9e970bb952ecdbad7107a6e857197fd4589de0eca1f7cbc",
+    "manifest_hash": "4722770160034ab0a9e970bb952ecdbad7107a6e857197fd4589de0eca1f7cbc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2016_Pirc_emissions-of-microplastic-fibers-from-microfiber.pdf",
+    "sha256": "36e5c8f53344b11344aa0a84695297917af9591a983d9734aa7c6a9b85a4dcc7",
+    "manifest_hash": "36e5c8f53344b11344aa0a84695297917af9591a983d9734aa7c6a9b85a4dcc7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2020_OBrien_airborne-emissions-of-microplastic-fibres-from.pdf",
+    "sha256": "2375dab61f50815febadf2efaeb68a8309dcdef08c248994ccd089b39ca10992",
+    "manifest_hash": "2375dab61f50815febadf2efaeb68a8309dcdef08c248994ccd089b39ca10992",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2020_Karkkainen_quantification-of-different-microplastic-fibres-discharged.pdf",
+    "sha256": "d998497f078d7636aede1f6ee9e3e8585508dbed93973b144aaa08b81e3c678a",
+    "manifest_hash": "d998497f078d7636aede1f6ee9e3e8585508dbed93973b144aaa08b81e3c678a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2020_Cai_systematic-study-of-microplastic-fiber-release.pdf",
+    "sha256": "ee1b71182e29fe10565e0a9730e38b29ca296320090c2adb155b2c93911b1117",
+    "manifest_hash": "ee1b71182e29fe10565e0a9730e38b29ca296320090c2adb155b2c93911b1117",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Volgare_washing-load-influences-the-microplastic-release.pdf",
+    "sha256": "74373c8e54e0ce07949277bb0774afa5415676dd8e03a6e7884ee3b19c3986cb",
+    "manifest_hash": "74373c8e54e0ce07949277bb0774afa5415676dd8e03a6e7884ee3b19c3986cb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Choi_analysis-of-microplastics-released-from-plain.pdf",
+    "sha256": "5c9b92f9ed63d60ef0aaef9e7f1fcd3888936a1f19cfd4eeed2524339b943296",
+    "manifest_hash": "5c9b92f9ed63d60ef0aaef9e7f1fcd3888936a1f19cfd4eeed2524339b943296",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Choi_characterization-of-microplastics-released-based-on.pdf",
+    "sha256": "06a395e59d7521353a46a939a868362b21d759d174ec051f877a70cb04803efa",
+    "manifest_hash": "06a395e59d7521353a46a939a868362b21d759d174ec051f877a70cb04803efa",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Cui_study-on-the-relationship-between-textile.pdf",
+    "sha256": "17901f15fd06bbc2d2920b0f33e77ecb71b04cb6b91cd40f792935f1725fce6f",
+    "manifest_hash": "17901f15fd06bbc2d2920b0f33e77ecb71b04cb6b91cd40f792935f1725fce6f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Novotna_release-of-microplastic-fibers-from-polyester.pdf",
+    "sha256": "8d5a6422a99ad8e0715191ef2309445c8f8f07514677d677961e237619ab39ec",
+    "manifest_hash": "8d5a6422a99ad8e0715191ef2309445c8f8f07514677d677961e237619ab39ec",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Jabbar_investigation-of-ring-airjet-and-rotor.pdf",
+    "sha256": "883713728153aa803d1e90d88f050d5268421dbc38ec4663611923addef0a745",
+    "manifest_hash": "883713728153aa803d1e90d88f050d5268421dbc38ec4663611923addef0a745",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Goliad_reducing-microplastic-fiber-shedding-from-hand.pdf",
+    "sha256": "0507bc54c1df22ea124f9fda5d88a6428fce3b8c126565b06e8fecb6ba13e552",
+    "manifest_hash": "0507bc54c1df22ea124f9fda5d88a6428fce3b8c126565b06e8fecb6ba13e552",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2026_Persson_mechanically-recycled-textiles-a-source-of.pdf",
+    "sha256": "cc32c60e3db0828bf33e4054402e0316b44de51186c57c22cb95eead7659f6ac",
+    "manifest_hash": "cc32c60e3db0828bf33e4054402e0316b44de51186c57c22cb95eead7659f6ac",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2026_PalaciosMarin_a-novel-methodology-to-study-the.pdf",
+    "sha256": "f5f29a8e78d5351002f2383d9d0d22f43a29e958e8a3fd6a44eea5ac63bc995f",
+    "manifest_hash": "f5f29a8e78d5351002f2383d9d0d22f43a29e958e8a3fd6a44eea5ac63bc995f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2026_Xiao_how-low-friction-coatings-affect-microplastic.pdf",
+    "sha256": "d3f035bf3b905a311f07b01d9f6a46f963875b9c97dfbde00f813416bd1c2118",
+    "manifest_hash": "d3f035bf3b905a311f07b01d9f6a46f963875b9c97dfbde00f813416bd1c2118",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Tomljenovic_comparative-property-analysis-of-one-by.pdf",
+    "sha256": "bca3c51cb99ed7c223204c11318d7423f21ac68a3833eed94326c91b472cfb93",
+    "manifest_hash": "bca3c51cb99ed7c223204c11318d7423f21ac68a3833eed94326c91b472cfb93",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Juntarasakul_weave-structures-of-polyester-fabric-affect.pdf",
+    "sha256": "7518b67173ef668b1956c8c38a97ce7b8aab8e2664487b08b5dcdc01afb348d2",
+    "manifest_hash": "7518b67173ef668b1956c8c38a97ce7b8aab8e2664487b08b5dcdc01afb348d2",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2019_Falco_the-contribution-of-washing-processes-of.pdf",
+    "sha256": "ec050c3d5049f8e503c90c855677f41777252e2c8e13fad07e86521682c90b25",
+    "manifest_hash": "ec050c3d5049f8e503c90c855677f41777252e2c8e13fad07e86521682c90b25",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Yang_characterization-of-nanoplastics-fibrils-and-microplastics.pdf",
+    "sha256": "1cab99d720439befa005675bd60eeed69ac6c3335a79177c6bcdb3737562a637",
+    "manifest_hash": "1cab99d720439befa005675bd60eeed69ac6c3335a79177c6bcdb3737562a637",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Tiffin_reliable-quantification-of-microplastic-release-from.pdf",
+    "sha256": "21ec7132dfb193ffae128ef60329959c4d5081070ac1c17b4e10eb6d8b1efb09",
+    "manifest_hash": "21ec7132dfb193ffae128ef60329959c4d5081070ac1c17b4e10eb6d8b1efb09",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Akyldz_detection-and-analysis-of-microfibers-and.pdf",
+    "sha256": "0926d960ae42089011e1f07fbe38744df47a069623beb84831e2dfdaed428516",
+    "manifest_hash": "0926d960ae42089011e1f07fbe38744df47a069623beb84831e2dfdaed428516",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2024_Gao_differences-in-the-release-of-microplastic.pdf",
+    "sha256": "d84839224835903b7c610034827316189f401a66a3c579402fa0c4b72ee2aafb",
+    "manifest_hash": "d84839224835903b7c610034827316189f401a66a3c579402fa0c4b72ee2aafb",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2021_Zheng_conductance-stable-liquid-metal-sheath-core.pdf",
+    "sha256": "c3b5824459d0e2eaf5abb464f076bd15f449cd0e9851ebeb7d4393464ff809a6",
+    "manifest_hash": "c3b5824459d0e2eaf5abb464f076bd15f449cd0e9851ebeb7d4393464ff809a6",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2024_Jabbar_oxygen-plasma-treatment-to-mitigate-the.pdf",
+    "sha256": "21fdd361fb8622beb6c95379ba28275262465be730aa6c2014a704cc0e933f92",
+    "manifest_hash": "21fdd361fb8622beb6c95379ba28275262465be730aa6c2014a704cc0e933f92",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Music_textile-industry-as-a-major-source.pdf",
+    "sha256": "5a38dc11d137d9ea99de5fed68b5860cc4fd485402c5800d23bc2cc2bfb18e71",
+    "manifest_hash": "5a38dc11d137d9ea99de5fed68b5860cc4fd485402c5800d23bc2cc2bfb18e71",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Gao_functional-clothing-an-overlooked-source-of.pdf",
+    "sha256": "e766ed19982e1ba85f7460c6a1cc8a5d634e6dd4453f6a38aa1a80b6ac1e6e29",
+    "manifest_hash": "e766ed19982e1ba85f7460c6a1cc8a5d634e6dd4453f6a38aa1a80b6ac1e6e29",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Frank_challenge-in-increasing-the-use-of.pdf",
+    "sha256": "11baa52282d28600eabab2ebb6529be92f4d0fe7cb89ec9ebbdd33b2af71f326",
+    "manifest_hash": "11baa52282d28600eabab2ebb6529be92f4d0fe7cb89ec9ebbdd33b2af71f326",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Rackov_spectroscopic-analysis-of-microplastic-fibers-released.pdf",
+    "sha256": "2c9010dcbedbc4d71374b21feb4356dfd8c8d821ec385ee08544849c754058da",
+    "manifest_hash": "2c9010dcbedbc4d71374b21feb4356dfd8c8d821ec385ee08544849c754058da",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2024_Murden_low-cost-high-throughput-quantification-of.pdf",
+    "sha256": "af939ee126b29953ec505ac18f029bb08ea77ac59c851b93f0f03139d231045d",
+    "manifest_hash": "af939ee126b29953ec505ac18f029bb08ea77ac59c851b93f0f03139d231045d",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Maciel_quantifying-shedding-of-microplastic-fibers-from.pdf",
+    "sha256": "32ba0f5aac001716003bb75943af7db7fd1c0990780bf95984dd728343432a62",
+    "manifest_hash": "32ba0f5aac001716003bb75943af7db7fd1c0990780bf95984dd728343432a62",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2026_Zhao_research-on-monitoring-of-microfiber-shedding.pdf",
+    "sha256": "0761ff33e060cc1362b5208615a24df1a159865920f1fb4ca85316f7c10cd42a",
+    "manifest_hash": "0761ff33e060cc1362b5208615a24df1a159865920f1fb4ca85316f7c10cd42a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2024_Olarinmoye_characterisation-of-ingested-microplastic-particles-and.pdf",
+    "sha256": "f6f385e22179abd613f3c655a57d6294f66a081e1f420f6e39c1d6e39ded65d7",
+    "manifest_hash": "f6f385e22179abd613f3c655a57d6294f66a081e1f420f6e39c1d6e39ded65d7",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2018_Wu_microfluidic-spinning-construction-of-black-phosphorus.pdf",
+    "sha256": "695cd74b814790055d001ecf83265182142d67aa702019bf027a48c6162849f4",
+    "manifest_hash": "695cd74b814790055d001ecf83265182142d67aa702019bf027a48c6162849f4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Shalumon_a-novel-simplified-method-for-extraction.pdf",
+    "sha256": "8005ce8fff3c3c89de4787581a8ec5c05a8d9961a41465f0811342d98e0d9942",
+    "manifest_hash": "8005ce8fff3c3c89de4787581a8ec5c05a8d9961a41465f0811342d98e0d9942",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Song_inhalable-textile-microplastic-fibers-impair-airway.pdf",
+    "sha256": "c14428072cb5aa06703f3ffdaccb6df07eae120bcb293cac017fd6b23963400e",
+    "manifest_hash": "c14428072cb5aa06703f3ffdaccb6df07eae120bcb293cac017fd6b23963400e",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Yang_formation-of-microplastic-fibers-and-fibrils.pdf",
+    "sha256": "25d2d58e8abee52a598160e7ec594340a7c8b7e391c25dcd1ffaf302b213293c",
+    "manifest_hash": "25d2d58e8abee52a598160e7ec594340a7c8b7e391c25dcd1ffaf302b213293c",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2018_Jonsson_microplastics-shedding-from-textilesdeveloping-analytical-method.pdf",
+    "sha256": "a2eaa8ecef9fb80946631c31bdb58482b0a41293ff5c2179dd5189cdc30f7dd3",
+    "manifest_hash": "a2eaa8ecef9fb80946631c31bdb58482b0a41293ff5c2179dd5189cdc30f7dd3",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2019_Haap_microplastic-fibers-released-by-textile-laundry.pdf",
+    "sha256": "7b15c1bbf59ef735ec16a153635e6a5ca09ecc0bc61d36ca520b220a769733fe",
+    "manifest_hash": "7b15c1bbf59ef735ec16a153635e6a5ca09ecc0bc61d36ca520b220a769733fe",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2024_Vojnovic_approaches-for-sampling-and-sample-preparation.pdf",
+    "sha256": "2523ecb744abb40abf35490b3b24faaf6e380f47b94332f45d197bb11e9e0c74",
+    "manifest_hash": "2523ecb744abb40abf35490b3b24faaf6e380f47b94332f45d197bb11e9e0c74",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2026_Matteoni_reducing-microplastic-fiber-fragment-emissions-from.pdf",
+    "sha256": "049ec3c1f186ad1644606d889c5481a4105f1ac8c15465a12f3d7a1b62d34213",
+    "manifest_hash": "049ec3c1f186ad1644606d889c5481a4105f1ac8c15465a12f3d7a1b62d34213",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Saravanja_microplastics-in-wastewater-by-washing-polyester.pdf",
+    "sha256": "30000747f5e8864928aa018ea1e926f9742dcdee34073564248755fe292cf2da",
+    "manifest_hash": "30000747f5e8864928aa018ea1e926f9742dcdee34073564248755fe292cf2da",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Periyasamy_environmentally-friendly-approach-to-the-reduction.pdf",
+    "sha256": "4bd6090a5833c5b9157c56d4c56a45288ec24c79702969732145653cceceffa4",
+    "manifest_hash": "4bd6090a5833c5b9157c56d4c56a45288ec24c79702969732145653cceceffa4",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Li_study-on-the-extraction-method-of.pdf",
+    "sha256": "a1c57e8ade4eef46d39798a7dafd97e7891aad5662633bb468e13b002a9a58fc",
+    "manifest_hash": "a1c57e8ade4eef46d39798a7dafd97e7891aad5662633bb468e13b002a9a58fc",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2023_Li_flexible-wet-spun-pedot-pss-microfibers.pdf",
+    "sha256": "544b66c298386b14a20f5efe37973016a9899ddf292e2b94bd8da1d70c13f012",
+    "manifest_hash": "544b66c298386b14a20f5efe37973016a9899ddf292e2b94bd8da1d70c13f012",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Belzagui_novel-treatment-to-immobilize-and-use.pdf",
+    "sha256": "455522923c93f22ec040c11a9b0545fbc6d63bb5c3a97c19debb7c94d8da350f",
+    "manifest_hash": "455522923c93f22ec040c11a9b0545fbc6d63bb5c3a97c19debb7c94d8da350f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2022_Malchiodi_a-practical-valorization-approach-for-mitigating.pdf",
+    "sha256": "e22b824131c4b01825b1da9b4f7fd63309fa829944ea7f61f94c3896f402153f",
+    "manifest_hash": "e22b824131c4b01825b1da9b4f7fd63309fa829944ea7f61f94c3896f402153f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "papers-textiles-apparel-outdoor-gear",
+    "filename": "2025_Brick_psychological-outcomes-from-a-citizen-science.pdf",
+    "sha256": "087ef781d108258c7e2526430cc6c2b8e58da9010a311d03bd0f48fb1e637d44",
+    "manifest_hash": "087ef781d108258c7e2526430cc6c2b8e58da9010a311d03bd0f48fb1e637d44",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "CA-SWRCB_2022_MP-drinking-water-policy-handbook.pdf",
+    "sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "manifest_hash": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+    "sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+    "manifest_hash": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "CA-SWRCB_2022_SWB-MP2-rev1_Raman-method.pdf",
+    "sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "manifest_hash": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "EU_2023_Regulation_2023-2055_synthetic-polymer-microparticles-restriction.pdf",
+    "sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "manifest_hash": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "EU_2024_Delegated-Decision_2024-1441_MP-drinking-water-method.pdf",
+    "sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "manifest_hash": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "JRC_2024_JRC136859_analytical-methods-MP-drinking-water.pdf",
+    "sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "manifest_hash": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "JRC_2025_JRC143205_analytical-methodology-MP-drinking-water.pdf",
+    "sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "manifest_hash": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "EFSA_2016_microplastics-nanoplastics-in-food-seafood.pdf",
+    "sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "manifest_hash": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "hash_match": true,
+    "pdf_magic": true
+  },
+  {
+    "folder": "regulatory-method",
+    "filename": "2022_Coffin_development-and-application-of-a-health.pdf",
+    "sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "manifest_hash": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "hash_match": true,
+    "pdf_magic": true
+  }
+]

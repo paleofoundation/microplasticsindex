@@ -1,2 +1,0 @@
-source_id,companion_source_id,tds_food_number,analyte,primary_record_values_ppb,n,companion_location,companion_claim,disposition
-fda2022-tds-elements-fy2018-fy2020,fda-tds-elements-2018-2020,75,Total inorganic arsenic,85.8;90.4;103,3,"FDA narrative report page 20, section 4.1.2",range lower endpoint 8.9 ppb,primary_analytical_records_take_precedence; narrative_discrepancy_retained; no_raw_source_altered

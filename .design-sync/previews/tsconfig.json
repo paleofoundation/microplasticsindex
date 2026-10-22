@@ -1,7 +1,0 @@
-{
-  "//": "Nearest-wins override for the design-sync preview esbuild. Without this, esbuild auto-discovers the repo-root tsconfig.json (jsxImportSource: preact, for Quartz) and compiles these previews as Preact vnodes, which the real-React preview harness cannot render. Pin React's automatic JSX runtime; react resolves from .design-sync/hmi-ds/node_modules via esbuild nodePaths.",
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "jsxImportSource": "react"
-  }
-}

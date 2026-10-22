@@ -1,0 +1,556 @@
+{
+  "schema_version": "MPI-evidence-review-1",
+  "review_date": "2026-10-22",
+  "scope": "Five assigned primary PDFs plus one contextual methods article, all from MP3. Not a systematic review.",
+  "review_method": "PDF title/DOI checked against manifest and all SHA-256 hashes matched. Relevant methods/results pages read in full extracted text; eleven rendered primary pages visually inspected for tables, axes and source/paragraph alignment. SI not retrieved. No web lookup used.",
+  "rendered_pages_inspected": {
+    "88679f8d72dd3233": [
+      3,
+      6,
+      7
+    ],
+    "740e6d15368a653d": [
+      4,
+      8
+    ],
+    "9f492fb5cd2b7d54": [
+      5,
+      7
+    ],
+    "a2d6cf6bd10e03f2": [
+      6,
+      11
+    ],
+    "9671065f25e541a1": [
+      8
+    ],
+    "729cb4e7c14706bd": [
+      11
+    ]
+  },
+  "sources": [
+    {
+      "id": "88679f8d72dd3233",
+      "title": "Quantitative analysis of polystyrene microplastic and styrene monomer released from plastic food containers.",
+      "authors": [
+        "Jiae Wang",
+        "Jieun Lee",
+        "Eilhann E. Kwon",
+        "Sanghyun Jeong"
+      ],
+      "journal": "Heliyon",
+      "year": 2023,
+      "doi": "10.1016/j.heliyon.2023.e15787",
+      "doi_url": "https://doi.org/10.1016/j.heliyon.2023.e15787",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10256855.1/PMC10256855.1.pdf",
+      "archive": "MP3",
+      "path": "research/MP3/88679f8d72dd3233.pdf",
+      "sha256": "88679f8d72dd3233e68230ed2c278da890a4ea6dd38d1b9189fe4c2afab7d635",
+      "manifest_sha256_match": true,
+      "rights": "CC BY 4.0 per PDF p. 1",
+      "decision": "Accept narrowly scoped original count and method; avoid abstract maximum phrasing",
+      "role": "Direct release experiment on PS instant-noodle container",
+      "methods": "µ-FTIR chemical image mapping over complete filter; 0.2 µm Anodisc filter; particle count and maximum diameter. PS and PE validation recoveries 91.4% and 81.9% (p. 4). GC-MS styrene results are separate chemical measurements.",
+      "blank_controls": "DI water and pH-solution procedure blanks; no MPs detected, per p. 3 §2.2; containers/equipment rinsed; aluminum foil covers.",
+      "limitations": "One commercial container type, not generic reusable tubs. pH 9 at 100 °C for 6 h is an extreme experiment. Figure 3(c) at 8 h exceeds the 36 at 6 h; 36 must not be described as the experiment-wide maximum. Supplementary size-distribution figure not supplied. 0.2 µm filtration pore is not a validated submicron detection floor. No estimate of ingested dose or human health effect.",
+      "measurements": [
+        {
+          "id": "PS-36",
+          "reported_value": 36,
+          "units": "PS particles/container",
+          "statistic": "Mean; experiments repeated at least three times; corresponding SD not numerically extracted",
+          "material": "commercial white instant-noodle PS container",
+          "polymer": "PS",
+          "size_window": "Reported comparison bins: 10-100, 100-200, 200-300, >300 µm; predominantly 10-100 µm",
+          "conditions": "200 mL pH 9 aqueous solution; maintained at 100 °C for 6 h",
+          "locator": "PDF p. 3 §2.2; p. 4 §2.3.2; p. 6 Figure 3(a); p. 7 §3.1",
+          "short_excerpt": "36 particles/container",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        }
+      ],
+      "inspected_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "9f492fb5cd2b7d54",
+      "title": "Rapid Generation of Microplastics and Plastic-Derived Dissolved Organic Matter from Food Packaging Films under Simulated Aging Conditions.",
+      "authors": [
+        "Liuwei Wang",
+        "Jing Gao",
+        "Wei-Min Wu",
+        "Jian Luo",
+        "Michael S. Bank",
+        "Albert A. Koelmans",
+        "John J. Boland",
+        "Deyi Hou"
+      ],
+      "journal": "Environmental science & technology",
+      "year": 2024,
+      "doi": "10.1021/acs.est.4c05504",
+      "doi_url": "https://doi.org/10.1021/acs.est.4c05504",
+      "source_url": "https://edepot.wur.nl/677322",
+      "archive": "MP3",
+      "path": "research/MP3/9f492fb5cd2b7d54.pdf",
+      "sha256": "9f492fb5cd2b7d5432d320eff98802ca31690d4ce232b926d3e4f97542359103",
+      "manifest_sha256_match": true,
+      "rights": "Repository access under Dutch Copyright Act article 25fa; all rights remain with rights holder. Cite DOI and paraphrase; do not republish PDF or figures.",
+      "decision": "Accept main-text counts with explicit method and missing-SI limitation; QA completeness remains HOLD",
+      "role": "Direct release experiment on one commercially purchased LDPE wrap",
+      "methods": "Nile Red staining and laser confocal scanning microscopy; ImageJ quantification; Feret diameter. Stainless steel 10 µm filter, >5000 µm material removed. Bulk film FTIR/Raman/XPS characterization is separate from counted-particle identification. DOM FT-ICR-MS results are not particle counts.",
+      "blank_controls": "Untreated wrap immersed in 40 mL ultrapure water for 1 h at room temperature and rinsed is the treatment control, p. 5. Detailed quality control/statistics are deferred to SI Text S7 in §2.7; supplied main PDF does not disclose full procedural blank results or replicate details for MP counts.",
+      "limitations": "Full SI not supplied or inspected. Do not call every fluorescent counted particle Raman-confirmed. Source is one LDPE wrap, not all wraps or zip bags. Numbers normalize to film area, not food volume, package, or serving. The refrigerator values do not increase monotonically with duration. No measured human dose or clinical outcome.",
+      "measurements": [
+        {
+          "id": "MW2",
+          "reported_value": 147,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Microwave 119 W, 2450 MHz; final water temperature 48 °C; 2 min",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "147 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "MW10",
+          "reported_value": 313,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Microwave 119 W, 2450 MHz; final water temperature 96 °C; 10 min",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "313 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "RF7",
+          "reported_value": 103,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Refrigerator 4 °C; 7 days",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "103 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "RF30",
+          "reported_value": 72,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Refrigerator 4 °C; 30 days",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "72 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "FZ30",
+          "reported_value": 66,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Freezer -20 °C; 30 days",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "66 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "FZ60",
+          "reported_value": 112,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Freezer -20 °C; 60 days",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "112 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "FT2",
+          "reported_value": 132,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Each cycle: -20 °C for 24 h, then 25 °C for 24 h; 2 cycles",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "132 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "FT4",
+          "reported_value": 183,
+          "units": "MPs/cm² of film",
+          "statistic": "Paper-reported point estimate; numeric SD/SE not supplied in main text for these counts",
+          "material": "Commercial LDPE food wrap cut to 6 × 6 cm; immersed in 40 mL ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm (Feret diameter)",
+          "conditions": "Each cycle: -20 °C for 24 h, then 25 °C for 24 h; 4 cycles",
+          "locator": "PDF pp. 4-5 (printed C-D), §§2.1-2.3; p. 7 (printed F), §3.1",
+          "short_excerpt": "183 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "HT",
+          "reported_value": [
+            214,
+            410
+          ],
+          "units": "MPs/cm² of film",
+          "statistic": "Range across heating treatments",
+          "material": "Commercial LDPE food wrap immersed in ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm",
+          "conditions": "30 min at tested temperatures 48, 69, 85, 91, 96, 100 °C",
+          "locator": "PDF p. 4 (printed C) §2.2; p. 7 (printed F) §3.1",
+          "short_excerpt": "between 214 and 410 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "ST",
+          "reported_value": [
+            181,
+            690
+          ],
+          "units": "MPs/cm² of film",
+          "statistic": "Range across steaming durations",
+          "material": "Commercial LDPE food wrap immersed in ultrapure water",
+          "polymer": "LDPE",
+          "size_window": "10-5000 µm",
+          "conditions": "Steaming over boiling water; 5 min to 3 h",
+          "locator": "PDF p. 5 (printed D) §2.2; p. 7 (printed F) §3.1",
+          "short_excerpt": "181-690 MPs/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        }
+      ],
+      "inspected_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "a2d6cf6bd10e03f2",
+      "title": "An Insight into the Growing Concerns of Styrene Monomer and Poly(Styrene) Fragment Migration into Food and Drink Simulants from Poly(Styrene) Packaging.",
+      "authors": [
+        "Asmaa Ajaj",
+        "Shayma J’Bari",
+        "Anthonia Ononogbo",
+        "Federico Buonocore",
+        "Joseph C. Bear",
+        "Andrew G. Mayes",
+        "Huda Morgan"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "year": 2021,
+      "doi": "10.3390/foods10051136",
+      "doi_url": "https://doi.org/10.3390/foods10051136",
+      "source_url": "https://www.mdpi.com/2304-8158/10/5/1136/pdf?version=1621822598",
+      "archive": "MP3",
+      "path": "research/MP3/a2d6cf6bd10e03f2.pdf",
+      "sha256": "a2d6cf6bd10e03f26292e8f043f4cd732e7c85b22f1df2379e14a16f481a5503",
+      "manifest_sha256_match": true,
+      "rights": "CC BY 4.0 per PDF p. 1",
+      "decision": "Accept as preliminary Nile Red screening; label chemical confirmation limitation",
+      "role": "Cut-piece PS packaging migration experiments",
+      "methods": "Vacuum-filtered simulants onto polycarbonate track-etch membranes; Nile Red staining and fluorescence microscopy. Separate HPLC styrene monomer measurements must not be presented as plastic particle mass.",
+      "blank_controls": "Cutting control reported p. 11 §3.4: clean-edged plastic square preparations checked for fragment generation; Figure S1 referenced but not supplied. Comprehensive procedural particle blank and recovery data not found in supplied main PDF.",
+      "limitations": "Cut pieces, not whole containers. Table 5 gives paired size examples and per-cm² piece ranges; it does not establish a sample-wide minimum/maximum size distribution, CI, or dose. No FTIR/Raman confirmation of individual stained particles reported. Filter pore size/validated analytical floor not supplied. High-ethanol simulants are not actual foods. Main article focuses on styrene, whose µg/mL values are not microplastic counts.",
+      "measurements": [
+        {
+          "id": "EPS-box",
+          "reported_value": [
+            1,
+            6
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "EPS takeaway container; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 52.9 µm; no validated detection window supplied",
+          "conditions": "3% acetic acid; 60 °C; 2 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "52.9 µm; 1-6 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "EPS-tray-60",
+          "reported_value": [
+            2,
+            6
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 17.6 µm; no validated detection window supplied",
+          "conditions": "50% ethanol; 60 °C; 2 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "17.6 µm; 2-6 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "EPS-tray-70",
+          "reported_value": [
+            4,
+            10
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 6.4 µm; no validated detection window supplied",
+          "conditions": "50% ethanol; 70 °C; 2 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "6.4 µm; 4-10 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "EPS-tray-95",
+          "reported_value": [
+            2,
+            10
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "EPS meat tray; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 104 µm; no validated detection window supplied",
+          "conditions": "95% ethanol; 70 °C; 2 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "104 µm; 2-10 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "XPS-plate-50",
+          "reported_value": [
+            1,
+            4
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "XPS disposable plate; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 58.9 µm; no validated detection window supplied",
+          "conditions": "50% ethanol; 5 °C; 240 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "58.9 µm; 1-4 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        },
+        {
+          "id": "XPS-plate-95",
+          "reported_value": [
+            1,
+            2
+          ],
+          "units": "microplastic pieces/cm² (Table 5 terminology)",
+          "statistic": "Table-reported range; no definition as CI/SD provided",
+          "material": "XPS disposable plate; cut squares 2-3 × 2-3 cm, about 2.0 g, immersed in 100 mL simulant",
+          "polymer": "PS (EPS or XPS source material); fluorescent particles not individually chemically confirmed",
+          "size_window": "Table 5 paired size: 11.8 µm; no validated detection window supplied",
+          "conditions": "95% ethanol; 5 °C; 240 h",
+          "locator": "PDF p. 4 §2.3; p. 6 §§2.5.2-2.5.3; p. 11 §3.4 and Table 5",
+          "short_excerpt": "11.8 µm; 1-2 pieces/cm2",
+          "derivation": "None. Paper-reported value, no unit conversion."
+        }
+      ],
+      "inspected_pdf_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "740e6d15368a653d",
+      "title": "Simulation and Characterization of Nanoplastic Dissolution under Different Food Consumption Scenarios.",
+      "authors": [
+        "Ying Wang",
+        "Zhongtang Wang",
+        "Xin Lu",
+        "Hongyan Zhang",
+        "Zhenzhen Jia"
+      ],
+      "journal": "Toxics",
+      "year": 2023,
+      "doi": "10.3390/toxics11070550",
+      "doi_url": "https://doi.org/10.3390/toxics11070550",
+      "source_url": "https://www.mdpi.com/2305-6304/11/7/550/pdf?version=1687512424",
+      "archive": "MP3",
+      "path": "research/MP3/740e6d15368a653d.pdf",
+      "sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+      "manifest_sha256_match": true,
+      "rights": "CC BY 4.0 per PDF p. 1",
+      "decision": "Accept qualitative evidence only; do not infer numeric release count",
+      "role": "Nanoplastic characterization under packaging scenarios, including PP box and heat-sealing film",
+      "methods": "SEM, surface-enhanced Raman scattering, laser particle size analyzer. Sequential 400/200/100/50 nm polycarbonate membranes select nominal 200-400, 100-200, 50-100 nm fractions. Subsequent 20 min ultrasound can modify size and dispersibility.",
+      "blank_controls": "Ultrapure water without packaging contact at corresponding temperatures; no NPs observed by SEM in control (pp. 3, 5 §3.1).",
+      "limitations": "PP box: 500 mL water at 100 °C for 20 min. GCPP/MCPP composite packaging: 121 °C for 20 min. Intensive detergent, acid, base and prolonged rinse pretreatment differs from ordinary consumer handling. Nominal filter fractions do not mean all dispersed objects stay in those size ranges; aggregates measured above range. Figure 5b label 167 versus text 168 for GCPP is inconsistent. No release concentration or count denominator suitable for public count summary. Do not generalize MCPP non-detection as safety or all bags as zip bags.",
+      "measurements": [],
+      "inspected_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "9671065f25e541a1",
+      "title": "Generation of Simulated \"Natural\" Nanoplastics from Polypropylene Food Packaging as the Experimental Standard.",
+      "authors": [
+        "Zhongtang Wang",
+        "Ying Wang",
+        "Xin Lu",
+        "Hongyan Zhang",
+        "Zhenzhen Jia"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "year": 2023,
+      "doi": "10.3390/molecules28217254",
+      "doi_url": "https://doi.org/10.3390/molecules28217254",
+      "source_url": "https://www.mdpi.com/1420-3049/28/21/7254/pdf?version=1698216517",
+      "archive": "MP3",
+      "path": "research/MP3/9671065f25e541a1.pdf",
+      "sha256": "9671065f25e541a1819b0c6ed1c8c625501ac1dcae8e35e2b8ecbbd161644101",
+      "manifest_sha256_match": true,
+      "rights": "CC BY 4.0 per PDF p. 1",
+      "decision": "Exclude from quantitative consumer-release synthesis; optional method context",
+      "role": "Laboratory standard-material generation study",
+      "methods": "PP box sequential water/trypsin/acid/base preparation, UV exposure, cutting, mortar grinding and graded filtration; SEM/TEM/particle size analyzer/SERS. Comparison group uses boiling-water exposure and cooling.",
+      "blank_controls": "No full procedural blank result found in reviewed main methods; this study is not designed as a food storage exposure survey.",
+      "limitations": "Particle fractions 50-100, 100-200 and 200-400 nm are deliberately generated reference materials, not measured household release rates. Preparation includes 24 h UV and 20 min grinding of 0.6 g cut PP pieces. Do not turn morphology or generated fractions into a storage count or human exposure claim.",
+      "measurements": [],
+      "inspected_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "729cb4e7c14706bd",
+      "title": "Detecting Micro- and Nanoplastics Released from Food Packaging: Challenges and Analytical Strategies.",
+      "authors": [
+        "Claudia Cella",
+        "Rita La Spina",
+        "Dora Mehn",
+        "Francesco Fumagalli",
+        "Giacomo Ceccone",
+        "Andrea Valsesia",
+        "Douglas Gilliland"
+      ],
+      "journal": "Polymers",
+      "year": 2022,
+      "doi": "10.3390/polym14061238",
+      "doi_url": "https://doi.org/10.3390/polym14061238",
+      "source_url": "https://www.mdpi.com/2073-4360/14/6/1238/pdf?version=1648037165",
+      "archive": "MP3",
+      "path": "research/MP3/729cb4e7c14706bd.pdf",
+      "sha256": "729cb4e7c14706bd6d2e0e4ac52baa73d09e230b18bb1a36618489d9a03f77cb",
+      "manifest_sha256_match": true,
+      "rights": "CC BY 4.0 per PDF p. 1",
+      "decision": "Accept original qualitative PE-bag findings and methods context; no numeric release rate",
+      "role": "Original experimental article on PE rice cooking bags, ice-cube bags and nylon teabags, not a methods review",
+      "methods": "Raman microscopy for chemical identification; XPS and SEM for complementary chemistry/morphology; calibrated FTIR with KBr pellets for polymer mass. Filtration and freeze-drying used to concentrate different samples. Methods pp. 2-5; sample preparation/aggregation discussion p. 6; conclusions p. 11.",
+      "blank_controls": "Low-plastic laboratory workflow, cleaned glass/metal, cotton coats, ultrapure water, and procedural blanks described §§2.1-2.4. Ice bags and teabags have unheated controls; rice bags have boiled-water blanks; teabag FTIR blank uses full procedure without bag. Blank performance not independently audited in this contextual addition.",
+      "limitations": "Particle appearance and number depend on concentration, deposition, drying, cooling and aggregation. Polymer mass cannot be automatically converted to a particle count. Authors explicitly warn simple spotting is insufficient to quantify released particle number. Original sources studied are not zip-top storage bags. No numeric findings are accepted in this add-on. No numeric particle release rate for the two PE bag experiments was found; PE rice-bag mass was below the method detection limit (p. 9).",
+      "measurements": [],
+      "inspected_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "short_excerpt": "not sufficient to properly quantify the number of plastics released during sample preparation",
+      "qualitative_findings": [
+        {
+          "material": "Commercial PE ice-cube bag",
+          "conditions": "300 mL ultrapure water; -20 °C for 24 h; ice removed manually to glass beaker and thawed at room temperature; 0.1 µm Anodisc filtration",
+          "result": "Raman identified PE particles mixed with ultramarine blue pigment and separate pigment particles. Room-temperature bag-contact control showed few visible particles, mainly PE.",
+          "locator": "PDF p. 3 §2.2; pp. 6-7 Figure 1A and discussion",
+          "particle_release_count": null,
+          "detection_limit": "0.1 µm filter pore is not a validated Raman detection limit."
+        },
+        {
+          "material": "Commercial PE rice-cooking bag with rice removed before test",
+          "conditions": "250 mL boiling ultrapure water; 100 °C for 10 min; bag removed; 0.1 µm Anodisc filtration",
+          "result": "Raman identified PE along with residual rice material. Boiled-water blank showed no PE or rice particles. PE mass by KBr-pellet FTIR was below the method detection limit.",
+          "locator": "PDF p. 3 §2.2; pp. 6-7 Figure 1B and discussion; p. 9 mass quantification discussion",
+          "particle_release_count": null,
+          "detection_limit": "No numerical particle-count concentration or PE-mass detection threshold extracted."
+        }
+      ]
+    }
+  ],
+  "scope_gaps": [
+    "No consumer zip-top bag original release experiment among the five assigned PDFs.",
+    "No generic reusable tub population or repeated-use household tub study among the five assigned PDFs. PP takeaway box is related container evidence, not proof about all tubs.",
+    "Not a complete food-packaging library audit; additional primary sources may exist elsewhere.",
+    "Regulations and test-methods folder not reviewed in this subtask. Papers citing EU migration regulations do not establish current legal particle limits."
+  ],
+  "recommended_public_synthesis": "Laboratory studies have detected plastic particles released from some food wraps and containers. Reported amounts depend on the material, liquid, temperature, contact time, and particle-detection method. These studies do not establish a common release rate for all food storage products or a measured human health outcome.",
+  "acceptance": {
+    "primary_identity_and_hashes": "PASS for six inspected PDFs",
+    "main_text_values_and_units": "PASS for listed measurements, with all stated method and scope limitations",
+    "complete_methods_and_blank_audit": "HOLD: LDPE SI Text S7 absent; Ajaj lacks full main-text particle blank/recovery disclosure",
+    "zip_bag_and_generic_tub_coverage": "HOLD",
+    "regulatory_status": "Not evaluated",
+    "publication": "Parent scientific reviewer acceptance required; no publication performed"
+  }
+}

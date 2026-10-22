@@ -1,0 +1,71 @@
+{
+  "source": "paleofoundation/heavymetalindex",
+  "commit": "c8df8ecee3144135aeb727c4aee0c526b9a8cb4c",
+  "files": [
+    {
+      "source": "quartz/styles/proof-design.scss",
+      "sha256": "a8481389a91711a8f37b480a54510beabac2ff0841e3ac226e924201e1682aef",
+      "destination": "templates/hmi/styles/proof-design.scss"
+    },
+    {
+      "source": "quartz/styles/v3-chrome.scss",
+      "sha256": "10f30a58323bc173a53f49a14cec32407cf54ac8a08f269f203c041bea4daeb6",
+      "destination": "templates/hmi/styles/v3-chrome.scss"
+    },
+    {
+      "source": "quartz/styles/v3-type.scss",
+      "sha256": "f26171c94e77cacaa32ace1f66ea965e125bada4c03169e9b018c558b77e15f5",
+      "destination": "templates/hmi/styles/v3-type.scss"
+    },
+    {
+      "source": "quartz/styles/home-v3.scss",
+      "sha256": "cd1361b72625b166d0c6d8dd6c7f3fccf8cdb4dcd40454cf0a394b92a7a3eda5",
+      "destination": "templates/hmi/styles/home-v3.scss"
+    },
+    {
+      "source": "quartz/styles/references-v3.scss",
+      "sha256": "f5c7895e006699ab4c7fa5a3745762d9745a0e99bb820a8e10b505ca30577790",
+      "destination": "templates/hmi/styles/references-v3.scss"
+    },
+    {
+      "source": "quartz/styles/v3-primitives.scss",
+      "sha256": "6726f94e8501acddcef19251420aa49ec7dbe097f33f521a1cde52711a0148de",
+      "destination": "templates/hmi/styles/v3-primitives.scss"
+    },
+    {
+      "source": "quartz/styles/products-v3.scss",
+      "sha256": "dc07d5087989b6cab93e906632ad96337917cb96ffa6d074e2b903170f8f5884",
+      "destination": "templates/hmi/styles/products-v3.scss"
+    },
+    {
+      "source": "quartz/styles/article-layout.scss",
+      "sha256": "169aa7256f49df81f5fad63be273085ae3219d3422a16afd3ea8025aa719d337",
+      "destination": "templates/hmi/styles/article-layout.scss"
+    },
+    {
+      "source": "quartz/styles/variables.scss",
+      "sha256": "365594b1baf3194f01a4c0bd6763dd5f0f10703346b7207b3613ccc7669f9436",
+      "destination": "templates/hmi/styles/variables.scss"
+    },
+    {
+      "source": "quartz/components/styles/topNav.scss",
+      "sha256": "af32b44933fc2e45aa9db6de191471c44378170c8c92dbd1696fe3610e18e875",
+      "destination": "templates/hmi/styles/topNav.scss"
+    },
+    {
+      "source": "quartz/components/styles/heroBand.scss",
+      "sha256": "568ec9ff6b18e09cf579a16d187ab016bba6783a5f1e00e066959f408c603962",
+      "destination": "templates/hmi/styles/heroBand.scss"
+    },
+    {
+      "source": "quartz/components/styles/footer.scss",
+      "sha256": "a89191b267af871c2c8fb5d1c4818dbee3242ed103b7fd7691f536273718fd54",
+      "destination": "templates/hmi/styles/footer.scss"
+    },
+    {
+      "source": "quartz/static/heroes/research-glassware-notebook-sampling-spoon.webp",
+      "sha256": "d6fe4d9fdbcd0997d7f1e552f5a538f60797d93998f3ed93a5c8abbfee58b127",
+      "destination": "assets/research-glassware-notebook-sampling-spoon.webp"
+    }
+  ]
+}
