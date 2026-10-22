@@ -9,7 +9,7 @@ Date: 2026-10-22. Overall status: HOLD for the complete order. The first food-st
 - Inherited HMI scientific pages, datasets, certification content, APIs, analytics, operational routes and jobs removed from the implementation tree.
 - Food storage literature page: five original research sources, two agency-context sources, material-specific findings, methods, sizes, uncertainties, and DOI references.
 - Primary PDF identities and hashes matched to MP3 manifests. Seventeen measurements transcribed; source conditions and locators retained. Six selected result rows appear on the product page; source records preserve the other accepted results.
-- Build checks: 18 HTML outputs including the 404; 668 internal links/assets; 23 registered measurement uses. Canonicals, sitemap and robots use microplasticsindex.com. Citation numbering follows first appearance.
+- Build checks: 18 HTML outputs including the 404; 669 internal links/assets; 23 registered measurement uses. Canonicals, sitemap and robots use microplasticsindex.com. Citation numbering follows first appearance.
 - Regression gates: altered primary hash rejected; candidate numeric result rejected; nested relative link and evidence-packet route rejected.
 - Browser: desktop 1440 × 1000 and mobile 390 × 844 home/article inspected. Mobile primary menu and section menu work. Table scroll stays inside its region; document width equals viewport after citation-wrap fix. Search returns reviewed pages; article citation leads to the correct source record. Browser error/warning log was empty.
 - Four requested screenshots are in docs/screenshots; one additional desktop evidence-table screenshot is included. They are local screenshots of the same static build used for the preview.
@@ -25,3 +25,5 @@ Date: 2026-10-22. Overall status: HOLD for the complete order. The first food-st
 7. Elon performs scientific/PASS review and decides whether the first slice may merge. No merge or production/DNS action is part of this implementation.
 
 No numeric evidence or missing category name has been invented to fill these gaps.
+
+Independent final scientific presentation check: all 17 numeric result values/units match extraction. Corrected material labels in the polystyrene source table, added the water-immersion setup for all listed wrap tests, and added the cooking/ice-bag exposure conditions.
