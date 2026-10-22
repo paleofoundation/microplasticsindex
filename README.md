@@ -1,4 +1,4 @@
-# Microplastics Index
+# Microplastics Reference Library
 
 ORDER MPI-BUILD-1. Domain: https://microplasticsindex.com.
 

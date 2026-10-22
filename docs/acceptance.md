@@ -28,3 +28,7 @@ Date: 2026-10-22. Implementation is ready for Elon's scientific/PASS review in t
 4. Beer/honey confirmation and extrapolation limits, inconsistent cosmetic tables/prose, missing wildlife blanks, partial dust selection and observational tissue findings remain explicit.
 5. The supplied California handbook predates adoption. Its proposed dates are not asserted as the current timetable. Scientific statements and water methods are not converted into product safety ceilings.
 6. The cross-contaminant report apex awaits the owner's DNS fix. Elon performs final scientific/PASS review and merges; Rae handles DNS.
+
+## Naming update
+
+The owner selected Microplastics Reference Library. Shared branding, hero, titles, structured metadata, citations, search labels, breadcrumb, About page and source prose use the new name. The full mobile masthead wraps on two lines; 320, 390, 1150 and 1440 pixel widths were checked. All four screenshots were refreshed. Scientific values and the requested domain/repository identifiers are unchanged.

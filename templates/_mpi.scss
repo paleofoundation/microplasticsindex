@@ -63,3 +63,9 @@ footer .site-footer-bottom p { margin:0; }
 .hmi-nav-top { display:flex; align-items:center; }
 .mpi-cite, .wiki-content code { overflow-wrap:anywhere; }
 .hmi-table-scroll table { display:table; overflow:visible; }
+
+/* The full library name wraps within the existing mobile masthead. */
+@media (max-width:600px) {
+  .hmi-topnav-wordmark { white-space:normal; line-height:1.2; max-width:220px; }
+  .mpi-brand-line { display:block; }
+}

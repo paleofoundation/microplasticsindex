@@ -177,5 +177,23 @@
     "food-storage-desktop.jpg",
     "home-mobile.jpg",
     "food-storage-mobile.jpg"
-  ]
+  ],
+  "branding_update": {
+    "date": "2026-10-22",
+    "name": "Microplastics Reference Library",
+    "pages_checked": [
+      "/",
+      "/products/plastic-food-storage"
+    ],
+    "viewport_widths": [
+      320,
+      390,
+      1150,
+      1440
+    ],
+    "header_overflow": false,
+    "mobile_wordmark": "Two lines: Microplastics / Reference Library",
+    "article_title_and_citation": "New name verified",
+    "screenshots": "All four refreshed"
+  }
 }

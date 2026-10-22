@@ -1,4 +1,4 @@
-# Microplastics Index
+# Microplastics Reference Library
 
 ORDER MPI-BUILD-1 controls this repository. Preserve the retained source template styling and reading layout. Author content in content/ and structured source/claim records in data/. Never copy the original site's scientific pages or data into this tree.
 
