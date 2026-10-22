@@ -1,15 +1,134 @@
 {
   "order": "MPI-BUILD-1",
   "requested_total_categories": 17,
-  "implemented_review_slice": [{"priority":1,"name":"Plastic food storage","route":"/products/plastic-food-storage","status":"draft-scientific-review","gaps":["ordinary zip-top bag experiments","repeated-use household tubs","food-wrap supporting information"]}],
-  "next": [
-    {"priority":2,"name":"Baby wipes","dependency":"Verify exact published cross-contaminant report URL"},
-    {"priority":3,"name":"Infant feeding bottles"},
-    {"priority":4,"name":"Tea bags"},
-    {"priority":5,"name":"Bottled water"},
-    {"priority":6,"name":"Salt"}
+  "categories": [
+    {
+      "priority": 1,
+      "route": "/products/plastic-food-storage",
+      "name": "Plastic food storage",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 2,
+      "route": "/products/baby-wipes",
+      "name": "Baby wipes",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 3,
+      "route": "/products/infant-feeding-bottles",
+      "name": "Infant feeding bottles",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 4,
+      "route": "/products/tea-bags",
+      "name": "Tea bags",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 5,
+      "route": "/ingredients/bottled-water",
+      "name": "Bottled water",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 6,
+      "route": "/ingredients/salt",
+      "name": "Salt",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 7,
+      "route": "/ingredients/beer",
+      "name": "Beer",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 8,
+      "route": "/ingredients/honey",
+      "name": "Honey",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 9,
+      "route": "/ingredients/tap-water",
+      "name": "Tap water",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 10,
+      "route": "/products/infant-food-puree",
+      "name": "Infant food puree",
+      "status": "implemented-review-context-with-direct-evidence-gap",
+      "collection": "Products"
+    },
+    {
+      "priority": 11,
+      "route": "/products/cutting-boards",
+      "name": "Cutting boards",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 12,
+      "route": "/products/cosmetics",
+      "name": "Cosmetics and personal care",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    },
+    {
+      "priority": 13,
+      "route": "/ingredients/fish-and-seafood",
+      "name": "Fish and seafood",
+      "status": "implemented-selected-literature-review",
+      "collection": "Ingredients"
+    },
+    {
+      "priority": 14,
+      "route": "/topics/environmental-wildlife",
+      "name": "Environmental wildlife",
+      "status": "implemented-selected-literature-review",
+      "collection": "Topics"
+    },
+    {
+      "priority": 15,
+      "route": "/topics/household-dust-air",
+      "name": "Household dust and air",
+      "status": "implemented-selected-literature-review",
+      "collection": "Topics"
+    },
+    {
+      "priority": 16,
+      "route": "/topics/human-biomonitoring",
+      "name": "Human biomonitoring",
+      "status": "implemented-selected-literature-review",
+      "collection": "Topics"
+    },
+    {
+      "priority": 17,
+      "route": "/products/textiles",
+      "name": "Textiles",
+      "status": "implemented-selected-literature-review",
+      "collection": "Products"
+    }
   ],
-  "remaining_category_names": null,
-  "remaining_category_count": 11,
-  "reason": "Authoritative 17-category folder taxonomy not reconciled; do not invent the final names from the broader acquisition query tags."
+  "source_gaps": [
+    "No direct original experiment in supplied infant-food-puree folder; page uses review context and states gap.",
+    "No accepted ordinary zip-top bag or repeated-household-tub-use release rate.",
+    "Food-wrap supporting quality-control information not supplied."
+  ],
+  "external_dependency": {
+    "url": "https://contaminantstandards.com/articles/contaminants-in-baby-wipes",
+    "status": "User requires canonical link despite current apex 404 pending their DNS fix; staging URL excluded from site."
+  }
 }

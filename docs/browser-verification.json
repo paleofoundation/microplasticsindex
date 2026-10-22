@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-22",
+  "desktop": {
+    "width": 1440,
+    "height": 1000,
+    "pages": [
+      "/",
+      "/products/plastic-food-storage"
+    ]
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "categories": [
+      {
+        "path": "/products/plastic-food-storage",
+        "references": 13,
+        "regulatory": true,
+        "title": "Microplastics in plastic food storage",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/baby-wipes",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in baby wipes",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/infant-feeding-bottles",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in infant feeding bottles",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/tea-bags",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in tea bags",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/infant-food-puree",
+        "references": 3,
+        "regulatory": true,
+        "title": "Microplastics in infant food puree",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/cutting-boards",
+        "references": 4,
+        "regulatory": true,
+        "title": "Microplastics from cutting boards",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/cosmetics",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in cosmetics and personal care",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/products/textiles",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics released from textiles",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/bottled-water",
+        "references": 6,
+        "regulatory": true,
+        "title": "Microplastics in bottled water",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/salt",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in salt",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/beer",
+        "references": 4,
+        "regulatory": true,
+        "title": "Microplastics in beer",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/honey",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in honey",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/tap-water",
+        "references": 6,
+        "regulatory": true,
+        "title": "Microplastics in tap water",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/ingredients/fish-and-seafood",
+        "references": 4,
+        "regulatory": true,
+        "title": "Microplastics in fish and seafood",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/topics/environmental-wildlife",
+        "references": 3,
+        "regulatory": true,
+        "title": "Microplastics in environmental wildlife",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/topics/household-dust-air",
+        "references": 5,
+        "regulatory": true,
+        "title": "Microplastics in household dust and air",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "path": "/topics/human-biomonitoring",
+        "references": 4,
+        "regulatory": true,
+        "title": "Microplastics in human biomonitoring",
+        "viewport": 390,
+        "width": 390
+      }
+    ]
+  },
+  "foodTables": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "regions": [
+      {
+        "width": 348,
+        "contentWidth": 770
+      },
+      {
+        "width": 348,
+        "contentWidth": 873
+      }
+    ]
+  },
+  "journeys": [
+    "Mobile primary navigation exposes Products, Ingredients, Topics, Testing, Regulations and Sources",
+    "Search for bottles returns named category and study results",
+    "Mobile section menu opens; Study findings reaches container-studies",
+    "Hu inline reference reaches its matching bibliography entry and source record",
+    "Source record shows exact measurement, denominator, conditions, size context and original PDF locator"
+  ],
+  "consoleErrors": [],
+  "screenshots": [
+    "home-desktop.jpg",
+    "food-storage-desktop.jpg",
+    "home-mobile.jpg",
+    "food-storage-mobile.jpg"
+  ]
+}

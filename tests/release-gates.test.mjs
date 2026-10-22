@@ -18,3 +18,11 @@ test('nested relative links and inherited ops destinations block release',()=>fi
  const p=join(dir,'content/pages.json');const data=JSON.parse(await readFile(p));data[0].body+='<p><a href="ingredients/ingredients/salt">Salt</a><a href="/api/evidence-packet">Packet</a></p>';await writeFile(p,JSON.stringify(data));
  assert.equal(run(dir,'scripts/build.mjs').status,0);const result=run(dir,'scripts/check.mjs');assert.notEqual(result.status,0);assert.match(result.stderr,/Forbidden route|Relative URL/);
 }));
+test('an unfinished regulatory section cannot pass the content checks',()=>fixture(async dir=>{
+ const p=join(dir,'content/pages.json');const data=JSON.parse(await readFile(p));data[0].body+='<p>{{REGULATORY_CONTEXT}}</p>';await writeFile(p,JSON.stringify(data));
+ assert.equal(run(dir,'scripts/build.mjs').status,0);const result=run(dir,'scripts/check.mjs');assert.notEqual(result.status,0);assert.match(result.stderr,/Unresolved token/);
+}));
+test('a screened PDF cannot silently disappear from the library audit',()=>fixture(async dir=>{
+ const p=join(dir,'data/library-screening.json');const data=JSON.parse(await readFile(p));data.records.pop();await writeFile(p,JSON.stringify(data));
+ assert.equal(run(dir,'scripts/build.mjs').status,0);const result=run(dir,'scripts/check.mjs');assert.notEqual(result.status,0);assert.match(result.stderr,/Each PDF needs a screening disposition/);
+}));

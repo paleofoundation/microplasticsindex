@@ -24,7 +24,8 @@ async function search() {
   try {
     index ??= await fetch('/search-index.json').then(r => {if (!r.ok) throw Error('Search unavailable');return r.json();});
     const terms = query.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    const matches = index.filter(item => terms.every(t => (item.title+' '+item.description+' '+item.text).toLowerCase().includes(t))).slice(0,15);
+    const score = item => terms.reduce((n,t) => n + (item.title.toLowerCase().includes(t)?4:0) + (item.description.toLowerCase().includes(t)?2:0),0);
+    const matches = index.filter(item => terms.every(t => (item.title+' '+item.description+' '+item.text).toLowerCase().includes(t))).sort((a,b)=>score(b)-score(a)).slice(0,15);
     results.replaceChildren();
     if (!matches.length) {results.textContent = 'No reviewed pages match this search.';return;}
     for (const item of matches) {
