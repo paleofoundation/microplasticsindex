@@ -12,7 +12,7 @@ Date: 2026-10-22. Overall status: HOLD for the complete order. The first food-st
 - Build checks: 18 HTML outputs including the 404; 669 internal links/assets; 23 registered measurement uses. Canonicals, sitemap and robots use microplasticsindex.com. Citation numbering follows first appearance.
 - Regression gates: altered primary hash rejected; candidate numeric result rejected; nested relative link and evidence-packet route rejected.
 - Browser: desktop 1440 × 1000 and mobile 390 × 844 home/article inspected. Mobile primary menu and section menu work. Table scroll stays inside its region; document width equals viewport after citation-wrap fix. Search returns reviewed pages; article citation leads to the correct source record. Browser error/warning log was empty.
-- Four requested screenshots are in docs/screenshots; one additional desktop evidence-table screenshot is included. They are local screenshots of the same static build used for the preview.
+- Four requested screenshots are in docs/screenshots. They are local screenshots of the same static build used for the preview.
 
 ## Open items before full-order PASS
 
