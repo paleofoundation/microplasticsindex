@@ -1,10 +1,10 @@
-# Protected review preview
+# Microplastics Reference Library protected preview
 
-URL: https://microplasticsindex-jlf1523fx-karen-pendergrass-projects.vercel.app
+URL: https://microplasticsindex-dmltra60c-karen-pendergrass-projects.vercel.app
 
 Vercel project: microplasticsindex, prj_kBPQIZAbOJG02KVrhxTPyOZdkXhv, under karen-pendergrass-projects.
 
-Deployment: dpl_GAoYSHm7yDhQ8nkPZdxku4225PwV. State READY; Preview target (API target null). Application source commit: e18e2835284380139b7199e46dd679fac535550c. Later verification-document commits do not change the deployed application.
+Deployment: dpl_2iCKMjPgvQRLWzgeBsQck9yC7AnW. State READY; Preview target (API target null). Application source commit: dc7ee70d7241a995c5440a8c95aaec9a13fa58a1. Later verification-document commits do not change the deployed application.
 
 Protection: Vercel Authentication, deploymentType all_except_custom_domains. Anonymous access returns 302 to sign-in. No protection credential is stored in this repository or shared in the review URL.
 
