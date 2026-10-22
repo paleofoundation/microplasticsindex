@@ -1,0 +1,15 @@
+{
+  "order": "MPI-BUILD-1",
+  "requested_total_categories": 17,
+  "implemented_review_slice": [{"priority":1,"name":"Plastic food storage","route":"/products/plastic-food-storage","status":"draft-scientific-review","gaps":["ordinary zip-top bag experiments","repeated-use household tubs","food-wrap supporting information"]}],
+  "next": [
+    {"priority":2,"name":"Baby wipes","dependency":"Verify exact published cross-contaminant report URL"},
+    {"priority":3,"name":"Infant feeding bottles"},
+    {"priority":4,"name":"Tea bags"},
+    {"priority":5,"name":"Bottled water"},
+    {"priority":6,"name":"Salt"}
+  ],
+  "remaining_category_names": null,
+  "remaining_category_count": 11,
+  "reason": "Authoritative 17-category folder taxonomy not reconciled; do not invent the final names from the broader acquisition query tags."
+}

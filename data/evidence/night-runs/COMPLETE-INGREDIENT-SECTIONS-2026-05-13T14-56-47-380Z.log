@@ -1,7 +1,0 @@
-All done. Five commits, 125 pages, zero fabricated numbers.
-
-**Summary:**
-- 124 ingredient pages each received the 6 missing mandatory H2 sections in Part 6 order (Why accumulates, Ranges by source/region/variety, Processing effects, Ingredient-derivative risk, Mitigation options with 6 subsections, Regulatory limits that apply)
-- `wheat.md` received only the missing `## Heavy metal contamination profile` table; all other sections were already complete
-- All 5 commits landed clean via husky pre-commit; no marker blocks touched
-- `wiki/log.md` updated with a single summary entry

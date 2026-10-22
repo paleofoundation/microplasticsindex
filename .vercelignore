@@ -1,19 +1,5 @@
-# Keep gitless `vercel deploy` uploads small and keep `vercel build` from
-# recursing into build output / stale git worktrees. Without this, `vercel deploy`
-# bundles the untracked sites/ (ICS scaffold, ~475MB) and the built public/
-# (~350MB) and fails with "Request body too large. Limit: 10mb"; and function
-# bundling follows data/** into .claude/worktrees/* copies and loops.
-#
-# NOTE: Vercel CLI deploys strip .git from the build env regardless of this file,
-# so CLI deploys emit empty "Update history" (build-page-changelogs). Correct
-# changelogs require the git-based build (Vercel Deploy Hook building origin/main
-# from GitHub); keep .git excluded here since uploading it changes nothing.
-#
-# Everything here is build output, a separate project's tree, or local-only.
-sites/
-public/
-node_modules/
-raw/
-.git/
-.vercel/output/
-.claude/
+.git
+node_modules
+docs
+tests
+data/primary-review.json

@@ -1,4 +1,0 @@
-# Published pages that may contain a batch-log phrase for a legitimate reason.
-# One repo-relative path per line. Blank lines and # comments are ignored.
-# Prefer rewriting the sentence. Add a path only when the phrase is the
-# reader's own subject and cannot be said another way.

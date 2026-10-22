@@ -1,5 +1,0 @@
-gap,page,slug,routed_source_count,pending_metals,fix
-pending_contamination_profile_with_sources,wiki/ingredients/infant-formula.md,infant-formula,30,Pb;Cd;MeHg;Ni;Al;Cr-VI;Sn,run synthesis pass per CLAUDE.md Part 9 to populate the pending sub-blocks
-pending_contamination_profile_with_sources,wiki/ingredients/infant-rice-cereal.md,infant-rice-cereal,6,Pb;Cd;MeHg;Ni;Al;Cr-VI;Sn,run synthesis pass per CLAUDE.md Part 9 to populate the pending sub-blocks
-pending_contamination_profile_with_sources,wiki/ingredients/non-root-vegetables.md,non-root-vegetables,25,Pb;Cd,run synthesis pass per CLAUDE.md Part 9 to populate the pending sub-blocks
-pending_contamination_profile_with_sources,wiki/ingredients/salt.md,salt,2,Pb;Cd;MeHg;Ni;Al;Cr-VI;Sn,run synthesis pass per CLAUDE.md Part 9 to populate the pending sub-blocks

@@ -1,0 +1,65 @@
+/* Topic adapter: base reset and static controls around retained source geometry. */
+:root { --light:#faf7f4; --darkgray:#3f3a3f; --secondary:#7b153b; --lightgray:#e8e1db; --bodyFont:Inter,system-ui,sans-serif; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; background:#faf7f4; }
+a { color:#1c43ad; text-decoration:none; }
+a:hover { text-decoration:underline; }
+button,input { font:inherit; }
+button { cursor:pointer; }
+p { margin:0 0 1em; }
+h1,h2,h3,h4 { font-family:Lora,Georgia,serif; }
+img { max-width:100%; }
+:focus-visible { outline:2px solid #7b153b; outline-offset:4px; }
+.hero-band :focus-visible { outline-color:#ffc329; }
+.proof-home .proof-main { max-width:none; }
+.proof-home .proof-container { max-width:none; padding:0; }
+.proof-home .proof-layout { padding:0; }
+.proof-home .wiki-content { line-height:1.7; }
+.hero-band + .page .proof-layout { padding-block:0 50px; }
+.wiki-content table { border-collapse:collapse; width:100%; font-size:14px; line-height:1.65; }
+.wiki-content th,.wiki-content td { padding:14px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+.wiki-content th { color:var(--muted); font-size:12px; background:#faf7f4; }
+.wiki-content h2 { margin-top:44px; }
+.wiki-content h2:first-child { margin-top:0; }
+.hmi-table-scroll { border:1px solid var(--line); border-radius:3px; }
+.hmi-table-scroll table { min-width:700px; }
+.hmi-table-scroll:focus-visible { outline-offset:2px; }
+sup.cite { font-size:11px; white-space:nowrap; }
+.hero-meta a { color:white; }
+.hmi-topnav-search-trigger { border:1px solid var(--line); border-radius:3px; background:white; color:var(--muted); padding:8px 12px; font-size:12px; }
+.mpi-updated { font-family:'IBM Plex Mono',monospace; font-size:11px; color:#efd8e1; }
+.mpi-reading-status { display:inline-block; color:#7b153b; background:#f6ecf0; border:1px solid #e8e1db; padding:3px 7px; font:11px 'IBM Plex Mono',monospace; }
+.mpi-directory { display:grid; gap:0; margin:24px 0; }
+.mpi-directory a { display:block; padding:18px 0; border-bottom:1px solid var(--line); }
+.mpi-directory a span { display:block; color:var(--muted); font-size:14px; margin-top:4px; }
+.mpi-faq details { border-block-end:1px solid var(--line); padding:16px 0; }
+.mpi-faq summary { cursor:pointer; font-family:Lora,serif; font-size:19px; color:var(--burg); }
+.mpi-faq details p { margin:14px 0 0; }
+.mpi-cite { margin-top:40px; padding:20px; border:1px solid var(--line); background:var(--shade); }
+.mpi-cite button { background:white; border:1px solid var(--line); padding:8px 12px; color:var(--burg); }
+.mpi-search { width:min(680px,calc(100vw - 32px)); border:1px solid var(--line); padding:24px; border-radius:3px; color:var(--ink); background:#fffdfb; }
+.mpi-search::backdrop { background:#2b1f24aa; }
+.mpi-search-head { display:flex; justify-content:space-between; gap:20px; align-items:center; margin-bottom:16px; }
+.mpi-search-head h2 { margin:0; font-size:24px; }
+.mpi-search-close { background:white; border:1px solid var(--line); min-height:40px; padding:8px 12px; }
+.mpi-search input { width:100%; padding:14px; border:1px solid #736b6e; border-radius:3px; }
+.mpi-search-results { max-height:55vh; overflow:auto; }
+.mpi-search-results a { display:block; padding:15px 0; border-bottom:1px solid var(--line); }
+.mpi-search-results small { display:block; color:var(--muted); line-height:1.5; margin-top:4px; }
+footer .site-footer-nav { display:contents; }
+footer ul { list-style:none; padding:0; margin:16px 0 0; }
+footer li { margin:0 0 12px; }
+footer .site-footer-bottom p { margin:0; }
+.mpi-home-coverage { max-width:var(--article-max-width); margin:auto; padding:50px var(--article-outer-gutter); }
+.mpi-home-coverage h2 { font-size:30px; margin-bottom:20px; }
+@media (min-width:1150px) { .hmi-topnav-menu { height:68px; } }
+@media (max-width:1149px) { .hmi-topnav-menu.open { display:block; } .hmi-nav-list { display:block; height:auto; } .hmi-topnav-menu.open .hmi-nav-item { display:block; } }
+@media (max-width:800px) { .hmi-table-scroll table { min-width:620px; } .hero-sidebar { gap:12px; } .hero-sidebar .hero-snapshot { display:none; } .hero-sidebar { padding-top:16px; padding-bottom:16px; } .mpi-home-coverage { padding-block:32px; } }
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+
+.skip-to-content { position:absolute; left:16px; top:-100px; z-index:2000; background:white; padding:12px; border:2px solid var(--burg); }
+.skip-to-content:focus { top:8px; }
+.hmi-nav-top { display:flex; align-items:center; }
+.mpi-cite, .wiki-content code { overflow-wrap:anywhere; }
+.hmi-table-scroll table { display:table; overflow:visible; }

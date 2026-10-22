@@ -1,8 +1,0 @@
-/* HMI v3 typography — loaded from Google Fonts exactly as the live site does.
-   quartz.config.ts sets fontOrigin: "googleFonts" with:
-     header (serif display) = Lora            weights 400 500 600 700
-     body   (sans UI/prose) = Inter           weights 300 400 500 600 700
-     code   (data / labels) = IBM Plex Mono    weights 400 500 600
-   The families load at runtime from the font host (design-sync [FONT_REMOTE]),
-   which is the real site's own provisioning path — not self-hosted woff2. */
-@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap");

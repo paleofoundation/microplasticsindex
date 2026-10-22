@@ -1,0 +1,122 @@
+[
+  {
+    "path": "/products/plastic-food-storage",
+    "title": "Microplastics in plastic food storage",
+    "shortTitle": "Plastic food storage",
+    "kind": "Product category",
+    "collection": "Products",
+    "scope": "Tubs, bags, wraps, and containers",
+    "description": "What studies measured in food wraps and containers, with particle counts, polymer types, size windows, methods, and clear evidence gaps.",
+    "actions": [
+      [
+        "Study findings",
+        "#study-findings"
+      ],
+      [
+        "References",
+        "#references"
+      ],
+      [
+        "Cite this page",
+        "#cite-this-page"
+      ]
+    ],
+    "body": "<div class=\"hmi-evidence-status\"><p>Laboratory studies have detected plastic particles released from some food wraps and containers. The amounts depend on the material, liquid, temperature, contact time, and measurement method. These tests do not establish a common release rate for all food-storage products or a measured human health outcome.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}{{cite:cella-2022-food-packaging-methods}}</p></div>\n<h2 id=\"scope\">What this page covers</h2><p>This page separates food wraps, specific containers, and cooking or ice-cube bags. Direct experiments on ordinary zip-top storage bags and repeated use of household tubs are not represented in the reviewed sources. Those gaps remain open; takeaway-box and heat-sealing-film results are not substitutes.</p>\n<h2 id=\"study-findings\">What the studies found</h2><p>A food-wrap study reported particles after cold-storage and heating tests, with results expressed per film area. A separate container experiment used a chemically specific method and reported particles per container. Their different denominators and analytical methods prevent a direct ranking of materials.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p><p class=\"hmi-table-hint\">Scroll the table horizontally for particle sizes, methods, and limitations. Each row retains the source test conditions.</p><div class=\"hmi-table-scroll\" role=\"region\" aria-label=\"Food storage study findings\" tabindex=\"0\"><table><thead><tr><th>Material and source</th><th>Test condition</th><th>Reported particles</th><th>Size context</th><th>Method</th><th>Interpretation</th></tr></thead><tbody><tr><td>LDPE food wrap{{cite:wang-2024-ldpe-food-wrap}}</td><td>Refrigerator 4 °C; 7 days</td><td>{{claim:wang-2024-ldpe-food-wrap-rf7}}</td><td>10-5000 µm (Feret diameter)</td><td>Nile Red, confocal microscopy, image analysis</td><td>Area-normalized point estimate; full quality-control supplement not reviewed.</td></tr><tr><td>LDPE food wrap{{cite:wang-2024-ldpe-food-wrap}}</td><td>Refrigerator 4 °C; 30 days</td><td>{{claim:wang-2024-ldpe-food-wrap-rf30}}</td><td>10-5000 µm (Feret diameter)</td><td>Nile Red, confocal microscopy, image analysis</td><td>Does not show a monotonic increase with refrigerator time.</td></tr><tr><td>LDPE food wrap{{cite:wang-2024-ldpe-food-wrap}}</td><td>Freezer -20 °C; 60 days</td><td>{{claim:wang-2024-ldpe-food-wrap-fz60}}</td><td>10-5000 µm (Feret diameter)</td><td>Nile Red, confocal microscopy, image analysis</td><td>Water test on one film; not a whole-package or serving count.</td></tr><tr><td>LDPE food wrap{{cite:wang-2024-ldpe-food-wrap}}</td><td>Microwave 119 W, 2450 MHz; final water temperature 48 °C; 2 min</td><td>{{claim:wang-2024-ldpe-food-wrap-mw2}}</td><td>10-5000 µm (Feret diameter)</td><td>Nile Red, confocal microscopy, image analysis</td><td>Specific low-power microwave test; counted particles not individually Raman-confirmed.</td></tr><tr><td>LDPE food wrap{{cite:wang-2024-ldpe-food-wrap}}</td><td>Microwave 119 W, 2450 MHz; final water temperature 96 °C; 10 min</td><td>{{claim:wang-2024-ldpe-food-wrap-mw10}}</td><td>10-5000 µm (Feret diameter)</td><td>Nile Red, confocal microscopy, image analysis</td><td>Specific heating condition; no dietary intake estimate.</td></tr><tr><td>PS instant-noodle container{{cite:wang-2023-polystyrene-containers}}</td><td>200 mL pH 9 aqueous solution; maintained at 100 °C for 6 h</td><td>{{claim:wang-2023-polystyrene-containers-ps-36}}</td><td>Reported comparison bins: 10-100, 100-200, 200-300, &gt;300 µm; predominantly 10-100 µm</td><td>µ-FTIR chemical mapping</td><td>Extreme pH/temperature test. This result is not the maximum across all experiments.</td></tr></tbody></table></div><p>The wrap measurements are study-reported point estimates; the inspected main text does not provide numerical uncertainty for each listed count. The source record explains the missing supporting-information review. In the container experiment, the result shown belongs to its pH comparison, rather than an experiment-wide maximum.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p>\n<h2 id=\"bags-and-tubs\">Bags, wraps, and tubs are distinct</h2><p>Raman analysis identified polyethylene in experiments on ice-cube bags and emptied rice-cooking bags. Pigment or residual rice material was also present, which shows why visible particles alone do not establish polymer identity. No numerical particle-release rate from those bag experiments is used here.{{cite:cella-2022-food-packaging-methods}}</p><p>Another study characterized nanoplastic-sized material from a polypropylene takeaway box and composite heat-sealing films. Its preparation included filtration and further treatment. It does not provide a release count used on this page, and its heat-sealing films do not represent household zip bags.{{cite:wang-2023-nanoplastic-scenarios}}</p>\n<h2 id=\"screening\">Screening results need qualification</h2><p>A preliminary polystyrene-packaging study used Nile Red fluorescence to screen for particulate material. The study separately measured styrene monomer; those chemical concentrations are not particle counts. Individual fluorescent particles were not confirmed by FTIR or Raman in the reported workflow, so its observations should not be combined with chemically identified particle measurements.{{cite:ajaj-2021-polystyrene-packaging}}</p>\n<h2 id=\"methods\">How to read the measurements</h2><p>Look first at the polymer and product tested, then the liquid and contact conditions. Counts normalized to film area do not mean particles per package, and a filtration pore size does not establish the instrument’s detection limit. Sample concentration, drying, cooling, and aggregation can change the particles an analyst observes.{{cite:cella-2022-food-packaging-methods}}</p><p>For the wrap study, Nile Red and microscopy supplied the counts; bulk-film FTIR and Raman supplied separate material characterization. For the polystyrene container, µ-FTIR mapping identified particles on the filter. These approaches have different identification strengths and size coverage.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p><p><a href=\"/testing\">Read the testing-method guide →</a></p>\n<h2 id=\"regulatory-status\">Regulatory status</h2><p>FDA describes an authorization framework for food-contact materials based on intended use, migration, and toxicological evidence. Its microplastics page identifies significant analytical gaps. A particle count in this article is not a regulatory compliance determination.{{cite:fda-microplastics-foods}}</p><p>EFSA describes itself as a scientific risk assessor and states that it has not completed a full food risk assessment for microplastics. Its scientific statements are distinct from a legal packaging limit.{{cite:efsa-microplastics-food}}</p><p><a href=\"/regulations\">Read the verified regulatory context →</a></p>\n<h2 id=\"questions\">Common questions</h2><div class=\"mpi-faq\"><details><summary>Can the studies give a single count for plastic food storage?</summary><p>No. The studies test different materials, conditions, denominators, and measurement windows. The results remain separate rather than being combined into one category-wide number.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p></details><details><summary>Does a measured particle count establish a health effect?</summary><p>These release experiments do not measure human clinical outcomes. They cannot establish a disease risk from a particular storage product. The source records state the narrower findings each experiment supports.{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p></details><details><summary>What can this page say about zip bags and reusable tubs?</summary><p>The reviewed packet does not establish a numerical release rate for consumer zip-top bags or repeated use of generic household tubs. Findings from other container types remain labeled by their actual scope.</p></details></div>\n<h2 id=\"uncertainty\">What remains uncertain</h2><p>The available studies do not establish a typical release rate across all food-storage products, an ingested dose per meal, or an equivalent measurement across microplastics and nanoplastics. The wrap study’s full quality-control supplement remains unreviewed. Broader coverage of zip bags, repeated-use tubs, food matrices, and comparable validated methods is needed before those questions can be answered.{{cite:wang-2024-ldpe-food-wrap}}{{cite:cella-2022-food-packaging-methods}}</p>"
+  },
+  {
+    "path": "/products",
+    "title": "Product literature",
+    "kind": "Directory",
+    "scope": "Reviewed product categories",
+    "actions": [
+      [
+        "Food storage",
+        "/products/plastic-food-storage"
+      ]
+    ],
+    "description": "Product-category evidence, beginning with plastic food storage.",
+    "body": "<h2 id=\"reviewed\">Reviewed product pages</h2><div class=\"mpi-directory\"><a href=\"/products/plastic-food-storage\">Plastic food storage<span>Tubs, bags, wraps, and containers, with material-specific findings and open gaps.</span></a></div><h2 id=\"next\">Next in the review order</h2><p>Baby wipes, infant feeding bottles, tea bags, bottled water, and salt follow food storage. These categories are not included in the reviewed collection yet.</p>"
+  },
+  {
+    "path": "/ingredients",
+    "title": "Ingredient literature",
+    "kind": "Directory",
+    "scope": "Food and beverage ingredients",
+    "description": "Ingredient evidence will be added as source review reaches food and beverage categories.",
+    "actions": [
+      [
+        "Product literature",
+        "/products"
+      ],
+      [
+        "Source archive",
+        "/sources"
+      ]
+    ],
+    "body": "<h2 id=\"ingredient-evidence\">Ingredient evidence</h2><p>The initial collection covers food-storage materials. Ingredient and beverage pages will be added after their source review, using the same study findings, methods, regulatory context, uncertainty, and DOI-reference pattern.</p><p><a href=\"/products/plastic-food-storage\">Read the first product literature page →</a></p>"
+  },
+  {
+    "path": "/testing",
+    "title": "How microplastics are measured",
+    "kind": "Methods",
+    "scope": "Analytical interpretation",
+    "description": "Why polymer identification, particle size, measurement units, sample preparation, and controls matter when comparing studies.",
+    "actions": [
+      [
+        "Methods",
+        "#methods"
+      ],
+      [
+        "References",
+        "#references"
+      ]
+    ],
+    "body": "<h2 id=\"methods\">Match the method to the result</h2><p>Raman and FTIR can provide chemical information about polymer material. Microscopy also records particle appearance or size, but fluorescent or visible objects need an identification workflow before they can be treated as chemically identified plastic particles. {{cite:cella-2022-food-packaging-methods}}{{cite:ajaj-2021-polystyrene-packaging}}</p><p>Nile Red staining and confocal imaging supplied counts in the food-wrap study, while characterization of the bulk film was performed separately. Keep that distinction visible rather than calling the counted objects individually Raman-confirmed. {{cite:wang-2024-ldpe-food-wrap}}</p><h2 id=\"units\">Keep counts and mass separate</h2><p>A polymer-mass result cannot be converted to a particle count without information about the particles. Area-normalized counts, counts per container, and chemical concentrations answer different questions. The source studies retain those denominators. {{cite:cella-2022-food-packaging-methods}}{{cite:wang-2024-ldpe-food-wrap}}{{cite:wang-2023-polystyrene-containers}}</p><h2 id=\"controls\">Read the controls and size window</h2><p>Check how laboratory contamination was controlled, whether blanks were processed, which particles were retained, and how polymer identity was established. Sample preparation and aggregation can affect what is counted. A filter’s pore size is not automatically a validated analytical detection limit. {{cite:cella-2022-food-packaging-methods}}</p><h2 id=\"limits\">What remains uncertain</h2><p>These method descriptions explain the reviewed studies. They do not establish a universal food-storage test or make results from unlike methods interchangeable.</p>"
+  },
+  {
+    "path": "/regulations",
+    "title": "Regulatory and agency context",
+    "kind": "Reference",
+    "scope": "Verified U.S. and EU agency information",
+    "description": "Agency context for reading food-storage particle measurements, with regulatory authority and scientific assessment kept distinct.",
+    "actions": [
+      [
+        "Agency context",
+        "#agency-context"
+      ],
+      [
+        "References",
+        "#references"
+      ]
+    ],
+    "body": "<h2 id=\"agency-context\">Read each source within its scope</h2><p>The FDA material describes food-contact authorization and analytical limitations. EFSA describes scientific assessment and remaining uncertainties. Neither of these topic pages is a product-specific compliance determination. {{cite:fda-microplastics-foods}}{{cite:efsa-microplastics-food}}</p><h2 id=\"evidence\">Measurements and legal conclusions</h2><p>The release experiments summarized in the Index retain their reported results. They are not converted into legal or certification thresholds.</p><h2 id=\"scope\">Scope of this page</h2><p>This is a limited agency-context summary, not a complete register of worldwide requirements. A cited scientific paper’s discussion of a regulation does not substitute for verification of the current legal instrument.</p>"
+  },
+  {
+    "path": "/methodology",
+    "title": "Editorial and evidence approach",
+    "kind": "Methods",
+    "scope": "How this collection is compiled",
+    "description": "Source identity, exact reported values, study-specific interpretation, and transparent evidence gaps.",
+    "actions": [
+      [
+        "Evidence approach",
+        "#evidence-approach"
+      ]
+    ],
+    "body": "<h2 id=\"evidence-approach\">Keep every finding traceable</h2><p>The Index checks source identity and preserves the original artifact hash alongside extracted findings. Published measurements retain their units, denominator, material, conditions, method, size context, and location in the paper.</p><h2 id=\"boundaries\">Keep the boundaries visible</h2><p>A missing value is omitted. A chemical concentration is not a particle count. A laboratory release experiment is not a measured human dose or a clinical outcome. Results from unlike studies remain separate.</p><h2 id=\"coverage\">Coverage</h2><p>The initial reviewed collection concerns food storage. It is a bounded literature review of the cited papers, not a claim to have reviewed the complete literature. Future product and ingredient pages must identify the source material that supports them.</p>"
+  },
+  {
+    "path": "/about",
+    "title": "About Microplastics Index",
+    "kind": "Reference",
+    "scope": "About this reference",
+    "description": "A source-traceable reference on microplastics in products and ingredients, operated by the Institute of Contaminant Standards.",
+    "actions": [
+      [
+        "About the Index",
+        "#about-the-index"
+      ]
+    ],
+    "body": "<h2 id=\"about-the-index\">A source-traceable reference</h2><p>Microplastics Index presents what the cited literature reports about microplastics in products and ingredients. The initial collection focuses on plastic food-storage materials.</p><p>The Index is operated by the Institute of Contaminant Standards, a trade name of Paleo Certified, Inc.</p><h2 id=\"reading\">Reading the Index</h2><p>Start with a product literature page, compare the methods and test conditions, and follow the numbered references to the source records and original papers.</p><p><a href=\"/methodology\">Read the editorial approach</a> or <a href=\"/products/plastic-food-storage\">explore plastic food storage</a>.</p>"
+  }
+]

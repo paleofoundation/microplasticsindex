@@ -1,0 +1,14 @@
+@layer legacy {
+  @import 'hmi/styles/proof-design';
+  @import 'hmi/styles/topNav';
+  @import 'hmi/styles/footer';
+}
+@import 'hmi/styles/v3-type';
+@import 'hmi/styles/v3-chrome';
+@import 'hmi/styles/heroBand';
+@import 'hmi/styles/home-v3';
+@import 'hmi/styles/references-v3';
+@import 'hmi/styles/v3-primitives';
+@import 'hmi/styles/products-v3';
+@import 'hmi/styles/article-layout';
+@import 'mpi';

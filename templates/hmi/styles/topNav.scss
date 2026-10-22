@@ -1,0 +1,417 @@
+@use "sass:map";
+@use "variables.scss" as *;
+
+// Global full-width sticky top bar.
+//
+// The OUTER shell (.hmi-topnav-shell) is emitted by renderPage.tsx as a
+// <header> that is a direct child of <body>, OUTSIDE #quartz-root, so it is
+// NOT constrained by .page's max-width and spans the full viewport. The bar's
+// own content is re-centered to the proof grid's max-width (--maxw) via
+// .hmi-topnav-inner, so the wordmark lines up with the left section-nav and
+// the controls line up with the right rail.
+//
+// Typography, colors and metrics are ported VERBATIM from the hmi-real-content
+// proof's .proofnav rules (proof-design.scss, "top nav (white)"): Lora 600
+// burgundy wordmark, Inter 15px links, color-only active/hover states, 68px
+// bar. The hmi-topnav-* markup keeps the responsive burger the static proof
+// never needed; the --burg/--ink/--muted/--line tokens come from the proof's
+// :root block in proof-design.scss.
+
+.hmi-topnav-shell {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  background-color: #ffffff;
+  border-bottom: 1px solid var(--line, var(--lightgray));
+  // Very subtle depth: the sticky bar lifts off the page once you scroll (a
+  // restrained take on refinedesign.ai's darker-band-behind-the-header). The
+  // `.scrolled` class is toggled on <body> by scrolltotop.inline.ts. Flat at
+  // rest, so the v3 canon is untouched until the reader actually moves.
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+body.scrolled .hmi-topnav-shell {
+  border-bottom-color: transparent;
+  box-shadow: 0 1px 0 rgba(139, 42, 74, 0.06), 0 6px 16px rgba(43, 31, 36, 0.08);
+}
+
+[saved-theme="dark"] .hmi-topnav-shell {
+  background-color: #ffffff;
+}
+
+.hmi-topnav {
+  width: 100%;
+}
+
+.hmi-topnav-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 40px;
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+
+  @media (max-width: 1149px) {
+    height: auto;
+    padding: 0.55rem 1rem;
+  }
+}
+
+// ---- Wordmark + operator sub-line --------------------------------------
+.hmi-topnav-brand {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  line-height: 1.15;
+  background-color: transparent !important; // override a.internal highlight
+  padding: 0;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  // Clean focus: no default browser box on click; a tidy burgundy ring only on
+  // keyboard navigation.
+  &:focus {
+    outline: none;
+  }
+  &:focus-visible {
+    outline: 2px solid var(--burg, var(--secondary));
+    outline-offset: 4px;
+    border-radius: 4px;
+  }
+}
+
+.hmi-topnav-wordmark {
+  font-family: Lora, serif;
+  font-size: 22px;
+  font-weight: $semiBoldWeight;
+  color: var(--burg, var(--secondary));
+}
+
+// .hmi-topnav-operator removed 2026-07-27: the operator attribution moved to
+// the footer bottom bar (Footer.tsx / .site-footer-operator).
+
+// ---- Menu (taxonomy + controls) ----------------------------------------
+.hmi-topnav-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 auto;
+  gap: 1.5rem;
+}
+
+.hmi-topnav-taxonomy {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+}
+
+// .hmi-topnav-controls removed: the controls are no longer a child of the nav.
+// They are `.hmi-topnav-actions`, a sibling of it, styled in v3-chrome.scss
+// (CHROME-SPEC §1.1 child 4).
+
+.hmi-topnav-link,
+.hmi-topnav-utility {
+  font-family: Inter, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--ink, #2b1f24);
+  background-color: transparent;
+  padding: 0.2rem 0;
+  white-space: nowrap;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--burg, var(--secondary));
+    text-decoration: none;
+  }
+
+  &.active {
+    color: var(--burg, var(--secondary));
+  }
+}
+
+.hmi-topnav-utility {
+  font-weight: $normalWeight;
+}
+
+// The 999px account circle, the 999px search pill and its 1200-1500px
+// label-hiding rule, and the filled 999px "Ask the Index" pill are all gone.
+// CHROME-SPEC §1.1 states the whole actions group — a 36px bordered search box
+// at radius 3, and Ask / About / Log in as plain 12.5px text — in
+// v3-chrome.scss, which is unlayered and therefore wins outright rather than by
+// specificity. Keeping these here would leave two live descriptions of the same
+// five controls, which is the condition every cascade defect in this project
+// started from.
+
+// ---- Mobile burger ------------------------------------------------------
+.hmi-topnav-burger {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--ink, #333333);
+  padding: 0.25rem;
+  margin-left: auto;
+}
+
+// Tablet + mobile: collapse the menu behind the burger.
+// ---- Grid spacing reconciliation ---------------------------------------
+// The original layout reserved $topSpacing (6rem) at the top of the sidebars
+// and page-header to clear the old in-flow header. With the header lifted to a
+// sticky full-width bar, that reservation becomes a dead gap and the sticky
+// sidebars would scroll UNDER the bar. Scope these corrections to pages that
+// actually render the bar (body:has(.hmi-topnav-shell)) so nothing else moves.
+//
+// The bar is 68px tall (the proof's .inner height); offset the sticky
+// sidebars by that height so they pin just beneath it.
+$hmi-topnav-height: 4.25rem;
+
+body:has(.hmi-topnav-shell) {
+  & .page > #quartz-body {
+    & .sidebar {
+      padding-top: 1.5rem;
+      top: $hmi-topnav-height;
+      height: calc(100vh - #{$hmi-topnav-height});
+    }
+
+    // When the left rail's content genuinely exceeds the viewport (content-heavy
+    // metals pages with many sections), let it scroll on its own with a thin,
+    // unobtrusive scrollbar so the icon-nav + counts stay reachable. Normal-length
+    // pages (regulators, ingredients) fit and never show a scrollbar.
+    & .sidebar.left {
+      overflow-y: auto;
+      scrollbar-width: thin;
+      scrollbar-color: var(--lightgray) transparent;
+
+      &::-webkit-scrollbar {
+        width: 7px;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: var(--lightgray);
+        border-radius: 4px;
+      }
+    }
+
+    & .page-header {
+      margin-top: 1.25rem;
+    }
+
+    @media all and ($mobile) {
+      & .sidebar.left {
+        top: 0;
+        height: unset;
+        padding-top: 1rem;
+      }
+      & .page-header {
+        margin-top: 0.5rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 1149px) {
+  .hmi-topnav-burger {
+    display: inline-flex;
+  }
+
+  .hmi-topnav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    background-color: #ffffff;
+    border-bottom: 1px solid var(--line, var(--lightgray));
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+    padding: 0.5rem 1rem 1rem 1rem;
+
+    &.open {
+      display: flex;
+    }
+  }
+
+  .hmi-topnav-inner {
+    position: relative;
+    flex-wrap: wrap;
+  }
+
+  .hmi-topnav-taxonomy {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+    width: 100%;
+  }
+
+  .hmi-topnav-taxonomy {
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--line, var(--lightgray));
+    margin-bottom: 0.5rem;
+  }
+
+  .hmi-topnav-link {
+    width: 100%;
+    padding: 0.5rem 0;
+  }
+
+  // The drawer no longer holds the search box or the text links: below 1150px
+  // the actions group keeps the 36px search square and Index Pro in the bar and
+  // drops the rest, per v3 (CHROME-SPEC §1.1, narrow branch). The drawer is the
+  // five nav triggers and their panels.
+}
+
+// ---------------------------------------------------------------------------
+// Mega-menu (drop-card panels)
+//
+// The flat taxonomy row is replaced by five disclosure panels. Contract:
+//   - The top-level label is a real <a> to the hub; a sibling chevron <button>
+//     owns the disclosure, so a touch tap on the label navigates and a tap on
+//     the chevron opens — no first-tap sacrificed to a hover state a phone then
+//     latches open.
+//   - Panels are server-rendered in full and hidden with `visibility`, never
+//     `display:none`, so every link ships in the static HTML for crawlers and
+//     leaves the tab order when closed.
+//   - CSS opens on :focus-within (no-JS keyboard) and on :hover ONLY behind a
+//     pointer-media gate; topNav.inline.ts adds `.hmi-nav--js` to take over, so
+//     the two never fight.
+// ---------------------------------------------------------------------------
+.hmi-sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+// The bar is the positioning context for the drop-card, so it drops below the
+// 68px bar and aligns to the same max-width as the wordmark.
+.hmi-topnav-inner { position: relative; }
+
+.hmi-nav-list {
+  display: flex; flex-direction: row; align-items: center; gap: 24px;
+  list-style: none; margin: 0; padding: 0;
+}
+.hmi-nav-item { display: flex; flex-direction: row; align-items: center; gap: 2px; margin: 0; padding: 0; }
+
+.hmi-nav-top {
+  font-family: Inter, sans-serif; font-size: 15px; font-weight: 500;
+  color: var(--ink, #2b1f24); background-color: transparent; white-space: nowrap;
+  transition: color 0.2s ease;
+  &:hover { color: var(--burg, var(--secondary)); text-decoration: none; }
+  &.active { color: var(--burg, var(--secondary)); }
+}
+
+.hmi-nav-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: none; border: 0; padding: 3px; margin: 0; color: var(--faint, #a9a1a2);
+  cursor: pointer; border-radius: 4px; transition: color 0.15s ease;
+  &:hover { color: var(--burg, var(--secondary)); }
+  &:focus-visible { outline: 2px solid var(--burg, var(--secondary)); outline-offset: 2px; }
+}
+.hmi-nav-item.is-open > .hmi-nav-toggle svg { transform: rotate(180deg); }
+
+.hmi-nav-panel {
+  position: absolute; left: 0; right: 0; top: 100%;
+  visibility: hidden; opacity: 0;
+  background-color: #fff; border: 1px solid var(--line, var(--lightgray));
+  border-top: 0; border-radius: 0 0 14px 14px;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.12); z-index: 40;
+  transition: opacity 0.14s ease;
+  &::before { content: ""; position: absolute; top: -10px; left: 0; right: 0; height: 10px; }
+}
+.hmi-nav-item.is-open > .hmi-nav-panel { visibility: visible; opacity: 1; }
+.hmi-nav:not(.hmi-nav--js) .hmi-nav-item:focus-within > .hmi-nav-panel { visibility: visible; opacity: 1; }
+@media (hover: hover) and (pointer: fine) {
+  .hmi-nav:not(.hmi-nav--js) .hmi-nav-item:hover > .hmi-nav-panel { visibility: visible; opacity: 1; }
+}
+
+.hmi-nav-panel-inner { padding: 1.6rem 40px 1.9rem; }
+.hmi-nav-blurb { margin: 0 0 1.1rem; font-size: 0.92rem; color: var(--muted, #736b6e); max-width: 46rem; }
+.hmi-nav-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.4rem 3rem; max-width: 44rem; }
+.hmi-nav-col ul { list-style: none; margin: 0; padding: 0; }
+.hmi-nav-col li { margin: 0; }
+.hmi-nav-colhead {
+  font-family: Lora, serif; font-size: 1rem; font-weight: 600;
+  color: var(--ink, #2b1f24); margin: 0 0 0.5rem;
+}
+.hmi-nav-col a {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 1rem;
+  padding: 0.34rem 0; font-size: 0.93rem; color: var(--body, #3f3a3f); background-color: transparent;
+  &:hover { color: var(--burg, var(--secondary)); text-decoration: none;
+    .hmi-nav-childlabel { text-decoration: underline; } }
+}
+.hmi-nav-count { font-size: 0.79rem; color: var(--faint, #a9a1a2); font-variant-numeric: tabular-nums; flex: 0 0 auto; }
+.hmi-nav-all {
+  display: inline-block; margin-top: 1.2rem; font-size: 0.9rem; font-weight: 600;
+  color: var(--burg, var(--secondary)); background-color: transparent;
+}
+
+// Mobile: inside the burger drawer the panels are in-flow accordions driven by
+// the same `.is-open` class. Still `visibility`, never `display:none`.
+@media (max-width: 1149px) {
+  .hmi-nav-list { flex-direction: column; align-items: stretch; gap: 0; width: 100%; }
+  .hmi-nav-item { display: grid; grid-template-columns: 1fr auto; width: 100%; }
+  .hmi-nav-top { width: 100%; padding: 0.6rem 0; }
+  .hmi-nav-toggle { min-width: 44px; min-height: 44px; }
+  .hmi-nav-panel {
+    position: static; grid-column: 1 / -1; max-height: 0; overflow: hidden;
+    box-shadow: none; border: 0; border-radius: 0; transition: none;
+    &::before { display: none; }
+  }
+  .hmi-nav-item.is-open > .hmi-nav-panel { max-height: none; }
+  .hmi-nav-panel-inner { padding: 0.2rem 0 0.9rem 0.75rem; }
+  .hmi-nav-blurb { display: none; }
+  .hmi-nav-cols { grid-template-columns: 1fr; gap: 1rem; }
+}
+
+// ---- Index Pro handoff --------------------------------------------------
+// The button's values moved to v3-chrome.scss with the rest of the actions
+// group. Both auto-margin rules went with them: the group now right-aligns
+// because the spacer before it owns the slack, at every width, so there is no
+// longer a wide case and a narrow case to reconcile.
+// (Font family stays inherited; see docs/findings.md F-12 for the pill it was.)
+
+// Below 1150 the flow row is brand + burger + Index Pro (the menu is
+// absolutely positioned, so it is out of flow). At 390px the 30px gaps and the
+// full-width 22px Lora wordmark pushed the button onto a second row. v3 keeps
+// the bar one row high at every width, so the wordmark yields instead.
+@media (max-width: 1149px) {
+  .hmi-topnav-inner {
+    gap: 12px;
+  }
+
+  .hmi-topnav-brand {
+    min-width: 0;
+  }
+
+  .hmi-topnav-wordmark {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .hmi-topnav-pro {
+    margin-left: auto;
+    padding: 7px 13px;
+  }
+}
+
+// ══ v3 header right side ═════════════════════════════════════════════════
+// The whole appended override run — search box, "/" hint, Ask / Log in / About
+// text treatment, the 1149px collapse, and the two follow-up media queries that
+// were patching the block above it — now lives in quartz/styles/v3-chrome.scss
+// (CHROME-SPEC §1.1, actions group). It was written here as an override on top
+// of rules that contradicted it; those rules are deleted above, so there is one
+// description of the bar's right side instead of a stack of three.
+//
+// The reason it moves rather than staying: component CSS is emitted inside
+// `@layer legacy`, where it loses to any unlayered rule on equal specificity.
+// v3-chrome.scss is unlayered. Values that must WIN cannot live here.
