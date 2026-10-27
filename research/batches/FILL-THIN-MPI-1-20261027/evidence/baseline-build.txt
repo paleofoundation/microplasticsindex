@@ -1,0 +1,1 @@
+npm run build: PASS. Built76pages,49source records,80verified claims. Check:77HTML,3499internal links/assets,242source-bound measurement uses. No changes to base scientific data.

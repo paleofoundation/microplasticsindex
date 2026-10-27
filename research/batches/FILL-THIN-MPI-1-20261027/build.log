@@ -1,0 +1,6 @@
+
+> microplasticsindex@1.0.0 build
+> node scripts/build.mjs && node scripts/check.mjs
+
+Built 76 pages, 49 source records, 80 verified claims.
+PASS: 77 HTML pages; 3499 internal links/assets; 242 source-bound measurement uses; canonical, sitemap, robots, citation order, legacy removal, and forbidden routes.

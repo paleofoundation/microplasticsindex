@@ -1,0 +1,39 @@
+{
+  "order": "FILL-THIN-MPI-1",
+  "state": "UNAPPLIED_GATED_NO_SOURCE_DATA_EDITS",
+  "base": "9eab02843b516c339ea1bfc0c37886edcab91384",
+  "protected_PR2": [
+    "content/llms.txt",
+    "scripts/build.mjs",
+    "templates/site.mjs"
+  ],
+  "requested_permission": "Allow only the existing builder generated public/search-index.json text projection to refresh for the ten selected source paths after source findings edits. No generator or template edits.",
+  "allowed_index_fields": [
+    "text"
+  ],
+  "allowed_paths": [
+    "/sources/s-1255af89193a",
+    "/sources/s-324980b0826d",
+    "/sources/s-f4ab6cdc2d0b",
+    "/sources/s-b8033a33708a",
+    "/sources/s-a3ddbf43f296",
+    "/sources/s-aa0dd4c46340",
+    "/sources/s-f59f482c1c39",
+    "/sources/s-0e7d682e83f6",
+    "/sources/s-2f1daf6ca78b",
+    "/sources/s-5a6c89659a69"
+  ],
+  "unchanged_requirements": [
+    "all other index entry fields and objects byte-equivalent",
+    "entry count/order/URLs/schema unchanged",
+    "sitemap.xml/robots.txt/build-manifest.json byte-identical",
+    "home/directories/navigation/counts/unselected HTML unchanged",
+    "protected PR2 file bytes unchanged",
+    "no commit of generated public output required because ignored"
+  ],
+  "baseline_index_sha256": "3aa1e9927b6fc7b1cb836ef146004a3da56953e6339b5b95aa1c3be071f60b36",
+  "baseline_entries": 76,
+  "implementation": "Only source findings HTML data changes in data/sources.json; existing builder produces per-source HTML and text projection without a code change",
+  "source_selection": "evidence/selection.json",
+  "scope_note": "The exact proposed prose and text deltas will be supplied in an UNAPPLIED patch after original source reads. This proposal changes no policy or evidence acceptance."
+}

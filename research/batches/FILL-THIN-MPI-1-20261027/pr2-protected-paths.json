@@ -1,0 +1,15 @@
+{
+  "observed_local": "2026-10-27T17:27:13.725337+02:00",
+  "url": "https://github.com/paleofoundation/microplasticsindex/pull/2",
+  "state": "OPEN",
+  "draft": true,
+  "merged": false,
+  "head": "9939ef5d4cfe3a4572f716162e50249e2bbfb143",
+  "base": "9eab02843b516c339ea1bfc0c37886edcab91384",
+  "files": [
+    "content/llms.txt",
+    "scripts/build.mjs",
+    "templates/site.mjs"
+  ],
+  "provenance": "Fresh GitHub connector get_pr_info and list_pr_changed_filenames"
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "s-0e7d682e83f6-P1",
+    "source_id": "s-0e7d682e83f6",
+    "source_url": "https://doi.org/10.3390/molecules27092646",
+    "source_sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "locator": "PDF p. 3, sections 2.2-2.3",
+    "paraphrase": "The experiment recovered material from the tested containers using water-contact procedures before filtering the extracts for infrared examination. The nylon samples received a different preparation from the other container samples. Glass-beaker controls were treated alongside the samples. These conditions belong with the findings; they do not describe all containers or every use of a container with an actual meal.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-0e7d682e83f6-P2",
+    "source_id": "s-0e7d682e83f6",
+    "source_url": "https://doi.org/10.3390/molecules27092646",
+    "source_sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "locator": "PDF p. 4, section 2.4 Data Analysis",
+    "paraphrase": "The analysis compared recorded spectra with reference spectra at image-pixel locations. The authors state that the number of pixels represented the number of microplastics in their analysis. Chemical assignment of image locations can identify polymer signals, but that counting definition is not the same as reconstructing and counting separate physical particles. The library therefore retains the method description without transferring the paper's abundance estimates into a common particle-release comparison.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-0e7d682e83f6-P3",
+    "source_id": "s-0e7d682e83f6",
+    "source_url": "https://doi.org/10.3390/molecules27092646",
+    "source_sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "locator": "PDF p. 4, section 3.1 Abundances of Microplastics",
+    "paraphrase": "The reported material assignments include synthetic polymers and cellulose. The text excludes cellulose in one abundance description while including it in a later composition description, so the denominator needs attention before percentages are reused. The authors also discuss possible sources of material other than the original container. These observations support a cautious reading of composition and source attribution, rather than treating every identified object as newly shed plastic from the tested package.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-5a6c89659a69-P1",
+    "source_id": "s-5a6c89659a69",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp2-rev1.pdf",
+    "source_sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "locator": "PDF pp. 2-3, sections 1.0 and 2.0",
+    "paraphrase": "The supplied procedure uses visual microscopy for counts and Raman spectroscopy for chemical identification in treated drinking water. Samples are separated into size fractions before examination. A representative subset of counted particles is selected for spectroscopy, measured and photographed, and compared with reference spectra. The proportion confirmed as plastic is then used in estimating the microplastic count. The final estimate should therefore not be described as individual chemical confirmation of every object originally seen.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-5a6c89659a69-P2",
+    "source_id": "s-5a6c89659a69",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp2-rev1.pdf",
+    "source_sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "locator": "PDF p. 2, sections 1.2-1.5",
+    "paraphrase": "The scope states that sample collection protocols are outside this procedure and that extraction below its validated size fraction has not been validated by this method. It also distinguishes a minimum detectable amount from the sampled water volume and requires laboratories to establish their own values. These statements keep the method-specific measurement capability separate from a universal claim about every Raman instrument or the presence of still smaller particles.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-5a6c89659a69-P3",
+    "source_id": "s-5a6c89659a69",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp2-rev1.pdf",
+    "source_sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "locator": "PDF pp. 3-4, sections 1.6 and 3.0",
+    "paraphrase": "The procedure requires trained analysts to demonstrate acceptable performance. Its definitions distinguish air blanks, field blanks and laboratory reagent blanks because they address contamination introduced at different stages. Fortified blanks instead help evaluate recovery and analytical performance with added particles. A reliable interpretation reads the reported result alongside these controls, the particle-selection process and the implemented method. The procedure does not itself establish a clinical effect or a safe drinking-water concentration.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f4ab6cdc2d0b-P1",
+    "source_id": "s-f4ab6cdc2d0b",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2022/mp-hndbk.pdf",
+    "source_sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "locator": "PDF pp. 1-3, cover and sections 1-2",
+    "paraphrase": "This record concerns the supplied handbook version, whose cover is dated August 9, 2022. Its introduction describes a plan to gather and report drinking-water occurrence information in a systematic way. The stated purpose is to improve information about exposure while recognizing the technical and resource demands on water systems. That purpose is narrower than declaring a product safe or setting a general particle limit for food.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f4ab6cdc2d0b-P2",
+    "source_id": "s-f4ab6cdc2d0b",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2022/mp-hndbk.pdf",
+    "source_sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "locator": "PDF pp. 5-6, sections 4.2 and 4.3.1",
+    "paraphrase": "In its health-effects discussion, the handbook reports that the available evidence was insufficient to develop a notification level or other numerical guidance. It identifies gaps involving effect concentrations, mechanisms and exposure from different sources. Its analytical-method discussion separately describes laboratory comparison work used to evaluate extraction and identification procedures. Method performance and a health-based interpretation are separate questions in this supplied document.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f4ab6cdc2d0b-P3",
+    "source_id": "s-f4ab6cdc2d0b",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2022/mp-hndbk.pdf",
+    "source_sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "locator": "PDF pp. 6-8, sections 4.3.1-4.4",
+    "paraphrase": "The method comparison included spiked materials, laboratory blanks and objects that could be mistaken for plastic. The handbook also discusses training, method equivalency and contamination during sample collection. These details explain why a monitoring result depends on the implemented workflow and its controls. The supplied plan should be read with its version and intended water scope intact; its proposed implementation calendar is not presented here as a verified account of current operations.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f59f482c1c39-P1",
+    "source_id": "s-f59f482c1c39",
+    "source_url": "https://eur-lex.europa.eu/eli/dec_del/2024/1441/oj/eng",
+    "source_sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "locator": "PDF pp. 2-3, recitals 7-14 and Articles 1-2",
+    "paraphrase": "The supplied decision adopts the Annex methodology and addresses it to Member States. Its recitals distinguish techniques that can characterize individual objects from thermal techniques that quantify polymer mass. They also explain the need for representative sampling, workable monitoring procedures and consistent reporting. The decision concerns how to obtain and describe measurements within its water scope; it is not a report of concentrations found in a set of consumer products.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f59f482c1c39-P2",
+    "source_id": "s-f59f482c1c39",
+    "source_url": "https://eur-lex.europa.eu/eli/dec_del/2024/1441/oj/eng",
+    "source_sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "locator": "PDF pp. 5-6, Annex section 2, points 1-8",
+    "paraphrase": "The Annex combines collection, contamination control and recovery evaluation. Collection filters retain material for analysis, while procedural blanks follow corresponding preparation steps to assess contamination from equipment, reagents and the surrounding atmosphere. Recovery checks use identifiable added particles to examine the implemented procedure. These checks address different sources of measurement error. A blank does not measure recovery, and a recovery check does not establish that background contamination is absent.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-f59f482c1c39-P3",
+    "source_id": "s-f59f482c1c39",
+    "source_url": "https://eur-lex.europa.eu/eli/dec_del/2024/1441/oj/eng",
+    "source_sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "locator": "PDF p. 7, Annex section 2, points 10-17",
+    "paraphrase": "Particle identification is based on comparison with reference spectra, alongside information about size and shape. The reporting provisions retain the sampled volume, location and time, treatment, analytical instrument, subsampling and deviations from the method. Those details are necessary to understand a reported result. This record describes the supplied analytical instrument and its requirements, without converting it into a food-packaging release test, a clinical diagnostic method or a health-based concentration ceiling.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-2f1daf6ca78b-P1",
+    "source_id": "s-2f1daf6ca78b",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2023/2055/oj/eng",
+    "source_sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "locator": "PDF p. 11, Annex entry 78, definition and paragraph 1",
+    "paraphrase": "The supplied instrument defines the synthetic polymer microparticles covered by its entry before describing the restriction. Its definition includes physical and compositional conditions as well as exclusions for specified polymer classes. The restriction then concerns the placing on the market of substances or mixtures in which the particles confer a sought-after characteristic. Reading the definition and operative wording together is necessary; the document is not a simple statement that every object called microplastic is prohibited.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-2f1daf6ca78b-P2",
+    "source_id": "s-2f1daf6ca78b",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2023/2055/oj/eng",
+    "source_sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "locator": "PDF pp. 12-13, Annex entry 78, paragraphs 4-6",
+    "paraphrase": "The Annex distinguishes exclusions from the restriction for specified uses and circumstances, including particular contained, transformed or permanently incorporated particles. It also sets out application provisions that differ by use. These conditions are part of the supplied text and cannot be replaced by a single general claim about all plastic products. A particle released during a laboratory test does not, on its own, resolve the legal classification of a product under this entry.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-2f1daf6ca78b-P3",
+    "source_id": "s-2f1daf6ca78b",
+    "source_url": "https://eur-lex.europa.eu/eli/reg/2023/2055/oj/eng",
+    "source_sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "locator": "PDF pp. 13-14, Annex entry 78, paragraphs 7-12",
+    "paraphrase": "The text also contains information, disposal-instruction and reporting provisions for specified cases. Such provisions show why a description of the instrument must preserve the relevant use and conditions. This source record is a guide to the scope of the supplied version, rather than a current compliance determination for an individual licensee or product. It does not supply a health-based particle threshold for food, drinking water or human tissue.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-324980b0826d-P1",
+    "source_id": "s-324980b0826d",
+    "source_url": "https://doi.org/10.2760/109944",
+    "source_sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "locator": "PDF pp. 6 and 8, Abstract and Executive summary; printed pp. 4 and 6",
+    "paraphrase": "The report was prepared to support the development of a drinking-water measurement methodology. It reviews how samples were collected, how particles were separated and identified, and which descriptors laboratories could report. Its comparison includes fluorescence microscopy, vibrational microspectroscopy and thermal methods coupled to mass spectrometry. These techniques answer different measurement questions: counting chemically identified objects and measuring polymer mass are distinct outcomes.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-324980b0826d-P2",
+    "source_id": "s-324980b0826d",
+    "source_url": "https://doi.org/10.2760/109944",
+    "source_sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "locator": "PDF p. 58, section 9 Summary and conclusions; printed p. 56",
+    "paraphrase": "The conclusions explain why a method cannot be selected from instrument sensitivity alone. The measurement metric, size range, chemical specificity, accuracy and precision need to fit the monitoring question. Laboratory throughput and cost also affect whether a procedure can be used routinely. The report describes a practical choice among capabilities and limitations, rather than identifying a universally superior instrument for every sample.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-324980b0826d-P3",
+    "source_id": "s-324980b0826d",
+    "source_url": "https://doi.org/10.2760/109944",
+    "source_sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "locator": "PDF pp. 19 and 58, sections 2.4.5 and 9; printed pp. 17 and 56",
+    "paraphrase": "Background contamination is part of that comparison. Material introduced during handling can contribute substantially when the amount collected from water is small. The review also notes that filters and the subsequent analytical workflow determine which particles remain available for measurement. A published concentration therefore needs its sampling and size context before comparison with another study. The source is a technical review of available evidence, not a new survey of every drinking-water supply or a direct measurement of consumer health effects.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-b8033a33708a-P1",
+    "source_id": "s-b8033a33708a",
+    "source_url": "https://doi.org/10.2760/1240697",
+    "source_sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "locator": "PDF pp. 5 and 7, Abstract and Executive Summary; printed pp. 2 and 4",
+    "paraphrase": "This practical report explains how the drinking-water methodology can be implemented, using feasibility work and equipment examples from the JRC laboratory. It follows the earlier technical review but has a different role: showing the reasoning behind sampling, pretreatment, instrumental analysis and reporting choices. The laboratory examples illustrate implementation and limitations; they do not turn a named instrument into a universal method for every water or product.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-b8033a33708a-P2",
+    "source_id": "s-b8033a33708a",
+    "source_url": "https://doi.org/10.2760/1240697",
+    "source_sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "locator": "PDF pp. 20-21, sections 3.1-3.2; printed pp. 17-18",
+    "paraphrase": "Sampling and treatment affect what reaches the instrument. The report distinguishes collection filters from blank filters and explains how different particle fractions can need different analytical arrangements. Nonplastic matter can overload a filter, hide particles or interfere with chemical identification. Pretreatment may therefore be necessary, while transfer between supports can introduce particle loss. Direct analysis on a compatible collection filter can avoid that transfer, but compatibility depends on the sample and analytical method.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-b8033a33708a-P3",
+    "source_id": "s-b8033a33708a",
+    "source_url": "https://doi.org/10.2760/1240697",
+    "source_sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "locator": "PDF pp. 35-36, sections 4-5; printed pp. 32-33",
+    "paraphrase": "The adaptability discussion is conditional. Water with more suspended material and solid matrices can require substantial changes to sampling or preparation. The report also distinguishes particle-number data from the mass-based information needed for other applications. Those quantities cannot be assumed interchangeable. Its discussion of possible extensions is a starting point for evaluation, rather than evidence that the drinking-water procedure has already been validated for food, tissue, wastewater sludge or every source of environmental particles.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-aa0dd4c46340-P1",
+    "source_id": "s-aa0dd4c46340",
+    "source_url": "https://doi.org/10.2903/j.efsa.2016.4501",
+    "source_sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "locator": "PDF pp. 1 and 3, Abstract and Summary",
+    "paraphrase": "The statement reviews the evidence available to the Panel at the time of its assessment, with particular attention to seafood. Its summary separates removing biological material, detecting and counting objects, and characterizing their chemical identity. It notes that some preparation procedures can also damage plastics. A count cannot be interpreted fully without knowing what survived preparation and how the remaining objects were assigned to plastic.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-aa0dd4c46340-P2",
+    "source_id": "s-aa0dd4c46340",
+    "source_url": "https://doi.org/10.2903/j.efsa.2016.4501",
+    "source_sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "locator": "PDF pp. 3 and 23, Summary and section 4.1.1 Data gaps",
+    "paraphrase": "The Panel identifies limited occurrence data and incomplete quality-assurance reporting. Some studies did not clearly describe how contamination from air or equipment was controlled, or how plastic identity was determined. It also notes differences in the units used for seafood results. The scientific question is therefore broader than whether an object was seen: sampling, material identification, contamination controls and measurement basis all affect the strength of an occurrence finding.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-aa0dd4c46340-P3",
+    "source_id": "s-aa0dd4c46340",
+    "source_url": "https://doi.org/10.2903/j.efsa.2016.4501",
+    "source_sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "locator": "PDF pp. 22-24, sections 3.9, 4 and 5",
+    "paraphrase": "The conclusions and recommendations identify missing information on food processing, particle fate and toxicity relevant to human risk assessment. They call for standardized analytical methods, demonstrated quality assurance and better occurrence and toxicological evidence. These are conclusions of the supplied dated statement. They are not a description of every later study, a current worldwide legal register or a category-specific safe particle count. The source remains useful for understanding the assessment questions and gaps it actually addressed.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-a3ddbf43f296-P1",
+    "source_id": "s-a3ddbf43f296",
+    "source_url": "https://doi.org/10.1186/s43591-022-00030-6",
+    "source_sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "locator": "PDF pp. 1-3, Abstract and Method: Data collection and screening",
+    "paraphrase": "The paper reports an expert workshop and a critical appraisal of mammalian hazard studies. The participants screened studies for particle characterization, experimental design and usefulness for risk assessment. Oral exposure studies in living mammals were prioritized for the workshop assessment. The authors explain that extrapolation from cell experiments to whole organisms was not established for this particulate exposure question, so the different experimental systems were not treated as interchangeable evidence.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-a3ddbf43f296-P2",
+    "source_id": "s-a3ddbf43f296",
+    "source_url": "https://doi.org/10.1186/s43591-022-00030-6",
+    "source_sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "locator": "PDF pp. 1-2, Abstract",
+    "paraphrase": "The assessment found important weaknesses in the evidence available for deriving a human-health threshold. Laboratory exposures commonly used uniform particles from a limited polymer type, whereas environmental microplastics differ in composition and physical properties. The authors could not reliably extend those experiments into a demonstrated threshold for the heterogeneous particles encountered through drinking water. This is a limitation of the inference, rather than a finding that every possible exposure has the same effect.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-a3ddbf43f296-P3",
+    "source_id": "s-a3ddbf43f296",
+    "source_url": "https://doi.org/10.1186/s43591-022-00030-6",
+    "source_sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "locator": "PDF pp. 1-3, Abstract and Introduction",
+    "paraphrase": "The proposed screening approach was intended to inform monitoring and future research. It is distinct from a concentration shown to be safe for people and from an observed concentration in a particular product. The paper calls for stronger toxicity studies and better exposure information to support later assessment. Reading its screening calculations as a clinical cutoff would give them an authority and application the authors did not establish.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-1255af89193a-P1",
+    "source_id": "s-1255af89193a",
+    "source_url": "https://doi.org/10.1038/srep46838",
+    "source_sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "locator": "PDF p. 1, correction statement and replacement Figure 1",
+    "paraphrase": "The notice identifies an inversion of the panels in the original salt paper. In the replacement figure, the upper panel presents plastic-polymer categories and the lower panel presents pigment categories. A reader following the original figure should use the corrected panel assignment when deciding what material a bar represents. The correction therefore matters to classification, even though it is not another collection of salt samples.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-1255af89193a-P2",
+    "source_id": "s-1255af89193a",
+    "source_url": "https://doi.org/10.1038/srep46838",
+    "source_sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "locator": "PDF p. 1, correction statement",
+    "paraphrase": "The notice does not report a new sampling protocol, a new exposure experiment or a health assessment. Its contribution is the corrected presentation of the existing figure. It should accompany interpretation of that figure, while the original research paper remains necessary for the sampling, analytical methods and study limitations.",
+    "original_artifact": "Local authoritative library; see source-locations.json",
+    "new_quantified_scientific_result": false
+  }
+]

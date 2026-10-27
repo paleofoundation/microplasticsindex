@@ -1,0 +1,131 @@
+{
+  "base": "9eab02843b516c339ea1bfc0c37886edcab91384",
+  "branch": "codex/fill-thin-mpi-1",
+  "ranking": "outputs/fill-audit-3/ranked-thinnest-first.csv",
+  "ranking_sha256": "f7088afe2c7ff9256e92281c5fb87f01e7b042014da316525924113449f24ba9",
+  "selected": [
+    {
+      "rank": 4,
+      "url": "https://microplasticsindex.com/sources/s-1255af89193a",
+      "id": "s-1255af89193a",
+      "historical_words": 256,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_2_citations",
+      "source_sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7"
+    },
+    {
+      "rank": 6,
+      "url": "https://microplasticsindex.com/sources/s-324980b0826d",
+      "id": "s-324980b0826d",
+      "historical_words": 276,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400",
+      "source_sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1"
+    },
+    {
+      "rank": 8,
+      "url": "https://microplasticsindex.com/sources/s-f4ab6cdc2d0b",
+      "id": "s-f4ab6cdc2d0b",
+      "historical_words": 284,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_0_citations",
+      "source_sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960"
+    },
+    {
+      "rank": 9,
+      "url": "https://microplasticsindex.com/sources/s-b8033a33708a",
+      "id": "s-b8033a33708a",
+      "historical_words": 290,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400",
+      "source_sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20"
+    },
+    {
+      "rank": 10,
+      "url": "https://microplasticsindex.com/sources/s-a3ddbf43f296",
+      "id": "s-a3ddbf43f296",
+      "historical_words": 304,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_2_citations",
+      "source_sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8"
+    },
+    {
+      "rank": 11,
+      "url": "https://microplasticsindex.com/sources/s-aa0dd4c46340",
+      "id": "s-aa0dd4c46340",
+      "historical_words": 316,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400",
+      "source_sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372"
+    },
+    {
+      "rank": 12,
+      "url": "https://microplasticsindex.com/sources/s-f59f482c1c39",
+      "id": "s-f59f482c1c39",
+      "historical_words": 320,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_0_citations",
+      "source_sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a"
+    },
+    {
+      "rank": 13,
+      "url": "https://microplasticsindex.com/sources/s-0e7d682e83f6",
+      "id": "s-0e7d682e83f6",
+      "historical_words": 322,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_2_citations",
+      "source_sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91"
+    },
+    {
+      "rank": 14,
+      "url": "https://microplasticsindex.com/sources/s-2f1daf6ca78b",
+      "id": "s-2f1daf6ca78b",
+      "historical_words": 326,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400",
+      "source_sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594"
+    },
+    {
+      "rank": 16,
+      "url": "https://microplasticsindex.com/sources/s-5a6c89659a69",
+      "id": "s-5a6c89659a69",
+      "historical_words": 370,
+      "historical_thin": "yes",
+      "historical_reasons": "words<400;claims_with_0_citations",
+      "source_sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5"
+    }
+  ],
+  "held": [
+    {
+      "url": "https://microplasticsindex.com/topics",
+      "disposition": "HELD_PROTECTED_GENERATOR_OR_DIRECTORY",
+      "reason": "Directory content generated inside scripts/build.mjs protected by held PR2; any shared index/generator change requires GATE"
+    },
+    {
+      "url": "https://microplasticsindex.com/ingredients",
+      "disposition": "HELD_PROTECTED_GENERATOR_OR_DIRECTORY",
+      "reason": "Directory content generated inside scripts/build.mjs protected by held PR2; any shared index/generator change requires GATE"
+    },
+    {
+      "url": "https://microplasticsindex.com/products",
+      "disposition": "HELD_PROTECTED_GENERATOR_OR_DIRECTORY",
+      "reason": "Directory content generated inside scripts/build.mjs protected by held PR2; any shared index/generator change requires GATE"
+    },
+    {
+      "url": "https://microplasticsindex.com/sources/efsa-microplastics-food",
+      "disposition": "HELD_NO_BOUND_ORIGINAL_ARTIFACT",
+      "reason": "Existing agency-summary source record has no SHA256 or original artifact provenance; local held-snapshot search found no bound original; not promoted from copied site summary"
+    },
+    {
+      "url": "https://microplasticsindex.com/sources/fda-microplastics-foods",
+      "disposition": "HELD_NO_BOUND_ORIGINAL_ARTIFACT",
+      "reason": "Existing agency-summary source record has no SHA256 or original artifact provenance; local held-snapshot search found no bound original; not promoted from copied site summary"
+    }
+  ],
+  "skip": [
+    "/",
+    "/llms.txt",
+    "policy/utility"
+  ],
+  "note": "Ten PDF-backed source candidates in ranking order; additions/length remain conditional on inspected original support. Correction stays brief if its scope cannot support a longer account."
+}
