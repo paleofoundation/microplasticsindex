@@ -1,0 +1,24 @@
+{
+  "three_primary_pages_inspected": [
+    {
+      "file": "s-d2f3af1338e5-p4.png",
+      "sha256": "af984bb0df3d0cb5acbff62dd1f8c0d4d431fb1a13bc464fbb8a59bd12c9d3ed",
+      "visual_inspected": true,
+      "scope": "Braun Figure2 confirms staged sampling, controls and contamination caution; not a prevalence inference"
+    },
+    {
+      "file": "wang-2023-nanoplastic-scenarios-p3.png",
+      "sha256": "3e3cbd8a8392e5896bd62d22e968f9c053806b03560f44feb1cb863d4fac3f99",
+      "visual_inspected": true,
+      "scope": "Wang primary physicalpage3 confirms cleaning, scenario controls, sequential membranes and ultrasound; resolves duplicated text extraction layout"
+    },
+    {
+      "file": "s-b77f33e84d3c-p3.png",
+      "sha256": "421bac33406d4dd8c90953c26df917e81cd386cc369838cc9db33550df24611e",
+      "visual_inspected": true,
+      "scope": "Bai physicalpage3 confirms random selected-particle chemical identification and morphology; no total air/dust dose"
+    }
+  ],
+  "not_redistributed": true,
+  "poppler_warning": "Font cache directories unwritable; three render commands exited0 and PNGs were visually inspected"
+}

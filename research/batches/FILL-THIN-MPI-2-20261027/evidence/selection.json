@@ -1,0 +1,248 @@
+{
+  "frozen_ranked_sha256": "f7088afe2c7ff9256e92281c5fb87f01e7b042014da316525924113449f24ba9",
+  "base": "939fc8e7c06ecb8cfd059cbb05fbb91737540db8",
+  "branch": "codex/fill-thin-mpi-2",
+  "selected": [
+    {
+      "mpi_rank": 17,
+      "url": "https://microplasticsindex.com/sources/s-44cb9cefe164",
+      "id": "s-44cb9cefe164",
+      "title": "Disposable wet-wipes as potential source of pollution: Multi-analytical investigation of the composition of fibres and additives",
+      "source_sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+      "source_url": "https://doi.org/10.1016/j.jaap.2025.107200",
+      "provenance": {
+        "library_folder": "papers-baby-wipes",
+        "filename": "Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+        "locator": "PDF pp. 2-3 methods; pp. 4-10 results; p. 9 Table 4.",
+        "manifest_hash_matches": true,
+        "primary_identity_verified": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-baby-wipes",
+            "filename": "Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf"
+          }
+        ]
+      },
+      "before_words": 376,
+      "historical_flags": "words<400",
+      "findings_sha256": "1267a69c7e303cb0c28dd33ac6bfda0616926b503897e342a2bcaf6becda5f22"
+    },
+    {
+      "mpi_rank": 18,
+      "url": "https://microplasticsindex.com/sources/s-d2f3af1338e5",
+      "id": "s-d2f3af1338e5",
+      "title": "Detection of Microplastic in Human Placenta and Meconium in a Clinical Setting",
+      "source_sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+      "source_url": "https://doi.org/10.3390/pharmaceutics13070921",
+      "provenance": {
+        "library_folder": "papers-human-biomonitoring",
+        "filename": "2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+        "locator": "PDF pp. 3-8 \u00a7\u00a72-3 and Tables 1-2",
+        "manifest_hash_matches": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-human-biomonitoring",
+            "filename": "2021_Braun_detection-of-microplastic-in-human-placenta.pdf"
+          }
+        ]
+      },
+      "before_words": 380,
+      "historical_flags": "words<400;claims_with_2_citations",
+      "findings_sha256": "fc3a0f063a8b42750c462b9fcc33c7d5a5bceaf0c4777a39582d4eb19b17c98e"
+    },
+    {
+      "mpi_rank": 19,
+      "url": "https://microplasticsindex.com/sources/s-bf013e1859f6",
+      "id": "s-bf013e1859f6",
+      "title": "Evolution of Microplastics Released from Tea Bags into Water",
+      "source_sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+      "source_url": "https://doi.org/10.3390/polym17192700",
+      "provenance": {
+        "library_folder": "papers-tea-bags",
+        "filename": "2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+        "locator": "PDF pp. 3-5 methods and Table 1; pp. 5-9 particle dynamics; pp. 10-11 interpretation.",
+        "manifest_hash_matches": true,
+        "primary_identity_verified": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-tea-bags",
+            "filename": "2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf"
+          }
+        ]
+      },
+      "before_words": 382,
+      "historical_flags": "words<400;claims_with_2_citations",
+      "findings_sha256": "1d9726f73f93e6c80a3c9e6c5234a10d086e87ef2dd545cdd3f42942c0a50ffb"
+    },
+    {
+      "mpi_rank": 20,
+      "url": "https://microplasticsindex.com/sources/s-70a2257b7f9b",
+      "id": "s-70a2257b7f9b",
+      "title": "Hidden Threats in Infant Diets and Environment: Risks of Microplastics and Nanoplastics in Food",
+      "source_sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+      "source_url": "https://doi.org/10.1007/s44169-025-00099-z",
+      "provenance": {
+        "library_folder": "papers-infant-food-puree",
+        "filename": "2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+        "locator": "PDF p. 1 review identity; pp. 9-12 infant-food sections and Table 3; pp. 22-23 limitations and license.",
+        "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-infant-food-puree/2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+        "manifest_hash_matches": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-infant-food-puree",
+            "filename": "2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf"
+          }
+        ]
+      },
+      "before_words": 388,
+      "historical_flags": "words<400;claims_with_2_citations",
+      "findings_sha256": "b46aec2d2037c140fae1fb79b968984c5bc9f5d3f7334f605cca105a02a2cff4"
+    },
+    {
+      "mpi_rank": 21,
+      "url": "https://microplasticsindex.com/sources/s-2f979a7f686b",
+      "id": "s-2f979a7f686b",
+      "title": "SWB-MP1-rev1: Infrared spectroscopy of microplastic particles in drinking water",
+      "source_sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+      "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp1-rev1.pdf",
+      "provenance": {
+        "library_folder": "regulatory-method",
+        "filename": "CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+        "manifest_hash_matches": true,
+        "review_scope": "Selected methods/results and stated source locators; no claim of exhaustive systematic review",
+        "authoritative_library_matches": [
+          {
+            "folder": "regulatory-method",
+            "filename": "CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf"
+          }
+        ]
+      },
+      "before_words": 389,
+      "historical_flags": "words<400;claims_with_0_citations",
+      "findings_sha256": "f241080b01a1bd2a3f89aad7eddba36a54b1465643406578b2815640c34d702b"
+    },
+    {
+      "mpi_rank": 22,
+      "url": "https://microplasticsindex.com/sources/s-cb575acb0f42",
+      "id": "s-cb575acb0f42",
+      "title": "Occurrence and characteristics of microplastics in South African beverages",
+      "source_sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+      "source_url": "https://doi.org/10.1016/j.envpol.2024.125388",
+      "provenance": {
+        "library_folder": "papers-beer",
+        "filename": "2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+        "locator": "PDF pp. 1-3 \u00a7\u00a72.1-2.5; pp. 4-7 \u00a7\u00a73.1-3.9; p. 8 conclusions.",
+        "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-beer/2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+        "manifest_hash_matches": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-beer",
+            "filename": "2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf"
+          }
+        ]
+      },
+      "before_words": 396,
+      "historical_flags": "words<400;claims_with_2_citations",
+      "findings_sha256": "a86b52ca52131d86756aef047520821d3858ff98d3f4d67a5dcf9528b241970b"
+    },
+    {
+      "mpi_rank": 23,
+      "url": "https://microplasticsindex.com/sources/wang-2023-nanoplastic-scenarios",
+      "id": "wang-2023-nanoplastic-scenarios",
+      "title": "Simulation and Characterization of Nanoplastic Dissolution under Different Food Consumption Scenarios",
+      "source_sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+      "source_url": "https://doi.org/10.3390/toxics11070550",
+      "provenance": {
+        "archive": "mp-MP3-20261020T044550Z.zip",
+        "archive_member": "MP3/pdfs/740e6d15368a653d.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "manifest_hash_matches": true
+      },
+      "before_words": 416,
+      "historical_flags": "claims_with_2_citations",
+      "findings_sha256": "58261cd372da197500938712b65fd9e6a19fa1d8f4acf1a1b1cfb59f0d093526"
+    },
+    {
+      "mpi_rank": 24,
+      "url": "https://microplasticsindex.com/sources/s-6776e996b5cf",
+      "id": "s-6776e996b5cf",
+      "title": "Microplastic Migration from Plastic Packaging into Honey",
+      "source_sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+      "source_url": "https://doi.org/10.3390/microplastics4040090",
+      "provenance": {
+        "library_folder": "papers-honey",
+        "filename": "2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+        "locator": "PDF pp. 3-7 \u00a7\u00a72.1-2.7; pp. 7-13 \u00a7\u00a73.1-3.3 and Table 1; pp. 14-16 polymer discussion; p. 22 conclusions.",
+        "primary_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+        "manifest_hash_matches": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-honey",
+            "filename": "2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf"
+          }
+        ]
+      },
+      "before_words": 442,
+      "historical_flags": "claims_with_2_citations",
+      "findings_sha256": "911e978e04bf5af1a687f05b5501255a3804a96cf8a741aeea969d3434b6d64a"
+    },
+    {
+      "mpi_rank": 25,
+      "url": "https://microplasticsindex.com/sources/s-b77f33e84d3c",
+      "id": "s-b77f33e84d3c",
+      "title": "Investigation of indoor microplastics in settled indoor house dust in single-person residential buildings in Japan",
+      "source_sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+      "source_url": "https://doi.org/10.1002/2475-8876.70013",
+      "provenance": {
+        "library_folder": "papers-household-dust-air",
+        "filename": "2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+        "locator": "PDF pp. 1-4 \u00a7\u00a72-3.2; p. 8 limitations",
+        "manifest_hash_matches": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-household-dust-air",
+            "filename": "2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf"
+          }
+        ]
+      },
+      "before_words": 475,
+      "historical_flags": "claims_with_2_citations",
+      "findings_sha256": "c7c0714d2841e3ba6c6580d185ca6ed7ebe07510c079620c2b216fddead5a818"
+    },
+    {
+      "mpi_rank": 26,
+      "url": "https://microplasticsindex.com/sources/s-6f1a18e62816",
+      "id": "s-6f1a18e62816",
+      "title": "From the Well to the Bottle: Identifying Sources of Microplastics in Mineral Water",
+      "source_sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+      "source_url": "https://doi.org/10.3390/w13060841",
+      "provenance": {
+        "library_folder": "papers-bottled-drinking-water",
+        "filename": "2021_Weier_from-the-well-to-the-bottle.pdf",
+        "locator": "PDF pp. 3-8 methods/QA; p. 9 \u00a73.2; pp. 10-12 closure-source analysis.",
+        "manifest_hash_matches": true,
+        "primary_identity_verified": true,
+        "authoritative_library_matches": [
+          {
+            "folder": "papers-bottled-drinking-water",
+            "filename": "2021_Weier_from-the-well-to-the-bottle.pdf"
+          }
+        ]
+      },
+      "before_words": 488,
+      "historical_flags": "claims_with_2_citations",
+      "findings_sha256": "7721564900c152d696941f602e141859160dc0eecf9ddcf8454d23c7fa516252"
+    }
+  ],
+  "scope": "PROPOSED pending shared source-file GATE and original review; all10 use MPI1 data/sources.json"
+}

@@ -1,0 +1,18 @@
+{
+  "v1_sha256": "f4289d4ee5211f726664fcc54aa51d1f9f45baf38df6bae7865246462e53afd0",
+  "v2_sha256": "4fde6ec03a19dd0a3b5057b910be6256f8fcb666642acd2bc703ed0e37232212",
+  "corrected_only_initializer_labels_for10records": [
+    "s-44cb9cefe164",
+    "s-d2f3af1338e5",
+    "s-bf013e1859f6",
+    "s-70a2257b7f9b",
+    "s-2f979a7f686b",
+    "s-cb575acb0f42",
+    "s-6776e996b5cf",
+    "s-b77f33e84d3c",
+    "s-6f1a18e62816",
+    "wang-2023-nanoplastic-scenarios"
+  ],
+  "scientific_source_hash_page_and_candidate_fields_unchanged": true,
+  "V1_preserved": true
+}

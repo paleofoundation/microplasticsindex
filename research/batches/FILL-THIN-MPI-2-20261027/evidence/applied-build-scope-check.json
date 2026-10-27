@@ -1,0 +1,65 @@
+{
+  "checked_utc": "2026-10-27T16:43:54.188821+00:00",
+  "state": "PASS scoped actual build; not scientific or release approval",
+  "base": "939fc8e7c06ecb8cfd059cbb05fbb91737540db8",
+  "source_records": 49,
+  "selected_records_changed": [
+    "wang-2023-nanoplastic-scenarios",
+    "s-2f979a7f686b",
+    "s-44cb9cefe164",
+    "s-bf013e1859f6",
+    "s-6f1a18e62816",
+    "s-cb575acb0f42",
+    "s-6776e996b5cf",
+    "s-70a2257b7f9b",
+    "s-b77f33e84d3c",
+    "s-d2f3af1338e5"
+  ],
+  "changed_field_only": "findings",
+  "unchanged_source_objects": 39,
+  "allMPI1_ten_source_objects_unchanged": true,
+  "MPI1_packet_files_frozen": 33,
+  "all80claim_bytes_unchanged": true,
+  "PR2_protected": {
+    "content/llms.txt": null,
+    "scripts/build.mjs": "a881b278fa81c36f3ba9c15d47139e5ddc292bbcb567545d1639c53f2c828d8b",
+    "templates/site.mjs": "4aff52a0313f1d86d1905f8f52db98770914c710b5bd68c9345073bbe130a630"
+  },
+  "public_file_set": 85,
+  "changed_public_files": [
+    "search-index.json",
+    "sources/s-b77f33e84d3c.html",
+    "sources/s-70a2257b7f9b.html",
+    "sources/wang-2023-nanoplastic-scenarios.html",
+    "sources/s-6776e996b5cf.html",
+    "sources/s-2f979a7f686b.html",
+    "sources/s-44cb9cefe164.html",
+    "sources/s-d2f3af1338e5.html",
+    "sources/s-bf013e1859f6.html",
+    "sources/s-6f1a18e62816.html",
+    "sources/s-cb575acb0f42.html"
+  ],
+  "unselected_public_files_byte_identical": 74,
+  "index76count_order_metadata_urls_schema_unchanged": true,
+  "index10text_fields_exact_proposal": true,
+  "all20paraphrases_hrefs_locators_exact": true,
+  "source_artifact_hashes_freshly_rechecked": 10,
+  "adapter_unchanged": true,
+  "actual_HTML_hashes_match_scratch_prediction": true,
+  "remaining_thin": [
+    {
+      "url": "https://microplasticsindex.com/sources/s-2f979a7f686b",
+      "before_words": 389,
+      "after_words": 554,
+      "before_citation_links": 0,
+      "after_citation_links": 0,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_0_citations",
+      "after_reasons": "claims_with_0_citations",
+      "source_families": 1,
+      "html_sha256": "1976c7500d6de5e8dc753ba7242c12940ae82fb9c0d8f78e86e5a1e1547a75f3"
+    }
+  ],
+  "live_effect": false
+}

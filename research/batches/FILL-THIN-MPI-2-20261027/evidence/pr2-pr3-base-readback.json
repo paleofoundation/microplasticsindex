@@ -1,0 +1,27 @@
+{
+  "checked_utc": "2026-10-27T16:43:21.707Z",
+  "prs": [
+    {
+      "pr": 2,
+      "url": "https://github.com/paleofoundation/microplasticsindex/pull/2",
+      "head": "codex/mpi-llms-1",
+      "head_sha": "9939ef5d4cfe3a4572f716162e50249e2bbfb143",
+      "base": "main",
+      "base_sha": "9eab02843b516c339ea1bfc0c37886edcab91384",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    },
+    {
+      "pr": 3,
+      "url": "https://github.com/paleofoundation/microplasticsindex/pull/3",
+      "head": "codex/fill-thin-mpi-1",
+      "head_sha": "939fc8e7c06ecb8cfd059cbb05fbb91737540db8",
+      "base": "main",
+      "base_sha": "9eab02843b516c339ea1bfc0c37886edcab91384",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    }
+  ]
+}

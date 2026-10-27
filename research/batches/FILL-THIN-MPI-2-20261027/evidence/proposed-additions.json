@@ -1,0 +1,182 @@
+[
+  {
+    "id": "s-44cb9cefe164-P1",
+    "source_id": "s-44cb9cefe164",
+    "source_url": "https://doi.org/10.1016/j.jaap.2025.107200",
+    "source_sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+    "locator": "PDF p. 2, section 2.1 Samples",
+    "paraphrase": "The investigators grouped unused commercial wipes according to their package descriptions before applying complementary analytical techniques. Samples were air-dried before analysis because water could interfere with the measurements. This preparation made the material suitable for composition testing, but it also means that the analyzed specimen was not a wet wipe being used on skin or released into a sewer. The experiment addresses what the selected materials contain rather than how much they shed during use.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-44cb9cefe164-P2",
+    "source_id": "s-44cb9cefe164",
+    "source_url": "https://doi.org/10.1016/j.jaap.2025.107200",
+    "source_sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+    "locator": "PDF pp. 1-2, Abstract and analytical-protocol description",
+    "paraphrase": "The techniques served different purposes within that composition assessment. Electron microscopy examined fiber morphology, infrared spectroscopy examined material chemistry, and thermal methods separated signals associated with additives and fibers. Agreement between these approaches strengthens an assignment of material composition. It does not convert that assignment into a measured environmental release, an infant exposure estimate or a biodegradation result. The authors describe extension of the protocol to degradation and environmental samples as further work.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-d2f3af1338e5-P1",
+    "source_id": "s-d2f3af1338e5",
+    "source_url": "https://doi.org/10.3390/pharmaceutics13070921",
+    "source_sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+    "locator": "PDF p. 3, sections 2.1-2.2 Study Population and Sample Collecting",
+    "paraphrase": "The clinical pilot changed its sampling procedure after examining the initial results. The later phase included washed placental tissue, tissue taken from the placental core and a collection of airborne fallout in the operating room. Materials used in delivery and preparation were also investigated. These comparisons are central to the study question: a signal in a clinical specimen must be considered alongside opportunities for contamination during collection and handling.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-d2f3af1338e5-P2",
+    "source_id": "s-d2f3af1338e5",
+    "source_url": "https://doi.org/10.3390/pharmaceutics13070921",
+    "source_sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+    "locator": "PDF pp. 8-9, results and Discussion",
+    "paraphrase": "The discussion shows why the controls affect source attribution. Polymer findings in clinical materials and airborne fallout complicated the interpretation of signals in biological samples. A polymer that appeared informative in the initial phase could also be found in a possible contamination source examined later. The paper therefore supports attention to sampling and contamination control; this pilot does not establish population prevalence, a route from a particular consumer product or a demonstrated clinical consequence.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-bf013e1859f6-P1",
+    "source_id": "s-bf013e1859f6",
+    "source_url": "https://doi.org/10.3390/polym17192700",
+    "source_sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+    "locator": "PDF pp. 3-4, sections 2.2-2.4",
+    "paraphrase": "Different measurements in this experiment describe different properties. Infrared and thermal analyses characterized the tea-bag material, while light scattering and particle tracking characterized the resulting suspensions. Electrophoretic measurements addressed particle mobility and surface behavior. The tea leaves were removed, and washed pieces of bag material were used. Keeping those preparations and endpoints separate prevents a suspended-object count from being presented as individual chemical confirmation of every particle in an ordinary cup of tea.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-bf013e1859f6-P2",
+    "source_id": "s-bf013e1859f6",
+    "source_url": "https://doi.org/10.3390/polym17192700",
+    "source_sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+    "locator": "PDF pp. 4 and 10, section 2.4 and Conclusions",
+    "paraphrase": "The biological endpoint was a cell-culture viability assay using an intestinal epithelial model. That experiment answers a narrower question than long-term effects in people drinking tea. The conclusions discuss differences between synthetic-polymer and cellulose particles and call for further health assessment of intake. Cellulose-derived material remains distinct from synthetic plastic in interpreting these experiments. The reported laboratory observations do not provide a consumer-wide safety determination or a measured human health outcome.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-70a2257b7f9b-P1",
+    "source_id": "s-70a2257b7f9b",
+    "source_url": "https://doi.org/10.1007/s44169-025-00099-z",
+    "source_sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+    "locator": "PDF pp. 1 and 9, review identity, Abstract and infant-food discussion",
+    "paraphrase": "This article brings together exposure pathways and findings reported in other publications. Its discussion of infant foods moves between breast milk, water, formula and other dietary sources, with references attached to the underlying studies. Those categories cannot be collapsed into a measurement of packaged infant puree. The review can help identify questions and original papers for later assessment, while the sampling conditions and analytical results remain the responsibility of each cited investigation.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-70a2257b7f9b-P2",
+    "source_id": "s-70a2257b7f9b",
+    "source_url": "https://doi.org/10.1007/s44169-025-00099-z",
+    "source_sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+    "locator": "PDF p. 22, Perspectives for Future Research",
+    "paraphrase": "The future-research section identifies analytical limitations and a need for consistent methods and reporting units. It also states that much of the toxicological evidence comes from animal models and that applying those findings to human health has substantial limitations. That distinction matters when reading the broader discussion of infant vulnerability. This source is a synthesis of concerns and research gaps, rather than a new clinical experiment or an independently measured product concentration.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-2f979a7f686b-P1",
+    "source_id": "s-2f979a7f686b",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp1-rev1.pdf",
+    "source_sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+    "locator": "PDF pp. 2-3, sections 1.0-2.0",
+    "paraphrase": "The procedure first counts objects by microscopy and then uses infrared spectroscopy on a representative selection to establish material identity. The confirmed proportion is applied to the microscopy count to estimate microplastic abundance. This is different from chemically identifying every object originally counted. The method also places sample collection outside its scope and limits validation to its stated particle-size range. Neither a filter fraction nor an instrument name establishes capability for all smaller particles.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-2f979a7f686b-P2",
+    "source_id": "s-2f979a7f686b",
+    "source_url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/microplastics/swb-mp1-rev1.pdf",
+    "source_sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+    "locator": "PDF pp. 3-4, section 3.0 Definitions",
+    "paraphrase": "The document distinguishes controls according to the stage and question they address. Field blanks examine contamination associated with collection and transport; laboratory reagent blanks follow the analytical process; fortified blanks contain added particles to evaluate performance. These controls are complementary. A clean background result alone does not demonstrate recovery of particles, and successful recovery does not show that background contamination is absent. Interpreting an implemented method requires the corresponding control results and trained analytical work.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-cb575acb0f42-P1",
+    "source_id": "s-cb575acb0f42",
+    "source_url": "https://doi.org/10.1016/j.envpol.2024.125388",
+    "source_sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+    "locator": "PDF pp. 2-3, sections 2.2-2.4",
+    "paraphrase": "The beverage study compared selected alcoholic and nonalcoholic products sold in different packaging materials. Its preparation combined filtration and chemical treatment with staining intended to distinguish natural material from candidate plastic particles. Physical appearance was recorded separately from Raman-based chemical characterization. The spectroscopy covered a subset of the unstained particles. The resulting classifications therefore depend on both the preparation decisions and the extent of chemical identification, rather than appearance alone.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-cb575acb0f42-P2",
+    "source_id": "s-cb575acb0f42",
+    "source_url": "https://doi.org/10.1016/j.envpol.2024.125388",
+    "source_sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+    "locator": "PDF p. 3, sections 2.5-2.6",
+    "paraphrase": "The paper also calculates intake and contamination indicators using measured concentrations together with assumed consumption, body-weight or literature-reference inputs. These derived indicators are not direct observations of individual consumption or clinical effects. They must remain separate from the analytical finding that candidate particles were recovered from a beverage. This source record does not adopt a numerical beer concentration or turn a comparison between packaging groups into proof that packaging was the sole source.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "wang-2023-nanoplastic-scenarios-P1",
+    "source_id": "wang-2023-nanoplastic-scenarios",
+    "source_url": "https://doi.org/10.3390/toxics11070550",
+    "source_sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+    "locator": "PDF pp. 3-4, sample preparation and Figure 2",
+    "paraphrase": "The packaging materials underwent extensive cleaning and chemical treatment before the simulated contact experiments. Water without packaging contact was used for corresponding controls. The materials represented different scenarios, including a takeaway box and films used for composite food packaging. Those treatments and product forms are part of the experiment. They do not describe an untreated package in every household use, and the heat-sealing films should not be relabeled as consumer zip-top bags.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "wang-2023-nanoplastic-scenarios-P2",
+    "source_id": "wang-2023-nanoplastic-scenarios",
+    "source_url": "https://doi.org/10.3390/toxics11070550",
+    "source_sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+    "locator": "PDF p. 3 and continuation on p. 4, filtration and ultrasound preparation",
+    "paraphrase": "The workflow separated material with sequential membranes and then prepared specimens for microscopy and dispersed samples for further analysis. Ultrasound was applied during preparation, and the text acknowledges that it can alter particle size and dispersibility. A nominal membrane fraction is therefore not a guarantee that the later dispersion contains only separate objects within that interval. This record retains the characterization context without deriving a release concentration or treating non-detection in another material as general safety.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-6776e996b5cf-P1",
+    "source_id": "s-6776e996b5cf",
+    "source_url": "https://doi.org/10.3390/microplastics4040090",
+    "source_sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+    "locator": "PDF pp. 4-5, sections 2.2-2.3",
+    "paraphrase": "The honey investigation illustrates why reagent controls belong alongside a packaging comparison. The authors found a matching polymer signal associated with the container of an initially used reagent and changed the reagent supply for later experiments. Sample processing also required warming, dilution, digestion, density separation and filtration. Material observed at the end of this workflow has to be interpreted with those handling steps and contamination checks, rather than attributed automatically to the original pouch.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-6776e996b5cf-P2",
+    "source_id": "s-6776e996b5cf",
+    "source_url": "https://doi.org/10.3390/microplastics4040090",
+    "source_sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+    "locator": "PDF pp. 5-6, sections 2.3-2.6",
+    "paraphrase": "Raman measurements were compared with the inside and outside packaging materials, while infrared measurements characterized the packaging itself. A separate extraction and chromatography workflow investigated chemical migrants in honey. These are distinct analytical endpoints: identification of a dissolved or extractable compound does not count plastic particles. This source record preserves those distinctions and the preparation limits. It does not adopt the paper's extrapolated particle totals or convert them into an intake or mass estimate.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-b77f33e84d3c-P1",
+    "source_id": "s-b77f33e84d3c",
+    "source_url": "https://doi.org/10.1002/2475-8876.70013",
+    "source_sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+    "locator": "PDF p. 2, sections 2.1-2.2",
+    "paraphrase": "Participants collected settled floor dust using household vacuum cleaners, and a questionnaire recorded features of their living spaces. That design links the recovered material to the sampled residences and collection procedure. It is not an air sampler measuring what a resident breathed. Differences between building or furnishing categories in this observational survey also do not isolate a single source, because the recorded household features were not controlled experimental exposures.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-b77f33e84d3c-P2",
+    "source_id": "s-b77f33e84d3c",
+    "source_url": "https://doi.org/10.1002/2475-8876.70013",
+    "source_sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+    "locator": "PDF pp. 2-3, sections 2.3-2.4",
+    "paraphrase": "The chemical analysis used particles selected from sieved size fractions, while optical and electron microscopy described morphology. Composition among the selected particles is a different quantity from the total amount of dust, an airborne concentration or an inhaled dose. Cellulose and synthetic polymers must also remain distinct when interpreting the material categories. The source supports a description of the selected settled-dust samples, with the sampling and identification limits retained rather than extended to all indoor exposure.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-6f1a18e62816-P1",
+    "source_id": "s-6f1a18e62816",
+    "source_url": "https://doi.org/10.3390/w13060841",
+    "source_sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+    "locator": "PDF p. 5, section 2.3 FTIR Imaging and Data Evaluation",
+    "paraphrase": "The analysis used infrared images from a selected part of each filter and a trained classification model. Classification results were manually checked, and the accepted counts were extrapolated to the full filter and normalized to the sampled volume. The training data included plastics, natural material and filter-related backgrounds. This explains why the result depends on chemical classification, selection of the measured area and the particle rules, rather than being a simple count of every visible object.",
+    "new_quantified_scientific_result": false
+  },
+  {
+    "id": "s-6f1a18e62816-P2",
+    "source_id": "s-6f1a18e62816",
+    "source_url": "https://doi.org/10.3390/w13060841",
+    "source_sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+    "locator": "PDF p. 6, sections 2.4.2-2.4.4",
+    "paraphrase": "Procedural blanks were carried through the handling steps, and detection limits were calculated for the sample types. Separate recovery experiments tested particle losses during preparation, while chemical-stability checks considered effects of the treatment reagents. These checks answer different questions about the measurement. A result below the blank-based detection limit is not evidence that every particle is absent, and recovery for the tested particles does not establish equivalent performance for all sizes and polymers.",
+    "new_quantified_scientific_result": false
+  }
+]
