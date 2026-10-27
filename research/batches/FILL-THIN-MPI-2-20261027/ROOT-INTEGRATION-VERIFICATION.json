@@ -1,0 +1,86 @@
+{
+  "at": "2026-10-27T18:50:19.403472+02:00",
+  "decision": "PASS_EXACT_APPLIED_CONTENT_SCOPE_AND_ROOT_UI",
+  "base": "939fc8e7c06ecb8cfd059cbb05fbb91737540db8",
+  "sourceReceiptV1Sha256": "f4289d4ee5211f726664fcc54aa51d1f9f45baf38df6bae7865246462e53afd0",
+  "sourceReceiptV2Sha256": "4fde6ec03a19dd0a3b5057b910be6256f8fcb666642acd2bc703ed0e37232212",
+  "candidateSha256": "b8da2d51bd17a01049f911d94da8ad1b7848488866ad37785e0083765ce22ae8",
+  "independentAssertions": {
+    "freshBaseGitblobOtherTrackedFilesEqual": 87,
+    "changedFindingsOnly": 10,
+    "unchangedSourceObjects": 39,
+    "MPI1TenRecordsFrozen": true,
+    "MPI1Packet33FilesFrozen": true,
+    "all80ClaimBytesFrozen": true,
+    "all20ParagraphTextUrlLocatorExact": true,
+    "publicFileSet": 85,
+    "changedSourceHtml": 10,
+    "otherPublicFilesByteIdentical": 74,
+    "indexCountOrderPathsSchemaOtherFieldsUnchanged": 76,
+    "indexTextExactGrantedDeltaEntries": 10
+  },
+  "rootBrowserObserved": {
+    "baseUrl": "http://127.0.0.1:4317",
+    "mobileRoutes": [
+      "s-44cb9cefe164",
+      "s-d2f3af1338e5",
+      "s-bf013e1859f6",
+      "s-70a2257b7f9b",
+      "s-2f979a7f686b",
+      "s-cb575acb0f42",
+      "wang-2023-nanoplastic-scenarios",
+      "s-6776e996b5cf",
+      "s-b77f33e84d3c",
+      "s-6f1a18e62816"
+    ],
+    "mobileViewport": [
+      390,
+      844
+    ],
+    "mobilePageScrollWidths": [
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390
+    ],
+    "exactLinksWithTextAndLocator": 20,
+    "desktopSourceHomeFoodStorageWidths": [
+      1440,
+      1440,
+      1440
+    ],
+    "visuals": [
+      "Well-to-bottle 390px paragraph and source-locator wrapping visually inspected",
+      "Braun 1440px source intro and columns visually inspected"
+    ],
+    "warnErrorLogsObserved": [],
+    "ownTab34Closed": true,
+    "viewportReset": true
+  },
+  "privateDomObservations": {
+    "mobileSha256": "911b7c143e4c9054499b21af9d6301ed36fe700cda5d048de2c5096a60d3df82",
+    "desktopSha256": "a4e4d3b96d6f102d6eefc83b94a1313d66d639b00c7496d62402a0dd472c3888"
+  },
+  "remainingThinFlags": [
+    {
+      "url": "https://microplasticsindex.com/sources/s-2f979a7f686b",
+      "before_words": 389,
+      "after_words": 554,
+      "before_citation_links": 0,
+      "after_citation_links": 0,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_0_citations",
+      "after_reasons": "claims_with_0_citations",
+      "source_families": 1,
+      "html_sha256": "1976c7500d6de5e8dc753ba7242c12940ae82fb9c0d8f78e86e5a1e1547a75f3"
+    }
+  ],
+  "limits": "Build/public byte comparisons use pre-apply hash-bound baseline snapshot. Initial BeautifulSoup space-separator assertion rejected injected punctuation spacing; corrected to literal DOM textContent and all20 match independently of browser checks. Local browser only; no hosted originals, live deployment, host gaming, new quantities, grades, full scientific acceptance or release."
+}

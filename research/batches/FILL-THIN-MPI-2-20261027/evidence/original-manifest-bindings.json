@@ -1,0 +1,97 @@
+{
+  "checked_utc": "2026-10-27T16:45:30.745253+00:00",
+  "records": [
+    {
+      "id": "s-44cb9cefe164",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-baby-wipes/sha256.txt",
+      "manifest_sha256": "96016477759069609b41887a12dd37fda1712dafc1d1b9ba8158405e169500ab",
+      "supplied_line": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc  Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-d2f3af1338e5",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-human-biomonitoring/sha256.txt",
+      "manifest_sha256": "e8baea9af8944662cc3ea2bc9b10d9b6b4229f5da454d555f546ff861270bdc1",
+      "supplied_line": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd  2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-bf013e1859f6",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-tea-bags/sha256.txt",
+      "manifest_sha256": "bf0f1c652fb8ba411e04ec81c8cb9446f7c42bba90193be79ec1fd5f0ba18b42",
+      "supplied_line": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129  2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-70a2257b7f9b",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-infant-food-puree/sha256.txt",
+      "manifest_sha256": "7af668a1b07c14831b235439d14aed872a03a4b86ef1ea08e9f412b2bc510d30",
+      "supplied_line": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c  2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-2f979a7f686b",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/sha256.txt",
+      "manifest_sha256": "cae47e8d76d1ff4aae32326621e3b7076f7c0be4fec88b80846abdbc1af4f1a2",
+      "supplied_line": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f  CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-cb575acb0f42",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-beer/sha256.txt",
+      "manifest_sha256": "c7cff16d63b4bc45daad682c5bbf32522b8a289c79c397b5c1b7a0b551d9fc58",
+      "supplied_line": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477  2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-6776e996b5cf",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/sha256.txt",
+      "manifest_sha256": "0ffccc9966393c11cd708c09e3d1f5034e4f2255d312a5bc1a5a74453b131833",
+      "supplied_line": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa  2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-b77f33e84d3c",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-household-dust-air/sha256.txt",
+      "manifest_sha256": "d2120bf53d0a272014877adb69d045454046792783a5823c6a6980be783bc608",
+      "supplied_line": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3  2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "s-6f1a18e62816",
+      "kind": "Authoritative folder manifest",
+      "source_sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-bottled-drinking-water/sha256.txt",
+      "manifest_sha256": "11380be6d7b3a0a3a9b4e941c687178a763c379ea97916dc103fbb1059336733",
+      "supplied_line": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58  2021_Weier_from-the-well-to-the-bottle.pdf",
+      "current_artifact_match": true
+    },
+    {
+      "id": "wang-2023-nanoplastic-scenarios",
+      "kind": "Held acquisition archive and exact member",
+      "source_sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+      "archive_sha256": "bdc2847f7a65df2df0c2bd5dfd9d00beeba2e56da68aa7113aa8518a47dc7c55",
+      "manifest_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-acquisition/mp-MP3-20261020T044550Z.zip.sha256",
+      "manifest_sha256": "171beef4a72fac2d861acefcf84a8b87929bfda23e83f235cb7d16b62c8c33f9",
+      "supplied_line": "bdc2847f7a65df2df0c2bd5dfd9d00beeba2e56da68aa7113aa8518a47dc7c55  mp-MP3-20261020T044550Z.zip",
+      "archive_member": "MP3/pdfs/740e6d15368a653d.pdf",
+      "current_artifact_match": true
+    }
+  ]
+}

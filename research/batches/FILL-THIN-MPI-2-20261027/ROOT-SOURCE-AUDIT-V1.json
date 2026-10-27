@@ -1,0 +1,248 @@
+{
+  "timestamp": "2026-10-27T18:43:09.000871+02:00",
+  "status": "PASS",
+  "scope": "Root original review of exact 20 qualitative additions only; not full-paper scientific approval, new numerical extraction or clinical release",
+  "candidateSha256": "f1bab7a282af427fe047620025c01a3dc7be9d81772e427607f11201e65167cb",
+  "sourcePatchSha256": "de233e137b32252d8c9b63514e65f3a3ba60764115d0d9b5bd5a24546cc3cd81",
+  "indexDeltaSha256": "fd90bd454a1c556e3a8a5e4720565f950f9ec0c155cda6ba388a4902d6e4694a",
+  "gateSha256": "064b65f6a137fe33abecb4f08566618ece1530dc0b5affba0a9dca4382abd89f",
+  "authority": "ELON 18:41 grants A and B after root source PASS",
+  "records": [
+    {
+      "id": "s-44cb9cefe164",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-baby-wipes/Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+      "sourceSha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+      "textPath": "work/conductor-source-review/mpi2/s-44cb9cefe164.txt",
+      "textSha256": "efda3514f72c617ece9f3cd5171ce90e5ddc88605b6978aee9a94105f8fdf3d1",
+      "pages": 12,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        1,
+        2,
+        3
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Unused package-classified wipes air-dried for complementary morphology/IR/thermal composition testing. No measured shedding, infant dose, biodegradation or release; future protocol extensions separate.",
+      "candidateIds": [
+        "s-44cb9cefe164-P1",
+        "s-44cb9cefe164-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-d2f3af1338e5",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-human-biomonitoring/2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+      "sourceSha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+      "textPath": "work/conductor-source-review/mpi2/s-d2f3af1338e5.txt",
+      "textSha256": "7d34f1b0e098c34c1987e3a388d23012dcfe8a45b921c6dc719b1da88a01410a",
+      "pages": 12,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        3,
+        4,
+        8,
+        9
+      ],
+      "visualPagesRead": [
+        4
+      ],
+      "boundedFinding": "Two-phase clinical pilot modified collection after initial controls: washed/core placenta and air fallout. Figure2 confirms PU air contamination and positive negative controls complicate attribution. No prevalence, product route or clinical-effect claim.",
+      "candidateIds": [
+        "s-d2f3af1338e5-P1",
+        "s-d2f3af1338e5-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-bf013e1859f6",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-tea-bags/2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+      "sourceSha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+      "textPath": "work/conductor-source-review/mpi2/s-bf013e1859f6.txt",
+      "textSha256": "b076dc5135d1d96a7734cebd0dc0c9b8a584cb60cc860dddb76159d282922428",
+      "pages": 13,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        3,
+        4,
+        10
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Washed empty cut bag pieces; bulk IR/DSC/TG distinct from DLS/NTA/EPM suspension endpoints. Caco2 MTT viability is not long-term human safety; cellulose distinct from synthetic plastics. Further intake-health study requested.",
+      "candidateIds": [
+        "s-bf013e1859f6-P1",
+        "s-bf013e1859f6-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-70a2257b7f9b",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-infant-food-puree/2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+      "sourceSha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+      "textPath": "work/conductor-source-review/mpi2/s-70a2257b7f9b.txt",
+      "textSha256": "894b0cb2b37716a03ef20c82b54a7074311d99e0682735958211c679b230223f",
+      "pages": 33,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        1,
+        9,
+        22
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Review identity and infant milk/water/formula citation synthesis, not original puree concentration. Future research explicitly notes analytical standardization and animal-to-human limitations. Underlying cited originals not independently reviewed here.",
+      "candidateIds": [
+        "s-70a2257b7f9b-P1",
+        "s-70a2257b7f9b-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-2f979a7f686b",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+      "sourceSha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+      "textPath": "work/conductor-source-review/mpi2/s-2f979a7f686b.txt",
+      "textSha256": "2042c53f9278915aa2120d7d29d7e9a06dc77cc7a12dd4ac60d1e21f9ce8ee0f",
+      "pages": 35,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        2,
+        3,
+        4
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Microscopy count with representative IR confirmation proportion, defined validated size scope, sampling excluded. Field/reagent/fortified blanks address different controls; training and method demonstration required. No all-particle identification or nanoscale capability inferred.",
+      "candidateIds": [
+        "s-2f979a7f686b-P1",
+        "s-2f979a7f686b-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-cb575acb0f42",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-beer/2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+      "sourceSha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+      "textPath": "work/conductor-source-review/mpi2/s-cb575acb0f42.txt",
+      "textSha256": "e65b98f4d17c499411d977a51a7a379225a72734547958ac9d0b0132796e7072",
+      "pages": 9,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        2,
+        3
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Selected SA beverage/packaging comparison; staining and morphology distinct from subset Raman chemical characterization. Intake and contamination indicators use assumed consumption/bodyweight/reference inputs, not clinical outcomes or causal packaging attribution.",
+      "candidateIds": [
+        "s-cb575acb0f42-P1",
+        "s-cb575acb0f42-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-6776e996b5cf",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+      "sourceSha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+      "textPath": "work/conductor-source-review/mpi2/s-6776e996b5cf.txt",
+      "textSha256": "56045866079e71542d39213a3032cab3e32c8b01e0e4f1d4568113a67ac37c26",
+      "pages": 26,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "Initial reagent-container polymer matched honey signals; supply changed. Warm/dilute/digest/density/filter preparation and controls matter. Raman particle/package comparison separate from ATR packaging and GCMS chemical migrants; no extrapolated particle intake/mass adopted.",
+      "candidateIds": [
+        "s-6776e996b5cf-P1",
+        "s-6776e996b5cf-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-b77f33e84d3c",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-household-dust-air/2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+      "sourceSha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+      "textPath": "work/conductor-source-review/mpi2/s-b77f33e84d3c.txt",
+      "textSha256": "bd08b7928da73dcda34135be0d1ec895b3e39444356cadb2509ca6af837e6a8a",
+      "pages": 9,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        2,
+        3,
+        8
+      ],
+      "visualPagesRead": [
+        3
+      ],
+      "boundedFinding": "Vacuum-collected settled dust and residence questionnaire are observational, not inhaled-dose sampling. Selected particles from five sieved fractions for FTIR and optical/SEM morphology; cellulose distinct. Figure/table confirms household rather than controlled exposure categories.",
+      "candidateIds": [
+        "s-b77f33e84d3c-P1",
+        "s-b77f33e84d3c-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "s-6f1a18e62816",
+      "original": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-bottled-drinking-water/2021_Weier_from-the-well-to-the-bottle.pdf",
+      "sourceSha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+      "textPath": "work/conductor-source-review/mpi2/s-6f1a18e62816.txt",
+      "textSha256": "6aafe421ef620ba3ec83d056e3ca6ff1f0b6508b9790a2f24cce2cb1f0a89f10",
+      "pages": 18,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        5,
+        6
+      ],
+      "visualPagesRead": [],
+      "boundedFinding": "FTIR selected filter area and trained model with natural/filter backgrounds; manual correction and extrapolation. Procedural blanks/detection limits separate from recovery and chemical stability. Below-LOD not total absence; performance not universal across sizes/polymers.",
+      "candidateIds": [
+        "s-6f1a18e62816-P1",
+        "s-6f1a18e62816-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    },
+    {
+      "id": "wang-2023-nanoplastic-scenarios",
+      "original": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-mpi-2/private-originals/wang-2023-nanoplastic-scenarios.pdf",
+      "sourceSha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+      "textPath": "work/conductor-source-review/mpi2/wang-2023-nanoplastic-scenarios.txt",
+      "textSha256": "650ad0b84acfe0265460b9c9e68bb5c7410ecc2206003882adfa687b6975fd56",
+      "pages": 11,
+      "actualReading": "NOT_YET_READ",
+      "candidateReview": "PENDING_UNAPPLIED_PROPOSAL",
+      "actualTextPagesRead": [
+        3,
+        4
+      ],
+      "visualPagesRead": [
+        4
+      ],
+      "boundedFinding": "Extensive cleaning/HCl/NaOH/soaking, packaging-contact scenarios and corresponding water controls. Figure2 shows composite heat-sealing films not zip-top bags. Sequential membranes and ultrasound can change dispersion/size; nominal fraction not all final dispersed object sizes, no release quantity or safety conclusion adopted.",
+      "candidateIds": [
+        "wang-2023-nanoplastic-scenarios-P1",
+        "wang-2023-nanoplastic-scenarios-P2"
+      ],
+      "status": "PASS_BOUNDED_QUALITATIVE_ADDITIONS"
+    }
+  ],
+  "textPhysicalPageCountRead": 29,
+  "visualPhysicalPageCountRead": 3,
+  "heldSourcesOnly": true,
+  "fullScientificApproval": false,
+  "clinicalRelease": false,
+  "limitations": [
+    "One original family per pair; page locators are not independent studies",
+    "IR official-host zero-citations analyzer flag remains honest",
+    "Prior MPI1 34 files/ten objects, 29 other objects, 80 claims and all other index fields frozen",
+    "No source PDF, source extract or source figure is to be committed"
+  ]
+}

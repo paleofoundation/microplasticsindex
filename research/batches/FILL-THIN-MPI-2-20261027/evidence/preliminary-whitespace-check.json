@@ -1,0 +1,154 @@
+{
+  "checked_local": "2026-10-27T18:47:02.747838+02:00",
+  "scope": "Before root integration receipt/final receipt/sealing; tracked product and every current untracked packet file checked explicitly",
+  "initial_harness_assertion": "Incorrectly expected exit0 for --no-index added-file diff. Clean REPORT.md comparison returned1 with empty output; not a whitespace defect. Corrected to accept0or1 only with empty diagnostic output. Staged --check must still return0 before commit.",
+  "tracked_product_diff_check": true,
+  "packet_files_currently_checked": 29,
+  "packet_no_index_checks": [
+    {
+      "path": "REPORT.md",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "ROOT-SOURCE-AUDIT-V1.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "ROOT-SOURCE-AUDIT-V2.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "UNAPPLIED-source-findings.patch",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "additions.py",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "build.log",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/ELON-1841-GATE-GO.txt",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/GATE-PROPOSAL.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/MPI1-protected-files.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/UNAPPLIED-before-after.csv",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/UNAPPLIED-prospective-thin-audit.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/UNAPPLIED-scope-check.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/UNAPPLIED-search-index-text-deltas.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/after-local-thin-audit.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/applied-build-scope-check.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/baseline-public-files.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/before-after.csv",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/original-manifest-bindings.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/original-read-scope.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/pr2-pr3-base-readback.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/proposed-additions.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/root-source-label-clarification-check.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/selection.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/source-locations.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "evidence/visual-source-checks.json",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "prepare_proposal.py",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "prospective_audit.py",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "tests.log",
+      "exit_code": 1,
+      "output": ""
+    },
+    {
+      "path": "verify_after_build.py",
+      "exit_code": 1,
+      "output": ""
+    }
+  ]
+}

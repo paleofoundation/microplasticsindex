@@ -1,0 +1,125 @@
+{
+  "scope": "Bounded relevant sections, not exhaustive full-paper or supplement review. Truncated earlier batches are not claimed as full-page reads; exact narrower support noted.",
+  "created_utc": "2026-10-27T16:36:29.237056+00:00",
+  "rows": [
+    {
+      "id": "s-44cb9cefe164",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-baby-wipes/Nacci_2025_wet_wipes_fibres_additives_pyrolysis.pdf",
+      "artifact_sha256": "44cb9cefe1643f6d31795d5d7db50266d8853cea62cb6c4d32a0488e2f586ebc",
+      "extract_sha256": "efda3514f72c617ece9f3cd5171ce90e5ddc88605b6978aee9a94105f8fdf3d1",
+      "pages": [
+        1,
+        2
+      ],
+      "sections": "Abstract and section2.1; bounded composition/preparation only"
+    },
+    {
+      "id": "s-d2f3af1338e5",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-human-biomonitoring/2021_Braun_detection-of-microplastic-in-human-placenta.pdf",
+      "artifact_sha256": "d2f3af1338e50d04ec84f548cecdf8e8ac7da1866d3387726c20089cb23f82cd",
+      "extract_sha256": "7d34f1b0e098c34c1987e3a388d23012dcfe8a45b921c6dc719b1da88a01410a",
+      "pages": [
+        3,
+        4,
+        8,
+        9
+      ],
+      "sections": "Sampling, Figure2 and Discussion contamination reasoning; outputs containing tables partly truncated, no table extraction or numerical claim adopted"
+    },
+    {
+      "id": "s-bf013e1859f6",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-tea-bags/2025_Yaroslavov_evolution-of-microplastics-released-from-tea.pdf",
+      "artifact_sha256": "bf013e1859f67af217acf58e5ae2256274814592a53b3c86999c670f3dd86129",
+      "extract_sha256": "b076dc5135d1d96a7734cebd0dc0c9b8a584cb60cc860dddb76159d282922428",
+      "pages": [
+        3,
+        4,
+        10
+      ],
+      "sections": "Sections2.2-2.4 and Conclusions; no supplementary numerical table adopted"
+    },
+    {
+      "id": "s-70a2257b7f9b",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-infant-food-puree/2025_KadacCzapska_hidden-threats-in-infant-diets-and.pdf",
+      "artifact_sha256": "70a2257b7f9b8fee9c4b838435774d4ffdcffc94cc5716076ea917fafa1df07c",
+      "extract_sha256": "894b0cb2b37716a03ef20c82b54a7074311d99e0682735958211c679b230223f",
+      "pages": [
+        1,
+        9,
+        22
+      ],
+      "sections": "Review identity, infant-food discussion and future-research limitations; no secondary concentrations adopted"
+    },
+    {
+      "id": "s-2f979a7f686b",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/CA-SWRCB_2022_SWB-MP1-rev1_IR-method.pdf",
+      "artifact_sha256": "2f979a7f686b3f13f0775dcfb07e5dee3a6078ef14704c00c1db27393e64309f",
+      "extract_sha256": "2042c53f9278915aa2120d7d29d7e9a06dc77cc7a12dd4ac60d1e21f9ce8ee0f",
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "sections": "Scope, summary and control definitions"
+    },
+    {
+      "id": "s-cb575acb0f42",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-beer/2024_Ramaremisa_occurrence-and-characteristics-of-microplastics-in.pdf",
+      "artifact_sha256": "cb575acb0f421b3f9ecc674e2a2ab5f24e3358c0ac58bc67a7fe1c7db23bc477",
+      "extract_sha256": "e65b98f4d17c499411d977a51a7a379225a72734547958ac9d0b0132796e7072",
+      "pages": [
+        2,
+        3
+      ],
+      "sections": "Sections2.2-2.6; no beverage numerical concentration adopted"
+    },
+    {
+      "id": "s-6776e996b5cf",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-honey/2025_Katsara_microplastic-migration-from-plastic-packaging-into.pdf",
+      "artifact_sha256": "6776e996b5cf6b9bcc3266d5642d92403626eb787a1b5c37c83fa217e42c31aa",
+      "extract_sha256": "56045866079e71542d39213a3032cab3e32c8b01e0e4f1d4568113a67ac37c26",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        22
+      ],
+      "sections": "First4500characters/page slices, including sections2.2-2.6; only stated preparation/control/paradigm used, no extrapolated result adopted"
+    },
+    {
+      "id": "s-b77f33e84d3c",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-household-dust-air/2024_Bai_investigation-of-indoor-microplastics-in-settled.pdf",
+      "artifact_sha256": "b77f33e84d3cf1b9d30472d622a7004d3482b150f4549d5fbad86ac9abd024d3",
+      "extract_sha256": "bd08b7928da73dcda34135be0d1ec895b3e39444356cadb2509ca6af837e6a8a",
+      "pages": [
+        2,
+        3,
+        8
+      ],
+      "sections": "First4500characters/page slices; sampling and selected-particle methods; no aggregate size/region percentage adopted"
+    },
+    {
+      "id": "s-6f1a18e62816",
+      "original_path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-bottled-drinking-water/2021_Weier_from-the-well-to-the-bottle.pdf",
+      "artifact_sha256": "6f1a18e62816b58523a2eb5aea1a62549173db91e4dfa3742383d8ab939ecc58",
+      "extract_sha256": "6aafe421ef620ba3ec83d056e3ca6ff1f0b6508b9790a2f24cce2cb1f0a89f10",
+      "pages": [
+        5,
+        6
+      ],
+      "sections": "FTIR classification and QA/QC; no new numerical results"
+    },
+    {
+      "id": "wang-2023-nanoplastic-scenarios",
+      "original_path": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-mpi-2/private-originals/wang-2023-nanoplastic-scenarios.pdf",
+      "artifact_sha256": "740e6d15368a653d94f19db988eab574c4854be7997fc87e3f192628e2cecdca",
+      "extract_sha256": "650ad0b84acfe0265460b9c9e68bb5c7410ecc2206003882adfa687b6975fd56",
+      "pages": [
+        3,
+        4
+      ],
+      "sections": "Scenario/preparation, membranes and ultrasound; duplicate extraction text present, no size/count derived"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+> microplasticsindex@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ a measurement with a different primary artifact hash cannot pass release checks (225.690125ms)
+✔ candidate extraction cannot silently become a published numeric claim (96.149917ms)
+✔ nested relative links and inherited ops destinations block release (224.586417ms)
+✔ an unfinished regulatory section cannot pass the content checks (222.238208ms)
+✔ a screened PDF cannot silently disappear from the library audit (211.109333ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1073.737791
