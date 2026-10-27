@@ -1,0 +1,102 @@
+[
+  {
+    "id": "s-1255af89193a",
+    "title": "Corrigendum: The presence of microplastics in commercial salts from different countries",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-salt/2017_Karami_correction-corrigendum-the-presence-of-microplastics.pdf",
+    "sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "expected_sha256": "1255af89193a34d1e8fa2ebec1d3b606b072a36f4f1ed76259f6c3c5a644a0e7",
+    "hash_match": true,
+    "pdf_pages": 2,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-1255af89193a.txt"
+  },
+  {
+    "id": "s-324980b0826d",
+    "title": "Analytical methods to measure microplastics in drinking water: Review and evaluation of methods",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/JRC_2024_JRC136859_analytical-methods-MP-drinking-water.pdf",
+    "sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "expected_sha256": "324980b0826d511395d081c55443e6b3cb76a5b82b97542f8d7d3135665b9dc1",
+    "hash_match": true,
+    "pdf_pages": 80,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-324980b0826d.txt"
+  },
+  {
+    "id": "s-f4ab6cdc2d0b",
+    "title": "California microplastics drinking-water policy handbook, supplied August 9 version",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/CA-SWRCB_2022_MP-drinking-water-policy-handbook.pdf",
+    "sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "expected_sha256": "f4ab6cdc2d0b35b2949cdae2a97c2b428ed04d44b1e8d128856f16cd69f1e960",
+    "hash_match": true,
+    "pdf_pages": 26,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-f4ab6cdc2d0b.txt"
+  },
+  {
+    "id": "s-b8033a33708a",
+    "title": "Analysing microplastics in drinking water: Practical considerations",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/JRC_2025_JRC143205_analytical-methodology-MP-drinking-water.pdf",
+    "sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "expected_sha256": "b8033a33708ac2d73be1b49190cfd008268ef3b576049f68c75239c5b7383d20",
+    "hash_match": true,
+    "pdf_pages": 71,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-b8033a33708a.txt"
+  },
+  {
+    "id": "s-a3ddbf43f296",
+    "title": "Development and application of a health-based framework for informing regulatory action in relation to exposure of microplastic particles in California drinking water",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/2022_Coffin_development-and-application-of-a-health.pdf",
+    "sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "expected_sha256": "a3ddbf43f296a4f6b1af0afa3ec662c7a09f8de7c620c0f42a4160135a15e6d8",
+    "hash_match": true,
+    "pdf_pages": 30,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-a3ddbf43f296.txt"
+  },
+  {
+    "id": "s-aa0dd4c46340",
+    "title": "Presence of microplastics and nanoplastics in food, with particular focus on seafood",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/EFSA_2016_microplastics-nanoplastics-in-food-seafood.pdf",
+    "sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "expected_sha256": "aa0dd4c463405e13eef75b675c68227db0776da0211c3ef63f5c640cf96b7372",
+    "hash_match": true,
+    "pdf_pages": 30,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-aa0dd4c46340.txt"
+  },
+  {
+    "id": "s-f59f482c1c39",
+    "title": "Commission Delegated Decision (EU) 2024/1441: methodology to measure microplastics in water intended for human consumption",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/EU_2024_Delegated-Decision_2024-1441_MP-drinking-water-method.pdf",
+    "sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "expected_sha256": "f59f482c1c390f22b026364ae8795d7f49853118fda2589456f46ac92589908a",
+    "hash_match": true,
+    "pdf_pages": 7,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-f59f482c1c39.txt"
+  },
+  {
+    "id": "s-0e7d682e83f6",
+    "title": "Analysis of Microplastics in Takeaway Food Containers in China Using FPA-FTIR Whole Filter Analysis",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/papers-food-packaging-plastic-tubs/2022_Zhou_analysis-of-microplastics-in-takeaway-food.pdf",
+    "sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "expected_sha256": "0e7d682e83f6752782e60ae30f68d3351f9ecc7f8e3ba90c8ea94992b67c0d91",
+    "hash_match": true,
+    "pdf_pages": 10,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-0e7d682e83f6.txt"
+  },
+  {
+    "id": "s-2f1daf6ca78b",
+    "title": "Commission Regulation (EU) 2023/2055: restriction on synthetic polymer microparticles",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/EU_2023_Regulation_2023-2055_synthetic-polymer-microparticles-restriction.pdf",
+    "sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "expected_sha256": "2f1daf6ca78b4f8a3f45551de5ee3c6e575c4250322775b824aa42b50c312594",
+    "hash_match": true,
+    "pdf_pages": 22,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-2f1daf6ca78b.txt"
+  },
+  {
+    "id": "s-5a6c89659a69",
+    "title": "SWB-MP2-rev1: Raman spectroscopy of microplastic particles in drinking water",
+    "path": "/Users/kmfp/Desktop/papers-for-chatgpt/microplastics-library/regulatory-method/CA-SWRCB_2022_SWB-MP2-rev1_Raman-method.pdf",
+    "sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "expected_sha256": "5a6c89659a697ed1a22f0c3c070e1906ba38f3cbcd3f72b5dd0303a80760a9d5",
+    "hash_match": true,
+    "pdf_pages": 35,
+    "text_path": "work/fill-thin-mpi-1/extracts/s-5a6c89659a69.txt"
+  }
+]

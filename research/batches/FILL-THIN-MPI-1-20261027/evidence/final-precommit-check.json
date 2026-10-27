@@ -1,0 +1,17 @@
+{
+  "checked_local": "2026-10-27T18:12:49.048427+02:00",
+  "decision": "PASS scoped final packet checks; waiting root commit review",
+  "git_diff_check": true,
+  "utf8_text_files_checked_for_CR": 27,
+  "CR_files": [],
+  "new_public_findings_em_en_dashes": 0,
+  "new_public_partner_word": 0,
+  "pdf_files_in_packet": 0,
+  "product_diff_numstat": "10\t10\tdata/sources.json",
+  "product_data_sha256": "a6c894d08dd134aac384ea1de0c8268c8994d37d41165d3df9a08e1bff6cae89",
+  "packet_root_source_sha256": "eeaa814e4545286e0e1230bb8b9b6561f30fe69c8245130d71fe8e77ab67636b",
+  "packet_root_integration_sha256": "0b1ef1dd93900cb572a6301a351c91eefffcaa9946ee3bf105504f4dd35cb33b",
+  "source_preview_timeout_not_pass": true,
+  "replacement_mobile_coverage": "Independent root all10 sources /29 locator links, 390x844; root proof bound",
+  "scientific_or_release_approval": false
+}

@@ -1,0 +1,41 @@
+{
+  "checked_local": "2026-10-27T17:53:17.909600+02:00",
+  "scope": "Unchanged main baseline only; source findings proposal remains unapplied",
+  "base": "9eab02843b516c339ea1bfc0c37886edcab91384",
+  "local_url": "http://127.0.0.1:4317",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "home_and_food_storage_document_width_matches_viewport": true,
+  "mobile_table_containers": [
+    {
+      "label": "Container studies from the food-packaging library",
+      "width": 348,
+      "scrollWidth": 770,
+      "keyboard_ArrowRight_scrollLeft_before": 0,
+      "keyboard_ArrowRight_scrollLeft_after": 160
+    },
+    {
+      "label": "Food storage study findings",
+      "width": 348,
+      "scrollWidth": 873
+    }
+  ],
+  "table_End_key_note": "End scrolled the document to its end, not the table horizontally; not used as horizontal-scroll proof. ArrowRight separately produced observed160px internal movement.",
+  "warnings_and_errors_observed": [],
+  "viewport_reset": true,
+  "images": {
+    "baseline-home-desktop.jpg": "0de0380fe9fe9e8ac601dd657bd88e9df6cffebda071df6e960d5dd24bb4128b",
+    "baseline-home-mobile.jpg": "e2062912b4bad72b858e351ef9b15aa95ab86c7174ff63d901b35c4ff82dc5e7",
+    "baseline-food-desktop.jpg": "e1aa9073ae7f585f86c520767b9d4eb80bf0e5bae8cd3ff83f35a82cdbc290cc",
+    "baseline-food-mobile.jpg": "fcca0beec70c75c0b5419e2efab8a55da500cee62431a4a8798316e2c71804f5",
+    "baseline-food-mobile-table.jpg": "ae078744295fa2388d1041eb843bbf3d9f39a3c9f148ae85633d465b2a23b3b2"
+  }
+}

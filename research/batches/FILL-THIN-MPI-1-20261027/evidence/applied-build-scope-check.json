@@ -1,0 +1,125 @@
+{
+  "checked_utc": "2026-10-27T16:04:53.270286+00:00",
+  "state": "PASS scoped integration guards; scientific/release approval pending",
+  "base": "9eab02843b516c339ea1bfc0c37886edcab91384",
+  "source_records": 49,
+  "selected_records_changed": [
+    "s-0e7d682e83f6",
+    "s-5a6c89659a69",
+    "s-f4ab6cdc2d0b",
+    "s-f59f482c1c39",
+    "s-2f1daf6ca78b",
+    "s-324980b0826d",
+    "s-b8033a33708a",
+    "s-aa0dd4c46340",
+    "s-a3ddbf43f296",
+    "s-1255af89193a"
+  ],
+  "unchanged_records": 39,
+  "changed_field_only": "findings",
+  "claims": 80,
+  "claims_bytes_unchanged": true,
+  "protected_PR2": {
+    "content/llms.txt": {
+      "exists": false,
+      "sha256": null
+    },
+    "scripts/build.mjs": {
+      "exists": true,
+      "sha256": "a881b278fa81c36f3ba9c15d47139e5ddc292bbcb567545d1639c53f2c828d8b"
+    },
+    "templates/site.mjs": {
+      "exists": true,
+      "sha256": "4aff52a0313f1d86d1905f8f52db98770914c710b5bd68c9345073bbe130a630"
+    }
+  },
+  "public_files": 85,
+  "changed_public_files": [
+    "search-index.json",
+    "sources/s-b8033a33708a.html",
+    "sources/s-1255af89193a.html",
+    "sources/s-324980b0826d.html",
+    "sources/s-0e7d682e83f6.html",
+    "sources/s-2f1daf6ca78b.html",
+    "sources/s-f59f482c1c39.html",
+    "sources/s-5a6c89659a69.html",
+    "sources/s-a3ddbf43f296.html",
+    "sources/s-f4ab6cdc2d0b.html",
+    "sources/s-aa0dd4c46340.html"
+  ],
+  "all_other_public_files_byte_identical": 74,
+  "index_count": 76,
+  "index_changed_paths": [
+    "/sources/s-0e7d682e83f6",
+    "/sources/s-5a6c89659a69",
+    "/sources/s-f4ab6cdc2d0b",
+    "/sources/s-f59f482c1c39",
+    "/sources/s-2f1daf6ca78b",
+    "/sources/s-324980b0826d",
+    "/sources/s-b8033a33708a",
+    "/sources/s-aa0dd4c46340",
+    "/sources/s-a3ddbf43f296",
+    "/sources/s-1255af89193a"
+  ],
+  "index_changed_field_only": "text",
+  "index_order_metadata_urls_schema_unchanged": true,
+  "index_exact_unapplied_proposal_match": true,
+  "actual_html_matches_prospective_hashes": true,
+  "artifact_hashes_rechecked": true,
+  "analyzer_unchanged": true,
+  "live_effect": false,
+  "remaining_thin": [
+    {
+      "url": "https://microplasticsindex.com/sources/s-1255af89193a",
+      "before_words": 256,
+      "after_words": 386,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_2_citations",
+      "after_reasons": "words<400",
+      "before_citation_links": 2,
+      "after_citation_links": 4,
+      "source_families": 1,
+      "html_sha256": "4b3a320896ebf421d24ac74f20a9f1bb2781f0e8582710c6a4382557946f3596"
+    },
+    {
+      "url": "https://microplasticsindex.com/sources/s-f4ab6cdc2d0b",
+      "before_words": 284,
+      "after_words": 512,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_0_citations",
+      "after_reasons": "claims_with_0_citations",
+      "before_citation_links": 0,
+      "after_citation_links": 0,
+      "source_families": 1,
+      "html_sha256": "613a74aa75d5d657ec41317252b3508f9c5a7a1533c18ceeb12dcf74bd386fa6"
+    },
+    {
+      "url": "https://microplasticsindex.com/sources/s-f59f482c1c39",
+      "before_words": 320,
+      "after_words": 556,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_0_citations",
+      "after_reasons": "claims_with_0_citations",
+      "before_citation_links": 0,
+      "after_citation_links": 0,
+      "source_families": 1,
+      "html_sha256": "202b5a053cf02ff28c54d2179d3b8b219b2beb528b0732c6378c28f16a2a3f19"
+    },
+    {
+      "url": "https://microplasticsindex.com/sources/s-5a6c89659a69",
+      "before_words": 370,
+      "after_words": 612,
+      "before_thin": "yes",
+      "after_thin": "yes",
+      "before_reasons": "words<400;claims_with_0_citations",
+      "after_reasons": "claims_with_0_citations",
+      "before_citation_links": 0,
+      "after_citation_links": 0,
+      "source_families": 1,
+      "html_sha256": "eceea593ac477a18c633d36ba1b4773d623700c61b3fa564268c15e33d27755c"
+    }
+  ]
+}

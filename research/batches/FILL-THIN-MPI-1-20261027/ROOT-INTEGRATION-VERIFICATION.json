@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-10-27T18:08:46.607375+02:00",
+  "decision": "PASS_EXACT_APPLIED_CONTENT_SCOPE_AND_ROOT_UI",
+  "source_receipt_sha256": "eeaa814e4545286e0e1230bb8b9b6561f30fe69c8245130d71fe8e77ab67636b",
+  "independent_assertions": {
+    "all_29_paragraphs_exact_projected_text_url_locator": true,
+    "changed_findings_only": 10,
+    "unchanged_source_objects": 39,
+    "all_80_claims_bytes_unchanged": true,
+    "protected_builder_template_bytes_unchanged": true,
+    "public_file_set_unchanged": 85,
+    "changed_source_html": 10,
+    "other_public_files_byte_identical": 74,
+    "search_index_count_order_metadata_urls_schema_unchanged": 76,
+    "search_text_exact_granted_delta_entries": 10
+  },
+  "root_browser_observed": {
+    "local_url": "http://127.0.0.1:4317",
+    "mobile_source_routes_checked": [
+      "s-0e7d682e83f6",
+      "s-1255af89193a",
+      "s-2f1daf6ca78b",
+      "s-324980b0826d",
+      "s-5a6c89659a69",
+      "s-a3ddbf43f296",
+      "s-aa0dd4c46340",
+      "s-b8033a33708a",
+      "s-f4ab6cdc2d0b",
+      "s-f59f482c1c39"
+    ],
+    "mobile_source_viewport": [
+      390,
+      844
+    ],
+    "all_source_page_scrollwidth": 390,
+    "locator_links_checked": 29,
+    "desktop_source_screenshot": "Zhou1440x1000 visually inspected",
+    "mobile_findings_screenshot": "Zhou390x844 visually inspected paragraph/locator wrapping",
+    "home_mobile_desktop": "Passed DOM width and settled screenshots; transient screenshot taken immediately after viewport resize discarded and rechecked",
+    "food_storage_mobile": "page390/container350/internaltable770 and873; overflow:auto; keyboard ArrowRight moved first internal scrollLeft0->40 without pageoverflow",
+    "food_storage_desktop": "Visual inspected at1440x1000",
+    "console_errors_warnings": [],
+    "viewport_reset": true,
+    "root_owned_tab31_closed": true
+  },
+  "limitations": [
+    "Bounded source support and technical checks only; no scientific, clinical or release approval.",
+    "Four thin flags remain as granted.",
+    "Runner browser timeout on first partial mobile attempt was not treated as PASS; root fresh ten-page checks completed independently.",
+    "No commit or push authorized until complete packet manifest review; no deploy or merge."
+  ]
+}
