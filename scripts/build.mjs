@@ -9,6 +9,7 @@ const all=[];
 await rm('public',{recursive:true,force:true});
 await mkdir('public',{recursive:true});
 await cp('assets','public/assets',{recursive:true});
+await cp('content/llms.txt','public/llms.txt');
 export function resolve(body, page) {
   const refs=[];
   // Claims enter the document before citations are numbered.

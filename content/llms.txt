@@ -1,0 +1,31 @@
+# Microplastics Reference Library
+
+> Source-traceable literature on microplastics in products and ingredients, operated by the Institute of Contaminant Standards. The library connects study-specific findings to the original papers and explains their methods and limitations. Its canonical website is https://microplasticsindex.com.
+
+## Reference sections
+
+- [Products](/products): food-contact and household products.
+- [Ingredients](/ingredients): food and beverage occurrence studies.
+- [Topics](/topics): indoor, wildlife, and human exposure context.
+- [Testing](/testing): methods and measurement context.
+- [Regulations](/regulations): agency material with its source and scope identified.
+- [Sources](/sources): original studies and official agency material supporting the collection.
+
+## Reading the evidence
+
+- [Plastic food storage](/products/plastic-food-storage): tubs, bags, wraps, and containers, with release measurements, methods, and evidence limits.
+- [Editorial and evidence approach](/methodology): source identity, reported values, study-specific interpretation, and evidence gaps.
+
+Category pages are selected literature syntheses, not exhaustive systematic reviews. Keep the material, test conditions, size range, and analytical method with each finding. A measured release under a specific test condition does not, by itself, establish everyday exposure or a health effect. Follow the numbered references to the source records and original papers.
+
+## How to cite
+
+Use the visible "Cite this page" block on the specific reference page, including its title, displayed update date, and canonical URL. The published format is:
+
+Microplastics Reference Library. [Page title]. Updated [displayed date]. [Canonical page URL].
+
+Link to the specific page used. Cite the original paper when discussing its findings and retain its study conditions and limitations.
+
+## Contact and operator
+
+The library is operated by the Institute of Contaminant Standards, a trade name of Paleo Certified, Inc. See [About the library](/about) and the [Institute of Contaminant Standards website](https://contaminantstandards.com).
